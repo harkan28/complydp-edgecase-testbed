@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ComplyDP Edge Case Testbed — Dashboard</title>
+
+    <!-- [Item 29] [EXPECTED: DETECT SYSTEM / VENDOR INTEGRATION: Google Fonts] -->
+    <!-- Exposes client IP / User-Agent to Google via external stylesheet request -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- [Item 28] [EXPECTED: DETECT SYSTEM / VENDOR INTEGRATION: unpkg CDN / Ionicons] -->
+    <!-- External client script loaded from third-party CDN without SRI hash -->
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+
+    <style>
+        body { font-family: 'Inter', sans-serif; background-color: #0f172a; color: #f8fafc; padding: 2rem; }
+        .card { background: #1e293b; border-radius: 12px; padding: 1.5rem; max-width: 600px; margin: auto; }
+        .avatar { border-radius: 50%; width: 64px; height: 64px; }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <!-- [Item 26] [EXPECTED: DETECT DATA EGRESS / PII IN URL] -->
+        <!-- [Item 27] [EXPECTED: DETECT SYSTEM / VENDOR INTEGRATION: UI-Avatars CDN] -->
+        <!-- Transmits raw user display name in GET query string to an external third-party domain -->
+        <img class="avatar" 
+             src="https://ui-avatars.com/api/?name=Demo+User&background=6366f1&color=fff" 
+             alt="User Avatar">
+
+        <!-- [Item 20] [EXPECTED: DETECT POTENTIAL PII: user.name] -->
+        <h2>Welcome back, <span id="user-display-name">Demo User</span></h2>
+        <p>Your portfolio risk level: <span id="risk-score">Moderate</span></p>
+    </div>
+</body>
+</html>

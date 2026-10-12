@@ -1,0 +1,7 @@
+transaction_id,timestamp,sender_name,upi_id,recipient_name,account_number,amount,category
+51de0122-bf9d-4aa5-bea7-73cbd0ae32fd,2024-06-18 13:36:07,Pranay Gopal,2575877412@okaxis,Starbucks,XX9812,450.00,Food & Dining
+170385a7-f8bc-49de-a637-9381e21b26f6,2024-06-09 05:15:54,Pranay Bala,9058370545@okhdfcbank,Uber India,XX1142,320.00,Transportation
+9c2b53dc-67ad-42e7-8e9a-c820ebbff436,2024-06-15 16:52:14,Anika Sabharwal,5259795433@okicici,Apollo Pharmacy,XX4509,1250.00,Healthcare
+31bd906c-d606-4965-9e08-0a39e430c664,2024-06-07 18:30:55,Raunak Sabharwal,9342292431@okybl,Reliance Fresh,XX6721,890.00,Groceries
+447f9494-6c45-4682-b63f-9224f98c2d86,2024-06-16 16:23:37,Pranay Sharma,6565949315@okybl,BookMyShow,XX3398,500.00,Entertainment
+12750876-87d5-4213-b492-702c37954e95,2024-07-02 09:36:42,Pooja Sabharwal,8638900360@okicici,Zara Fashion,XX8812,3499.00,Shopping

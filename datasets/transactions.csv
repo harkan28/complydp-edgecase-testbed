@@ -1,0 +1,1001 @@
+transaction_id,timestamp,sender_name,sender_email,sender_phone,upi_id,recipient_name,account_number,ifsc_code,amount,category
+a3ee4c19-8f9a-4b65-813b-53685cdbb054,2024-06-01 08:55:00,Amit Kulkarni,amit.kulkarni631@gmail.com,+91 9696979222,amit.kulkarni@paytm,Swiggy Delivery,XX6023,UTIB0002839,8232.09,Food & Dining
+c351c6e1-dd48-47b4-92ef-45f2308f1aa4,2024-06-01 09:39:00,Harsh Sneha Kulkarni,harsh.kulkarni754@gmail.com,+91 9728349768,harsh.kulkarni@okicici,Swiggy Delivery,XX3644,KKBK0005667,15171.28,Food & Dining
+86fe0cc6-cefc-44e4-984f-9ad0bb4529ff,2024-06-01 10:14:00,Suresh Swati Mishra,suresh.mishra292@gmail.com,+91 9825348318,suresh.mishra@paytm,Swiggy Delivery,XX9737,UTIB0005358,14432.65,Food & Dining
+dc19fb48-132e-4f14-853a-b6036566a379,2024-06-01 10:55:00,Meera Banerjee,meera.banerjee280@gmail.com,+91 7027933045,meera.banerjee@ybl,Reliance Fresh,XX4022,HDFC0004592,2573.09,Groceries
+5411c358-db47-46b4-a787-0f3735291dfa,2024-06-01 11:39:00,Suresh Ananya Bose,suresh.bose956@gmail.com,+91 9849045119,suresh.bose@paytm,Starbucks India,XX6287,ICIC0004087,4300.64,Food & Dining
+51822ced-de19-48ba-8d58-b5ff293411af,2024-06-01 12:31:00,Alok Meera Joshi,alok.joshi648@gmail.com,+91 8821237842,alok.joshi@okicici,Apollo Pharmacy,XX4762,SBIN0003330,6418.89,Healthcare
+285e6ff6-e151-4b28-aab9-eee38390cf3f,2024-06-01 13:09:00,Arjun Pranav Pillai,arjun.pillai838@gmail.com,+91 9623126013,arjun.pillai@okhdfcbank,Reliance Fresh,XX8696,UTIB0003406,16554.86,Groceries
+d38298fa-1675-4114-8217-4113d2b97fed,2024-06-01 14:02:00,Ritu Sneha Ghosh,ritu.ghosh744@gmail.com,+91 8886262990,ritu.ghosh@okhdfcbank,Zomato Online,XX0201,ICIC0001501,6842.39,Food & Dining
+2c063056-530f-4b8b-aebb-6173ddba956e,2024-06-01 14:39:00,Swati Trivedi,swati.trivedi759@gmail.com,+91 9749449705,swati.trivedi@oksbi,Zomato Online,XX1397,HDFC0009083,3402.55,Food & Dining
+9d1861bd-85be-4aec-82e4-23e01b7ed81b,2024-06-01 15:22:00,Bhavna Rao,bhavna.rao723@gmail.com,+91 8892935461,bhavna.rao@apl,Zara Fashion,XX5028,ICIC0001358,14867.77,Shopping
+a16cc5cf-02bc-4e9d-a919-a4149f82806d,2024-06-01 16:02:00,Vikram Rohan Nair,vikram.nair767@gmail.com,+91 8834628726,vikram.nair@apl,Airtel Broadband,XX2087,HDFC0001486,11590.17,Utilities
+7300becc-2d8c-4d61-952b-768c73804b42,2024-06-01 16:38:00,Ashok Singh,ashok.singh138@gmail.com,+91 9114068140,ashok.singh@oksbi,Apollo Pharmacy,XX6382,UTIB0006423,9530.80,Healthcare
+8c38a52d-4508-4a3d-877a-62e413643fa2,2024-06-01 17:30:00,Ashok Nikhil Sharma,ashok.sharma914@gmail.com,+91 9885731046,ashok.sharma@okhdfcbank,Amazon Pay India,XX8735,SBIN0009191,717.57,Shopping
+61e20a69-4f91-4a48-bea3-8dcfc238f62c,2024-06-01 18:09:00,Gaurav Pranav Joshi,gaurav.joshi990@gmail.com,+91 9694736341,gaurav.joshi@ybl,Reliance Fresh,XX2641,UTIB0002805,11834.76,Groceries
+7ea998bc-30cc-43c8-a90d-0f441f01fa89,2024-06-01 18:55:00,Aarti Gokhale,aarti.gokhale685@gmail.com,+91 9139329069,aarti.gokhale@apl,BookMyShow,XX8057,HDFC0004980,4043.46,Entertainment
+fbaa6a82-4a3c-4be5-a67a-6fe3e9ab48de,2024-06-01 19:47:00,Amit Rahul Pillai,amit.pillai706@gmail.com,+91 9176801015,amit.pillai@okicici,Zara Fashion,XX2537,ICIC0008898,17919.83,Shopping
+15a02e80-e792-43c2-abe0-f0d6eefafb8c,2024-06-01 20:19:00,Rajesh Verma,rajesh.verma647@gmail.com,+91 9760737308,rajesh.verma@okicici,Zara Fashion,XX8103,KKBK0007307,2960.26,Shopping
+ec03057b-5079-41c4-ad64-f49b2031b532,2024-06-01 21:01:00,Rajesh Manoj Patel,rajesh.patel263@gmail.com,+91 9619414613,rajesh.patel@oksbi,MakeMyTrip Travels,XX7271,KKBK0007874,11727.64,Travel
+0cd01695-d6a7-40f1-b141-820ed0da6e2f,2024-06-01 21:54:00,Rajesh Rajesh Deshmukh,rajesh.deshmukh979@gmail.com,+91 9771434761,rajesh.deshmukh@apl,Swiggy Delivery,XX3043,ICIC0004519,6543.11,Food & Dining
+8d0f567e-0b3b-44fa-ac9e-843f5c9b5789,2024-06-01 22:25:00,Harsh Gupta,harsh.gupta145@gmail.com,+91 8815519702,harsh.gupta@ybl,BookMyShow,XX0600,UTIB0006198,17120.64,Entertainment
+880b653a-675c-4137-9158-b7ec44bceaeb,2024-06-01 23:05:00,Pooja Verma,pooja.verma233@gmail.com,+91 9745496712,pooja.verma@okicici,Flipkart Internet,XX8317,KKBK0001660,5155.43,Shopping
+b69cdfc2-c3d9-4e34-99d1-f176c877616f,2024-06-01 23:58:00,Rajesh Reddy,rajesh.reddy973@gmail.com,+91 9182558971,rajesh.reddy@ybl,Zara Fashion,XX6612,KKBK0003749,1934.48,Shopping
+a2e12b33-6bd1-4d36-bc6b-7027b2d2bae2,2024-06-02 00:37:00,Meera Banerjee,meera.banerjee280@gmail.com,+91 7027933045,meera.banerjee@ybl,Cult.Fit Gym,XX4022,HDFC0004592,16263.78,Healthcare
+881d2016-3800-4d27-9459-ef181c873abd,2024-06-02 01:20:00,Tanvi Mishra,tanvi.mishra243@gmail.com,+91 9673488837,tanvi.mishra@oksbi,BookMyShow,XX5997,UTIB0009070,17705.53,Entertainment
+1f0e945b-8343-432e-9dbd-8528091ef0f5,2024-06-02 02:09:00,Sunita Ritu Hegde,sunita.hegde402@gmail.com,+91 9772527521,sunita.hegde@okicici,Amazon Pay India,XX7938,SBIN0008724,7087.96,Shopping
+dec631d8-6d7e-4401-bb93-6b1aea23421e,2024-06-02 02:41:00,Meera Swati Joshi,meera.joshi680@gmail.com,+91 9159361190,meera.joshi@okhdfcbank,Cult.Fit Gym,XX6935,SBIN0009040,3656.70,Healthcare
+25fef566-943b-42f8-9286-34544add2bbb,2024-06-02 03:39:00,Suresh Agarwal,suresh.agarwal743@gmail.com,+91 9191979277,suresh.agarwal@okhdfcbank,HP Petrol Pump,XX7627,UTIB0004526,10235.00,Transportation
+f23e8aa7-d2ac-4f1a-941c-5e5de09c786f,2024-06-02 04:19:00,Nikhil Pranav Chopra,nikhil.chopra561@gmail.com,+91 9726229908,nikhil.chopra@apl,Zomato Online,XX8927,KKBK0005285,12217.07,Food & Dining
+197ce49f-d832-4586-96ee-6f3e223c25e7,2024-06-02 04:53:00,Amit Chopra,amit.chopra567@gmail.com,+91 9135688312,amit.chopra@apl,Starbucks India,XX1979,ICIC0002207,11676.83,Food & Dining
+d1e547e6-f829-4965-ad77-2ea2b6d58263,2024-06-02 05:42:00,Suresh Pandey,suresh.pandey723@gmail.com,+91 9858315061,suresh.pandey@okicici,Cult.Fit Gym,XX5170,KKBK0009818,12390.66,Healthcare
+6bae0d78-de5e-49f4-a78b-551efab3eab2,2024-06-02 06:33:00,Priya Banerjee,priya.banerjee422@gmail.com,+91 9898551723,priya.banerjee@okhdfcbank,Tata Power,XX2365,HDFC0001207,10117.01,Utilities
+3159b38c-879a-4bd8-9c66-1f25472d3041,2024-06-02 06:57:00,Harsh Verma,harsh.verma744@gmail.com,+91 7015601496,harsh.verma@apl,Tata Power,XX0914,ICIC0004008,14413.91,Utilities
+cd4ffac7-d410-4b80-9dc7-bbaccebbd691,2024-06-02 07:43:00,Bhavna Aarti Hegde,bhavna.hegde532@gmail.com,+91 9127120235,bhavna.hegde@apl,Uber India,XX8239,KKBK0005623,1427.46,Transportation
+81ad7ab5-a38d-4e82-8b0c-914f0693b64e,2024-06-02 08:33:00,Meera Banerjee,meera.banerjee280@gmail.com,+91 7027933045,meera.banerjee@ybl,Tata Power,XX4022,HDFC0004592,15645.93,Utilities
+03d4fb55-2a2c-4ec6-9325-30f7b23ffe98,2024-06-02 09:23:00,Pranav Hegde,pranav.hegde540@gmail.com,+91 9689443352,pranav.hegde@oksbi,Apollo Pharmacy,XX1557,SBIN0001355,6257.47,Healthcare
+edc8630a-4c2a-4127-986e-bd7d06b1a2dc,2024-06-02 10:07:00,Nikhil Meera Pillai,nikhil.pillai721@gmail.com,+91 9869084673,nikhil.pillai@okicici,MakeMyTrip Travels,XX2853,ICIC0006264,4291.52,Travel
+5b0332cf-be44-476a-b30a-fa312c072427,2024-06-02 10:49:00,Bhavna Sanjay Pillai,bhavna.pillai996@gmail.com,+91 9891613688,bhavna.pillai@okaxis,Starbucks India,XX9567,UTIB0005179,2953.13,Food & Dining
+f5d45c20-e92a-4801-98fd-06d114b066b8,2024-06-02 11:33:00,Shreya Gaurav Mehta,shreya.mehta154@gmail.com,+91 9763339667,shreya.mehta@ybl,Zomato Online,XX5912,KKBK0007038,1366.77,Food & Dining
+aff94724-2d1d-4476-91be-a1cca3372060,2024-06-02 12:13:00,Sneha Priya Kulkarni,sneha.kulkarni714@gmail.com,+91 9154372866,sneha.kulkarni@okhdfcbank,HP Petrol Pump,XX6616,KKBK0003443,18194.70,Transportation
+5da53aef-6cd7-4f8c-bcf2-77f08218172f,2024-06-02 12:58:00,Amit Kavita Rao,amit.rao972@gmail.com,+91 9885949228,amit.rao@okhdfcbank,Tata Power,XX0584,KKBK0004253,17186.12,Utilities
+143c1fbe-9792-45d8-af16-6a7429273a20,2024-06-02 13:33:00,Amit Karan Gokhale,amit.gokhale657@gmail.com,+91 9781291458,amit.gokhale@paytm,Zomato Online,XX3450,SBIN0002557,6275.42,Food & Dining
+a7107c11-0a09-4b17-92d3-36750ad89e3a,2024-06-02 14:22:00,Bhavna Rao,bhavna.rao723@gmail.com,+91 8892935461,bhavna.rao@apl,BookMyShow,XX5028,ICIC0001358,11714.24,Entertainment
+5fe6d6e7-fcca-49b9-bf67-e41df9c72a2d,2024-06-02 15:04:00,Sanjay Sunita Trivedi,sanjay.trivedi893@gmail.com,+91 9867550857,sanjay.trivedi@paytm,Reliance Fresh,XX5331,UTIB0006250,3157.93,Groceries
+92f4b153-5758-438b-b714-30969313cae7,2024-06-02 15:40:00,Manoj Pillai,manoj.pillai734@gmail.com,+91 9646446760,manoj.pillai@okaxis,HP Petrol Pump,XX0848,HDFC0009340,1195.31,Transportation
+6e616e22-333c-4916-b55f-f0b24b2817f6,2024-06-02 16:17:00,Suresh Bose,suresh.bose459@gmail.com,+91 9189157655,suresh.bose@okhdfcbank,Reliance Fresh,XX7531,ICIC0006387,7795.95,Groceries
+61f2690f-2da5-4c30-9388-bbe7033f2b4f,2024-06-02 17:11:00,Manoj Meera Mehta,manoj.mehta983@gmail.com,+91 9756230062,manoj.mehta@okhdfcbank,HP Petrol Pump,XX8597,KKBK0006439,16819.23,Transportation
+935f4184-6776-4cea-b31a-e74281156382,2024-06-02 17:43:00,Deepa Suresh Pillai,deepa.pillai500@gmail.com,+91 9742723471,deepa.pillai@okhdfcbank,Swiggy Delivery,XX2530,HDFC0005861,2921.34,Food & Dining
+e7dc420e-3aee-4a87-acc8-8bcd8bc0d197,2024-06-02 18:33:00,Pooja Deshmukh,pooja.deshmukh462@gmail.com,+91 8815509893,pooja.deshmukh@okicici,Zomato Online,XX5109,HDFC0003502,12350.00,Food & Dining
+861ba019-068d-4bc2-b952-e7f6d7523647,2024-06-02 19:10:00,Rahul Ghosh,rahul.ghosh951@gmail.com,+91 9816171988,rahul.ghosh@ybl,Flipkart Internet,XX3616,ICIC0009426,8790.65,Shopping
+465876dc-0685-4596-9b70-c712e301e6e9,2024-06-02 19:56:00,Aarti Nikhil Nair,aarti.nair881@gmail.com,+91 9110821534,aarti.nair@okicici,Airtel Broadband,XX3328,UTIB0006539,12898.76,Utilities
+5af780dd-02ab-499b-a28f-a6ffce946515,2024-06-02 20:35:00,Ananya Bhavna Verma,ananya.verma915@gmail.com,+91 8818629601,ananya.verma@okicici,Uber India,XX6262,UTIB0007855,14080.98,Transportation
+d6d23580-b65e-4b30-af62-f08e362fc734,2024-06-02 21:19:00,Sneha Dubey,sneha.dubey987@gmail.com,+91 9629026954,sneha.dubey@apl,Starbucks India,XX5995,KKBK0004937,13050.44,Food & Dining
+bd2c77ee-9028-4ce5-8314-787de3e698e5,2024-06-02 22:07:00,Swati Nair,swati.nair669@gmail.com,+91 8845541143,swati.nair@okicici,Flipkart Internet,XX1590,SBIN0007145,3188.20,Shopping
+5e79fa70-9886-4506-8e3c-2b92d3066134,2024-06-02 22:45:00,Harsh Bhat,harsh.bhat409@gmail.com,+91 9794411845,harsh.bhat@okhdfcbank,Zara Fashion,XX2668,SBIN0001664,2881.04,Shopping
+b6f7f2ba-1c89-4652-aa9f-7e3751529cf4,2024-06-02 23:43:00,Tanvi Tanvi Pillai,tanvi.pillai913@gmail.com,+91 9821872853,tanvi.pillai@ybl,Amazon Pay India,XX9656,SBIN0006628,4045.17,Shopping
+4c2e157f-185f-4fe3-8250-4e6391fd08c8,2024-06-03 00:16:00,Sunita Sanjay Verma,sunita.verma143@gmail.com,+91 8882381739,sunita.verma@apl,HP Petrol Pump,XX6307,KKBK0008899,4218.61,Transportation
+1be59f92-678e-4e86-833f-33d479adcfe1,2024-06-03 00:58:00,Aarti Gokhale,aarti.gokhale685@gmail.com,+91 9139329069,aarti.gokhale@apl,Reliance Fresh,XX8057,HDFC0004980,17245.92,Groceries
+e995a69e-db71-4bea-a651-39285eab4061,2024-06-03 01:40:00,Sunita Sneha Bose,sunita.bose503@gmail.com,+91 9828174100,sunita.bose@apl,Apollo Pharmacy,XX9350,ICIC0006786,7608.87,Healthcare
+8960bf6f-a9d8-4c97-9aa5-eae492ad1ddb,2024-06-03 02:26:00,Bhavna Pooja Malhotra,bhavna.malhotra367@gmail.com,+91 9149631241,bhavna.malhotra@ybl,Apollo Pharmacy,XX2723,SBIN0005683,271.94,Healthcare
+4b8463c9-24da-408e-a3e4-1fb89d6e2811,2024-06-03 03:04:00,Manoj Deshmukh,manoj.deshmukh212@gmail.com,+91 7069516344,manoj.deshmukh@okaxis,Flipkart Internet,XX5564,HDFC0001829,15199.26,Shopping
+e91669c9-a2c6-4807-a6ba-33070981ca86,2024-06-03 03:49:00,Pranav Dubey,pranav.dubey990@gmail.com,+91 7034467753,pranav.dubey@okhdfcbank,Flipkart Internet,XX9604,KKBK0008514,6750.42,Shopping
+dcf6452f-7f16-455a-9dd4-3d770c9a11b3,2024-06-03 04:35:00,Pooja Pillai,pooja.pillai228@gmail.com,+91 9894715069,pooja.pillai@oksbi,BookMyShow,XX5591,KKBK0001580,17986.16,Entertainment
+75b91142-8815-4087-ab3a-78874b89ad3e,2024-06-03 05:16:00,Priya Gaurav Mishra,priya.mishra933@gmail.com,+91 9155888749,priya.mishra@okaxis,HP Petrol Pump,XX5382,SBIN0007101,14197.70,Transportation
+26af841d-2b02-4f35-9195-3cf4d97f30ee,2024-06-03 05:59:00,Arjun Shreya Trivedi,arjun.trivedi212@gmail.com,+91 9829816772,arjun.trivedi@okhdfcbank,Cult.Fit Gym,XX2704,KKBK0004834,7442.03,Healthcare
+67b1d2c6-0f11-4b4c-ac08-f8ebaca27cab,2024-06-03 06:50:00,Arjun Ashok Gokhale,arjun.gokhale607@gmail.com,+91 8858293648,arjun.gokhale@okhdfcbank,Starbucks India,XX4431,ICIC0007891,7929.20,Food & Dining
+5cc3708b-97a6-4cae-bca0-433938a04576,2024-06-03 07:35:00,Sanjay Rahul Banerjee,sanjay.banerjee578@gmail.com,+91 8826979775,sanjay.banerjee@okaxis,Amazon Pay India,XX9254,ICIC0003232,405.62,Shopping
+e8766b3e-1db9-4322-8ef1-55f43c418808,2024-06-03 08:21:00,Bhavna Shetty,bhavna.shetty542@gmail.com,+91 7030790547,bhavna.shetty@okaxis,Flipkart Internet,XX0316,UTIB0004823,12632.77,Shopping
+f50f78b7-f732-47d3-953e-fc6f9323f3a2,2024-06-03 08:58:00,Meera Rahul Iyer,meera.iyer479@gmail.com,+91 9817584120,meera.iyer@apl,Flipkart Internet,XX3935,SBIN0002417,425.60,Shopping
+14414d7d-2fcc-49c6-857e-1143502bb06d,2024-06-03 09:37:00,Sanjay Vikram Deshmukh,sanjay.deshmukh835@gmail.com,+91 9116446622,sanjay.deshmukh@apl,Cult.Fit Gym,XX0353,HDFC0006358,17849.11,Healthcare
+cf6c527f-f61c-4634-8974-4c2de346091a,2024-06-03 10:28:00,Arjun Alok Dubey,arjun.dubey758@gmail.com,+91 7098058046,arjun.dubey@paytm,Starbucks India,XX0519,ICIC0005512,11719.73,Food & Dining
+fac4646b-1f16-4d0f-bf36-d5c5b1036e68,2024-06-03 11:08:00,Bhavna Swati Malhotra,bhavna.malhotra112@gmail.com,+91 9612277453,bhavna.malhotra@paytm,Cult.Fit Gym,XX1250,HDFC0002599,17556.43,Healthcare
+e81abe1d-5690-4e1f-8289-7875b0da025c,2024-06-03 11:37:00,Pooja Malhotra,pooja.malhotra200@gmail.com,+91 7073323698,pooja.malhotra@ybl,Uber India,XX9702,ICIC0003505,756.27,Transportation
+5fb0b486-a098-43a9-a7d0-078eaa671359,2024-06-03 12:35:00,Ananya Trivedi,ananya.trivedi927@gmail.com,+91 7045392913,ananya.trivedi@ybl,Zara Fashion,XX5005,ICIC0006201,10354.72,Shopping
+db579f6e-46ef-41a9-ba3a-f55e823c5fdd,2024-06-03 13:16:00,Nikhil Nikhil Nair,nikhil.nair364@gmail.com,+91 9125904323,nikhil.nair@ybl,MakeMyTrip Travels,XX3632,KKBK0007999,17069.06,Travel
+ddf861c6-d024-4f72-a35e-3787a3d1e93a,2024-06-03 14:01:00,Rajesh Rohan Verma,rajesh.verma915@gmail.com,+91 9779074008,rajesh.verma@ybl,Airtel Broadband,XX4890,HDFC0009662,10119.08,Utilities
+2c51ed66-aba0-4fcc-a7cd-109bcedeebd8,2024-06-03 14:42:00,Manoj Pillai,manoj.pillai734@gmail.com,+91 9646446760,manoj.pillai@okaxis,Uber India,XX0848,HDFC0009340,5254.22,Transportation
+0d8b3d81-d3cc-41eb-9887-d3969361f35c,2024-06-03 15:21:00,Ashok Aarti Dubey,ashok.dubey903@gmail.com,+91 9637753358,ashok.dubey@paytm,Apollo Pharmacy,XX3769,HDFC0009071,14753.02,Healthcare
+8fad8c56-c8f4-42f4-a8f3-243f1b7e5a13,2024-06-03 16:11:00,Rohan Pranav Kulkarni,rohan.kulkarni67@gmail.com,+91 9191503627,rohan.kulkarni@okicici,Reliance Fresh,XX4139,HDFC0003594,17035.13,Groceries
+32f38f86-d28c-4e9e-a0f8-7cf51ab6293c,2024-06-03 16:50:00,Neha Pillai,neha.pillai738@gmail.com,+91 9636908178,neha.pillai@okaxis,Cult.Fit Gym,XX6822,UTIB0009545,6198.03,Healthcare
+725282d0-2fe8-41d1-8b9d-1fff9619c02d,2024-06-03 17:36:00,Suresh Sunita Singh,suresh.singh13@gmail.com,+91 9126835130,suresh.singh@paytm,Swiggy Delivery,XX6268,KKBK0005521,16852.21,Food & Dining
+2e846880-a024-4671-ac86-4fdb346ca7be,2024-06-03 18:16:00,Ashok Bhat,ashok.bhat973@gmail.com,+91 8848365712,ashok.bhat@okaxis,MakeMyTrip Travels,XX8667,UTIB0001720,4042.01,Travel
+6120f6e9-974f-4a8f-be52-2c81e97399d1,2024-06-03 19:04:00,Nikhil Shreya Malhotra,nikhil.malhotra723@gmail.com,+91 9146059690,nikhil.malhotra@oksbi,Apollo Pharmacy,XX2658,ICIC0006736,8412.86,Healthcare
+7d2e0a81-ec4d-4473-9c03-4e78bfd375d4,2024-06-03 19:41:00,Aarti Meera Gokhale,aarti.gokhale334@gmail.com,+91 9156029251,aarti.gokhale@oksbi,Flipkart Internet,XX3411,ICIC0007912,15527.07,Shopping
+84aacdf0-87f7-4660-b142-e764613ca9cd,2024-06-03 20:16:00,Arjun Sneha Kulkarni,arjun.kulkarni286@gmail.com,+91 9740745424,arjun.kulkarni@paytm,Reliance Fresh,XX5966,UTIB0009522,14695.74,Groceries
+a04a9a2b-9995-422c-9e53-5ed63a32d8f5,2024-06-03 21:01:00,Manoj Sanjay Gokhale,manoj.gokhale358@gmail.com,+91 9649607302,manoj.gokhale@okhdfcbank,Cult.Fit Gym,XX9979,HDFC0007544,12513.08,Healthcare
+b25af567-877d-44c1-89f8-6c73f9ae9f16,2024-06-03 21:45:00,Harsh Mehta,harsh.mehta460@gmail.com,+91 9616281117,harsh.mehta@okhdfcbank,Uber India,XX4386,KKBK0009218,1442.65,Transportation
+70c0cc1d-7133-4505-8aad-2e3feceaf106,2024-06-03 22:39:00,Karan Kavita Pillai,karan.pillai38@gmail.com,+91 9783108701,karan.pillai@oksbi,Reliance Fresh,XX2561,ICIC0002346,7063.60,Groceries
+7dc88146-6131-4394-bb50-8c8e5766bedc,2024-06-03 23:23:00,Arjun Dubey,arjun.dubey859@gmail.com,+91 9639009803,arjun.dubey@apl,Zomato Online,XX6406,HDFC0001408,2973.81,Food & Dining
+047a989b-35aa-42a2-8575-600435b80a95,2024-06-03 23:57:00,Arjun Shreya Trivedi,arjun.trivedi212@gmail.com,+91 9829816772,arjun.trivedi@okhdfcbank,Zomato Online,XX2704,KKBK0004834,17793.89,Food & Dining
+fb20d91b-a838-4810-9880-afee17da82b9,2024-06-04 00:35:00,Alok Joshi,alok.joshi580@gmail.com,+91 9816817355,alok.joshi@oksbi,MakeMyTrip Travels,XX6440,KKBK0007373,3005.89,Travel
+c6058a2d-e2d2-4261-adc7-ee0764adece3,2024-06-04 01:18:00,Swati Priya Patel,swati.patel898@gmail.com,+91 9683890104,swati.patel@okhdfcbank,Apollo Pharmacy,XX6973,ICIC0002897,6105.56,Healthcare
+af56c7db-06c7-4cc2-bd41-98a234a0d985,2024-06-04 02:04:00,Pranav Karan Joshi,pranav.joshi392@gmail.com,+91 9715601498,pranav.joshi@oksbi,Swiggy Delivery,XX5257,ICIC0008945,11476.51,Food & Dining
+9ff79b3b-7b93-49fe-9e82-491f68d3c60c,2024-06-04 02:46:00,Bhavna Sharma,bhavna.sharma526@gmail.com,+91 9743622504,bhavna.sharma@okhdfcbank,Airtel Broadband,XX7153,SBIN0001402,14009.73,Utilities
+d60a10e6-932c-4da1-8084-55177c53c508,2024-06-04 03:42:00,Vikram Gokhale,vikram.gokhale735@gmail.com,+91 9660598239,vikram.gokhale@paytm,MakeMyTrip Travels,XX0902,KKBK0009441,12895.90,Travel
+5e7ef594-36d0-48bd-b1a6-eb5ca748ed37,2024-06-04 04:24:00,Neha Gupta,neha.gupta82@gmail.com,+91 9851045554,neha.gupta@okhdfcbank,Swiggy Delivery,XX7027,KKBK0004944,1965.98,Food & Dining
+1cfe4c85-4934-4632-a364-83bd30a7f22e,2024-06-04 05:07:00,Rajesh Rohan Verma,rajesh.verma915@gmail.com,+91 9779074008,rajesh.verma@ybl,Swiggy Delivery,XX4890,HDFC0009662,7318.36,Food & Dining
+3523a1be-cbab-4ea6-ac02-fd4cdebc96e0,2024-06-04 05:32:00,Arjun Sneha Pillai,arjun.pillai700@gmail.com,+91 9834258512,arjun.pillai@okicici,Reliance Fresh,XX7696,UTIB0008241,3427.98,Groceries
+1644873b-53ad-44bd-8064-11f68f5a3080,2024-06-04 06:25:00,Rohan Gupta,rohan.gupta725@gmail.com,+91 7023384614,rohan.gupta@apl,Uber India,XX0072,ICIC0001451,14106.48,Transportation
+85052e3f-6928-49fb-8d03-32fbccb8f47d,2024-06-04 07:06:00,Sneha Shreya Chopra,sneha.chopra754@gmail.com,+91 7052571160,sneha.chopra@okaxis,HP Petrol Pump,XX9183,KKBK0001610,15115.08,Transportation
+9d350f3a-1cf6-446b-9801-f387137b294b,2024-06-04 07:55:00,Rahul Rao,rahul.rao130@gmail.com,+91 9815319529,rahul.rao@okaxis,Swiggy Delivery,XX4325,ICIC0007518,12782.80,Food & Dining
+d5a96d7c-2b28-4eab-98ec-e3d740c762ff,2024-06-04 08:33:00,Shreya Aarti Joshi,shreya.joshi830@gmail.com,+91 9722082719,shreya.joshi@oksbi,HP Petrol Pump,XX3871,KKBK0001287,8408.86,Transportation
+59582725-8df5-4c41-825a-cbce4005f6e5,2024-06-04 09:19:00,Kavita Ritu Bhat,kavita.bhat321@gmail.com,+91 9723437152,kavita.bhat@ybl,Amazon Pay India,XX4220,HDFC0005370,9235.90,Shopping
+7e9b2b43-ad6f-481c-b547-f60b6233a15f,2024-06-04 10:08:00,Gaurav Dubey,gaurav.dubey404@gmail.com,+91 9191932058,gaurav.dubey@okicici,Swiggy Delivery,XX6673,UTIB0002631,12317.97,Food & Dining
+086e97f3-c17a-4bd0-b9b6-f4d612959096,2024-06-04 10:44:00,Sanjay Manoj Reddy,sanjay.reddy705@gmail.com,+91 8875317756,sanjay.reddy@paytm,HP Petrol Pump,XX4617,ICIC0003647,11833.94,Transportation
+79bb510d-e267-475e-bd74-f7e364227dfe,2024-06-04 11:33:00,Ritu Shah,ritu.shah894@gmail.com,+91 8862390577,ritu.shah@okhdfcbank,Airtel Broadband,XX9442,SBIN0003723,4680.61,Utilities
+d2ad3c94-22bb-4032-aadb-307b89ddf827,2024-06-04 12:18:00,Vikram Ananya Menon,vikram.menon578@gmail.com,+91 9882044602,vikram.menon@ybl,Starbucks India,XX2137,KKBK0008765,14659.73,Food & Dining
+66199bc7-14a4-4365-90ec-dfa2fd304d64,2024-06-04 12:43:00,Rajesh Reddy,rajesh.reddy973@gmail.com,+91 9182558971,rajesh.reddy@ybl,Tata Power,XX6612,KKBK0003749,10213.84,Utilities
+4525c265-7fd0-4dce-a2a6-bb5d903d5bea,2024-06-04 13:26:00,Arjun Dubey,arjun.dubey256@gmail.com,+91 9615138704,arjun.dubey@apl,Zara Fashion,XX5071,SBIN0003332,12318.59,Shopping
+e5e74a89-44d3-4f10-8c06-b84d0aabaae7,2024-06-04 14:09:00,Harsh Menon,harsh.menon84@gmail.com,+91 9631759933,harsh.menon@okhdfcbank,BookMyShow,XX0420,SBIN0007973,15101.98,Entertainment
+466497cf-dd38-43c8-a06a-417667aca24a,2024-06-04 15:02:00,Nikhil Shetty,nikhil.shetty484@gmail.com,+91 7030692256,nikhil.shetty@okhdfcbank,Airtel Broadband,XX2642,SBIN0007176,12060.53,Utilities
+9251f0df-ab2b-405f-9bc3-bb5a7bc382e0,2024-06-04 15:47:00,Priya Singh,priya.singh283@gmail.com,+91 9129074864,priya.singh@ybl,Apollo Pharmacy,XX4660,UTIB0002248,17693.20,Healthcare
+9bc41db6-e6a7-4d2e-a668-c386ea4d262e,2024-06-04 16:18:00,Suresh Divya Rao,suresh.rao218@gmail.com,+91 7049201841,suresh.rao@oksbi,BookMyShow,XX2480,UTIB0003560,9888.58,Entertainment
+66717ca2-aa2e-48cd-b6e8-fc8dbb5919e8,2024-06-04 17:18:00,Harsh Aarti Agarwal,harsh.agarwal583@gmail.com,+91 9653837815,harsh.agarwal@okaxis,MakeMyTrip Travels,XX8930,HDFC0009687,6338.65,Travel
+999ccef6-c43c-4a0a-86f0-24391f420195,2024-06-04 17:52:00,Rajesh Gupta,rajesh.gupta308@gmail.com,+91 9751992881,rajesh.gupta@oksbi,Uber India,XX4241,UTIB0002742,13957.32,Transportation
+6e937d91-3bda-4e84-b56c-217c8331585e,2024-06-04 18:40:00,Pooja Rahul Menon,pooja.menon470@gmail.com,+91 9199067962,pooja.menon@okicici,Zara Fashion,XX3873,KKBK0008575,2621.21,Shopping
+17f7a44e-3d6c-49b6-ab45-7ab173d6f08c,2024-06-04 19:14:00,Arjun Pranav Mishra,arjun.mishra159@gmail.com,+91 9129219581,arjun.mishra@okaxis,Airtel Broadband,XX0901,SBIN0002816,10418.70,Utilities
+1a3d7371-c994-4972-9e6a-11db82ee0bad,2024-06-04 20:02:00,Tanvi Rao,tanvi.rao943@gmail.com,+91 8858104033,tanvi.rao@okaxis,Starbucks India,XX2040,ICIC0003806,11512.74,Food & Dining
+3ab8cd61-b209-4bfa-8c56-9e45238802a0,2024-06-04 20:45:00,Sunita Mishra,sunita.mishra509@gmail.com,+91 9724062349,sunita.mishra@ybl,Starbucks India,XX5148,KKBK0002756,2643.56,Food & Dining
+a8d0de1c-43dd-4ad4-878b-cb6923261558,2024-06-04 21:31:00,Rohan Banerjee,rohan.banerjee268@gmail.com,+91 9714655493,rohan.banerjee@okaxis,Uber India,XX5154,KKBK0005710,10970.38,Transportation
+ec6e2269-54b5-4e61-95c0-d88076401d84,2024-06-04 22:03:00,Rohan Rajesh Trivedi,rohan.trivedi29@gmail.com,+91 8882318972,rohan.trivedi@ybl,HP Petrol Pump,XX4808,HDFC0009385,11058.96,Transportation
+08c44d70-8145-4670-9c44-205ff0f92853,2024-06-04 22:51:00,Ritu Hegde,ritu.hegde149@gmail.com,+91 9739367209,ritu.hegde@okhdfcbank,Zomato Online,XX0095,SBIN0001390,2317.64,Food & Dining
+336e689f-4baa-4c89-838d-b1ff41e9c28d,2024-06-04 23:31:00,Sneha Hegde,sneha.hegde518@gmail.com,+91 7085200310,sneha.hegde@okicici,Uber India,XX5965,SBIN0006229,4953.56,Transportation
+7f11bbd6-660d-40a1-973f-8d2e99688ee5,2024-06-05 00:28:00,Rohan Bhavna Shah,rohan.shah976@gmail.com,+91 9831921179,rohan.shah@okhdfcbank,MakeMyTrip Travels,XX9296,ICIC0001500,6947.51,Travel
+3d172b2e-3751-421b-ae13-ec082d68d4d3,2024-06-05 00:54:00,Rohan Chopra,rohan.chopra555@gmail.com,+91 9698659039,rohan.chopra@paytm,Swiggy Delivery,XX5965,SBIN0003795,6050.33,Food & Dining
+62f6dc91-d687-4a33-865c-19a08c770d29,2024-06-05 01:40:00,Harsh Bose,harsh.bose667@gmail.com,+91 9890171186,harsh.bose@okhdfcbank,Starbucks India,XX6119,KKBK0007020,15604.47,Food & Dining
+e211e21b-4f5e-4cb3-89e3-1d55e33bc2ad,2024-06-05 02:29:00,Sunita Arjun Malhotra,sunita.malhotra156@gmail.com,+91 9812166405,sunita.malhotra@paytm,MakeMyTrip Travels,XX0702,SBIN0003722,1238.13,Travel
+060bc479-b2e6-44c5-be72-46f83cfc9eb2,2024-06-05 03:06:00,Ashok Manoj Kulkarni,ashok.kulkarni686@gmail.com,+91 9661605243,ashok.kulkarni@ybl,MakeMyTrip Travels,XX4479,SBIN0003534,14911.66,Travel
+81ad62aa-682f-4ef0-9662-1bda3ec74ac1,2024-06-05 03:48:00,Neha Shreya Ghosh,neha.ghosh567@gmail.com,+91 7095449737,neha.ghosh@paytm,BookMyShow,XX6136,UTIB0007636,15809.63,Entertainment
+9489dbeb-fb1f-4795-9314-81b159f1c302,2024-06-05 04:28:00,Bhavna Deepa Shetty,bhavna.shetty924@gmail.com,+91 9851821567,bhavna.shetty@ybl,Tata Power,XX4197,UTIB0001414,6535.27,Utilities
+e6940cea-403d-4342-adb6-236990bc04d8,2024-06-05 05:24:00,Rohan Nikhil Sharma,rohan.sharma884@gmail.com,+91 9812505850,rohan.sharma@okicici,Apollo Pharmacy,XX2289,ICIC0003253,3815.38,Healthcare
+40bbd62e-4cf7-48ce-a6f4-01f9c44a82ca,2024-06-05 06:01:00,Gaurav Neha Hegde,gaurav.hegde97@gmail.com,+91 9641100760,gaurav.hegde@paytm,Swiggy Delivery,XX3898,ICIC0001227,10351.72,Food & Dining
+05752776-89c9-4d3b-a067-a9c211554a60,2024-06-05 06:56:00,Shreya Suresh Gupta,shreya.gupta105@gmail.com,+91 9693494012,shreya.gupta@okaxis,Swiggy Delivery,XX6361,SBIN0007479,876.77,Food & Dining
+24fb17ea-0fdb-4248-84c5-c0eed4e98484,2024-06-05 07:32:00,Tanvi Kulkarni,tanvi.kulkarni144@gmail.com,+91 8860416255,tanvi.kulkarni@paytm,Reliance Fresh,XX9237,HDFC0006124,2911.90,Groceries
+ec504131-8b51-46b0-9201-5d71af0a725f,2024-06-05 08:15:00,Karan Mehta,karan.mehta47@gmail.com,+91 7061974812,karan.mehta@ybl,Airtel Broadband,XX8982,SBIN0001273,6888.95,Utilities
+83c40b7d-6c5f-420e-8894-418c1230279e,2024-06-05 08:49:00,Suresh Gaurav Pillai,suresh.pillai359@gmail.com,+91 9867829936,suresh.pillai@apl,MakeMyTrip Travels,XX0239,SBIN0003201,10889.02,Travel
+900757e5-a02b-45f5-8323-c32a39e61ac5,2024-06-05 09:30:00,Pranav Chatterjee,pranav.chatterjee248@gmail.com,+91 9827475040,pranav.chatterjee@apl,MakeMyTrip Travels,XX3574,KKBK0009385,2083.92,Travel
+658a7e52-bd4f-4f22-8b9d-b8c1be7d0b18,2024-06-05 10:27:00,Tanvi Kulkarni,tanvi.kulkarni144@gmail.com,+91 8860416255,tanvi.kulkarni@paytm,Uber India,XX9237,HDFC0006124,981.04,Transportation
+d550b4a1-808a-4b79-ade7-260e48b59032,2024-06-05 11:12:00,Ashok Saxena,ashok.saxena596@gmail.com,+91 9795460073,ashok.saxena@okicici,Zomato Online,XX4782,HDFC0003726,16689.18,Food & Dining
+aceacb6b-5fbe-487c-80a9-eb8af9a20a18,2024-06-05 11:41:00,Sneha Kulkarni,sneha.kulkarni478@gmail.com,+91 9658692457,sneha.kulkarni@okaxis,Uber India,XX8391,SBIN0001336,17948.38,Transportation
+9c6d01fe-d530-47d4-b7b5-1855c07fcf36,2024-06-05 12:28:00,Kavita Gupta,kavita.gupta404@gmail.com,+91 9631036217,kavita.gupta@okaxis,BookMyShow,XX7512,KKBK0007007,12285.48,Entertainment
+d24090bc-9d00-4f64-a2fe-10df32fc4458,2024-06-05 13:22:00,Ashok Manoj Iyer,ashok.iyer165@gmail.com,+91 9790194732,ashok.iyer@okhdfcbank,Amazon Pay India,XX8467,ICIC0008278,11005.77,Shopping
+cd66709f-a936-4854-8051-c5e26b0ee885,2024-06-05 14:01:00,Sneha Menon,sneha.menon439@gmail.com,+91 9118038980,sneha.menon@oksbi,Swiggy Delivery,XX1450,KKBK0007102,6654.24,Food & Dining
+57c41a15-ea19-4a65-9b90-45a3f9a08c8b,2024-06-05 14:41:00,Bhavna Chatterjee,bhavna.chatterjee154@gmail.com,+91 9728211123,bhavna.chatterjee@okhdfcbank,Zomato Online,XX0515,KKBK0003885,455.15,Food & Dining
+a4d632d2-969c-4392-9e3c-766388fc7d6f,2024-06-05 15:15:00,Ashok Nikhil Shetty,ashok.shetty823@gmail.com,+91 9638698891,ashok.shetty@oksbi,Airtel Broadband,XX9890,KKBK0004833,3291.05,Utilities
+966f2437-7410-459b-bd34-8143b119bdb2,2024-06-05 16:01:00,Arjun Pranav Pillai,arjun.pillai838@gmail.com,+91 9623126013,arjun.pillai@okhdfcbank,Airtel Broadband,XX8696,UTIB0003406,6600.76,Utilities
+c9fe7cff-9803-4643-ba41-c61cc716ace6,2024-06-05 16:54:00,Ashok Kavita Nair,ashok.nair779@gmail.com,+91 9894569859,ashok.nair@oksbi,HP Petrol Pump,XX4912,KKBK0001478,2049.43,Transportation
+a43caabb-5e3f-41f1-95cd-bc2f454ab9b8,2024-06-05 17:27:00,Swati Pranav Kulkarni,swati.kulkarni754@gmail.com,+91 9652325110,swati.kulkarni@oksbi,Airtel Broadband,XX6766,UTIB0003292,18133.73,Utilities
+2de12670-c667-4f59-887a-5b9f8ef22ca9,2024-06-05 18:16:00,Karan Patel,karan.patel437@gmail.com,+91 9862672150,karan.patel@okhdfcbank,Zomato Online,XX2189,KKBK0007536,4684.57,Food & Dining
+83ec59c7-8a3a-43b2-9ae6-9e0fb57c512b,2024-06-05 19:04:00,Ananya Gokhale,ananya.gokhale763@gmail.com,+91 9781209329,ananya.gokhale@okicici,Airtel Broadband,XX0800,HDFC0009092,16224.57,Utilities
+e558bcec-3902-4d87-b431-37d8a6e806d9,2024-06-05 19:42:00,Rajesh Joshi,rajesh.joshi148@gmail.com,+91 9610908300,rajesh.joshi@okicici,Starbucks India,XX3684,UTIB0003230,7358.61,Food & Dining
+803faa0f-503d-46bd-9871-a095b7cad79e,2024-06-05 20:30:00,Arjun Trivedi,arjun.trivedi283@gmail.com,+91 9663072911,arjun.trivedi@ybl,Uber India,XX1737,UTIB0002346,17664.62,Transportation
+821a1adf-d62c-49c4-9c53-fb4fd4a8f196,2024-06-05 21:06:00,Sunita Nair,sunita.nair277@gmail.com,+91 9728872004,sunita.nair@okicici,Tata Power,XX8192,ICIC0003958,12310.35,Utilities
+73dce220-e1af-4d3a-93dd-61d7aebeaff5,2024-06-05 21:41:00,Suresh Ashok Deshmukh,suresh.deshmukh214@gmail.com,+91 7060076822,suresh.deshmukh@okaxis,Zara Fashion,XX4197,HDFC0005076,5207.48,Shopping
+eba6cc99-150f-4f6a-bab7-477cc3cf0420,2024-06-05 22:41:00,Suresh Mishra,suresh.mishra810@gmail.com,+91 9813296199,suresh.mishra@okicici,Reliance Fresh,XX6238,KKBK0007291,1279.10,Groceries
+d4a06d1a-c68c-44fe-8d94-05a1f330c239,2024-06-05 23:07:00,Divya Rohan Patel,divya.patel710@gmail.com,+91 9791705627,divya.patel@ybl,Reliance Fresh,XX6133,SBIN0004719,478.98,Groceries
+58c57984-6d16-43b0-96d8-ae47fd85accf,2024-06-05 23:59:00,Meera Ashok Mishra,meera.mishra925@gmail.com,+91 9718225976,meera.mishra@okicici,Amazon Pay India,XX8884,ICIC0005587,12558.13,Shopping
+b9ba9c11-9d48-4138-983f-14d32d311fb4,2024-06-06 00:46:00,Pooja Verma,pooja.verma233@gmail.com,+91 9745496712,pooja.verma@okicici,HP Petrol Pump,XX8317,KKBK0001660,10711.78,Transportation
+5a0fb41d-2f6e-4bee-b259-e33a8f695e53,2024-06-06 01:23:00,Amit Kavita Dubey,amit.dubey43@gmail.com,+91 7083020667,amit.dubey@apl,Starbucks India,XX5742,SBIN0002713,1857.97,Food & Dining
+a11b2a3e-6c20-42d0-ad91-be7966ada0c4,2024-06-06 02:06:00,Kavita Reddy,kavita.reddy289@gmail.com,+91 9730443052,kavita.reddy@apl,Zomato Online,XX2537,KKBK0007083,17506.72,Food & Dining
+d90d3ebd-85f2-45ef-8b34-6ba216c0f210,2024-06-06 02:49:00,Meera Shetty,meera.shetty33@gmail.com,+91 9874710908,meera.shetty@okaxis,Tata Power,XX2643,KKBK0007694,18006.38,Utilities
+1187189f-79e4-4207-9717-438a32e58dc1,2024-06-06 03:35:00,Sneha Pooja Gokhale,sneha.gokhale737@gmail.com,+91 8840465492,sneha.gokhale@ybl,Uber India,XX0072,UTIB0008546,17999.09,Transportation
+8547884d-f1d6-4385-9a9a-bd72e2f10531,2024-06-06 04:20:00,Suresh Amit Trivedi,suresh.trivedi481@gmail.com,+91 9656733880,suresh.trivedi@ybl,Tata Power,XX8908,SBIN0006125,7797.86,Utilities
+9969a987-4933-4445-8ff4-1a8dab57155a,2024-06-06 04:54:00,Pranav Saxena,pranav.saxena988@gmail.com,+91 9125602232,pranav.saxena@okaxis,HP Petrol Pump,XX7151,UTIB0007387,10523.92,Transportation
+e7590f18-3dec-44f6-a437-d69cdddc20d5,2024-06-06 05:39:00,Deepa Shetty,deepa.shetty274@gmail.com,+91 7095201959,deepa.shetty@apl,Zomato Online,XX9885,UTIB0009398,1018.11,Food & Dining
+5ef95d1a-55c9-4172-a921-3191fc95f9b6,2024-06-06 06:23:00,Manoj Bhat,manoj.bhat990@gmail.com,+91 8830373686,manoj.bhat@apl,Zomato Online,XX5336,UTIB0004295,13635.08,Food & Dining
+d0d7bc2f-5bea-42cb-b8b0-da610f2d8fed,2024-06-06 07:06:00,Harsh Mehta,harsh.mehta460@gmail.com,+91 9616281117,harsh.mehta@okhdfcbank,Cult.Fit Gym,XX4386,KKBK0009218,16464.30,Healthcare
+f56e4e45-3355-4fb4-bf61-8097eb0b0133,2024-06-06 07:57:00,Pooja Deepa Shah,pooja.shah505@gmail.com,+91 9852720527,pooja.shah@paytm,Starbucks India,XX3445,ICIC0005173,3951.37,Food & Dining
+491ddff5-39b9-4324-a3d9-98f41a284d0e,2024-06-06 08:38:00,Nikhil Meera Pillai,nikhil.pillai721@gmail.com,+91 9869084673,nikhil.pillai@okicici,Zara Fashion,XX2853,ICIC0006264,8965.85,Shopping
+8c12eaef-a12f-4d76-ac31-7ce831dc646d,2024-06-06 09:26:00,Nikhil Nikhil Nair,nikhil.nair364@gmail.com,+91 9125904323,nikhil.nair@ybl,BookMyShow,XX3632,KKBK0007999,11023.83,Entertainment
+65a4b9ed-4ac8-42a4-9c26-169cca87880d,2024-06-06 10:09:00,Arjun Pranav Mishra,arjun.mishra159@gmail.com,+91 9129219581,arjun.mishra@okaxis,Starbucks India,XX0901,SBIN0002816,8874.98,Food & Dining
+3375d489-11b9-40be-a82c-3d0c1a7a28a9,2024-06-06 10:41:00,Vikram Verma,vikram.verma702@gmail.com,+91 9779963276,vikram.verma@ybl,Tata Power,XX8295,HDFC0008047,8203.93,Utilities
+0fed1394-5121-4791-a87e-9b9ed1337878,2024-06-06 11:35:00,Rohan Banerjee,rohan.banerjee268@gmail.com,+91 9714655493,rohan.banerjee@okaxis,Flipkart Internet,XX5154,KKBK0005710,2946.14,Shopping
+8f36e97d-ae1b-47d1-b09c-312f1813cb26,2024-06-06 12:16:00,Divya Rohan Patel,divya.patel710@gmail.com,+91 9791705627,divya.patel@ybl,Starbucks India,XX6133,SBIN0004719,6964.11,Food & Dining
+3e945adb-6ed1-4b14-b602-d225e99f2bf6,2024-06-06 12:45:00,Harsh Dubey,harsh.dubey516@gmail.com,+91 8896211645,harsh.dubey@ybl,Amazon Pay India,XX3446,KKBK0006460,7086.06,Shopping
+edb24315-336d-4cff-b549-2d102974e9ad,2024-06-06 13:37:00,Rohan Kulkarni,rohan.kulkarni226@gmail.com,+91 9878644594,rohan.kulkarni@oksbi,Cult.Fit Gym,XX2052,HDFC0009630,1115.33,Healthcare
+693cfc44-adb2-4530-bb3c-3b041a25ec8b,2024-06-06 14:18:00,Rohan Reddy,rohan.reddy646@gmail.com,+91 7017650960,rohan.reddy@ybl,Reliance Fresh,XX3823,SBIN0004507,15584.18,Groceries
+bf196454-4932-4497-8771-a75e81a5288b,2024-06-06 15:04:00,Gaurav Chatterjee,gaurav.chatterjee249@gmail.com,+91 7094621886,gaurav.chatterjee@apl,BookMyShow,XX6317,HDFC0003488,8104.49,Entertainment
+1c682060-2079-4b40-bada-a5a6f68169f2,2024-06-06 15:38:00,Ashok Rahul Saxena,ashok.saxena583@gmail.com,+91 8828584083,ashok.saxena@okhdfcbank,Cult.Fit Gym,XX1550,HDFC0005106,11740.84,Healthcare
+70b4f2a6-5997-4725-a2d9-749a6a321655,2024-06-06 16:32:00,Ananya Trivedi,ananya.trivedi927@gmail.com,+91 7045392913,ananya.trivedi@ybl,Flipkart Internet,XX5005,ICIC0006201,1717.14,Shopping
+ee945485-75f1-4442-89d7-f9922256935a,2024-06-06 17:02:00,Priya Ashok Joshi,priya.joshi975@gmail.com,+91 9139045233,priya.joshi@paytm,Reliance Fresh,XX7654,ICIC0008028,3454.89,Groceries
+ed2a4477-f927-4321-9672-51247d630303,2024-06-06 17:48:00,Deepa Gaurav Reddy,deepa.reddy453@gmail.com,+91 9137219757,deepa.reddy@okaxis,HP Petrol Pump,XX9086,KKBK0006053,16746.57,Transportation
+4fc78283-c0eb-40c6-9a24-46330eba0263,2024-06-06 18:43:00,Suresh Bose,suresh.bose459@gmail.com,+91 9189157655,suresh.bose@okhdfcbank,Cult.Fit Gym,XX7531,ICIC0006387,14738.49,Healthcare
+97168bf7-6da2-4fd6-b30c-70d4ff0d9ab4,2024-06-06 19:12:00,Arjun Amit Sharma,arjun.sharma322@gmail.com,+91 9153680391,arjun.sharma@okicici,Cult.Fit Gym,XX4912,ICIC0003095,3979.10,Healthcare
+270415fb-3944-474e-8ba8-33c0ac1b7e18,2024-06-06 19:54:00,Aarti Bose,aarti.bose489@gmail.com,+91 7033087710,aarti.bose@paytm,Apollo Pharmacy,XX9924,ICIC0007591,2440.94,Healthcare
+d57ecdbb-c156-46db-97d6-14074f7000c7,2024-06-06 20:47:00,Amit Kavita Rao,amit.rao972@gmail.com,+91 9885949228,amit.rao@okhdfcbank,Apollo Pharmacy,XX0584,KKBK0004253,8921.10,Healthcare
+2e8f8ccb-3ee2-4e04-a318-875896f326fb,2024-06-06 21:32:00,Sanjay Joshi,sanjay.joshi962@gmail.com,+91 7099693592,sanjay.joshi@okaxis,Apollo Pharmacy,XX7183,UTIB0006967,17325.52,Healthcare
+92c71cdd-d34f-4593-bde1-ce44019a1677,2024-06-06 22:11:00,Rahul Hegde,rahul.hegde588@gmail.com,+91 9110503430,rahul.hegde@okicici,Zara Fashion,XX4735,ICIC0002689,9861.93,Shopping
+429731f3-d58b-4448-8d5d-30697c58956f,2024-06-06 22:50:00,Sanjay Chopra,sanjay.chopra979@gmail.com,+91 9746307023,sanjay.chopra@okhdfcbank,Zara Fashion,XX6359,UTIB0004731,13257.35,Shopping
+ccc21713-497a-4316-be11-546ca747f9f4,2024-06-06 23:29:00,Rahul Vikram Deshmukh,rahul.deshmukh587@gmail.com,+91 8836719392,rahul.deshmukh@oksbi,Reliance Fresh,XX2915,KKBK0001681,16144.03,Groceries
+ac0544a8-4e8a-454e-bf02-f62e2c93d912,2024-06-07 00:26:00,Nikhil Saxena,nikhil.saxena952@gmail.com,+91 9886744869,nikhil.saxena@okicici,Uber India,XX3436,ICIC0004633,11124.45,Transportation
+f583cb06-ec7c-4938-96d6-b94db5d0e926,2024-06-07 01:05:00,Nikhil Nikhil Nair,nikhil.nair364@gmail.com,+91 9125904323,nikhil.nair@ybl,Flipkart Internet,XX3632,KKBK0007999,1853.76,Shopping
+ce45a2e8-7678-481f-834b-8b3d25275cd7,2024-06-07 01:38:00,Swati Swati Agarwal,swati.agarwal658@gmail.com,+91 9157759988,swati.agarwal@okhdfcbank,Zara Fashion,XX2842,KKBK0003392,13631.28,Shopping
+437f874e-4ff1-4c61-be75-b7fb6ba52f6c,2024-06-07 02:28:00,Swati Pranav Joshi,swati.joshi960@gmail.com,+91 8849425917,swati.joshi@paytm,Zara Fashion,XX6735,KKBK0005270,11557.42,Shopping
+8d754be7-6f89-4e60-a088-f1f31a272e33,2024-06-07 03:12:00,Harsh Gupta,harsh.gupta145@gmail.com,+91 8815519702,harsh.gupta@ybl,Apollo Pharmacy,XX0600,UTIB0006198,13748.84,Healthcare
+153a5488-7fbf-4312-bd8f-05d50aac3eb1,2024-06-07 04:03:00,Amit Rahul Pillai,amit.pillai706@gmail.com,+91 9176801015,amit.pillai@okicici,Swiggy Delivery,XX2537,ICIC0008898,16563.74,Food & Dining
+8587422f-1ae0-43e7-ad83-6997f6614836,2024-06-07 04:32:00,Neha Arjun Mishra,neha.mishra395@gmail.com,+91 8834858442,neha.mishra@apl,Starbucks India,XX3669,ICIC0004936,6331.39,Food & Dining
+d59bf6fb-34ac-4d0d-9e06-2d4be03737b8,2024-06-07 05:15:00,Nikhil Harsh Singh,nikhil.singh939@gmail.com,+91 9727506836,nikhil.singh@okaxis,Reliance Fresh,XX6003,SBIN0007998,5001.08,Groceries
+b72bcce2-0c0c-4119-9eed-34b4697a470a,2024-06-07 05:55:00,Sneha Divya Agarwal,sneha.agarwal812@gmail.com,+91 9869648000,sneha.agarwal@okhdfcbank,Zomato Online,XX9403,SBIN0006910,12416.26,Food & Dining
+5e6e72d0-fdfd-4540-93f7-1f6f6c20de96,2024-06-07 06:54:00,Rajesh Bhavna Banerjee,rajesh.banerjee504@gmail.com,+91 9124550191,rajesh.banerjee@ybl,Reliance Fresh,XX4099,ICIC0007898,18255.98,Groceries
+71178b97-f8f9-4615-91ab-42c5e332761b,2024-06-07 07:21:00,Deepa Shetty,deepa.shetty589@gmail.com,+91 9743160881,deepa.shetty@okhdfcbank,Amazon Pay India,XX7492,ICIC0008075,13318.40,Shopping
+6994f90a-d221-4fb1-935b-bc17f02e096f,2024-06-07 08:16:00,Pranav Arjun Gupta,pranav.gupta802@gmail.com,+91 7097868694,pranav.gupta@okhdfcbank,BookMyShow,XX0474,HDFC0003247,3814.09,Entertainment
+28c519db-2c5d-4d76-bd03-9c5ba69b3611,2024-06-07 08:51:00,Nikhil Nikhil Nair,nikhil.nair364@gmail.com,+91 9125904323,nikhil.nair@ybl,Zara Fashion,XX3632,KKBK0007999,1748.47,Shopping
+0ca99972-8315-49b9-a289-92c5cce29bf2,2024-06-07 09:31:00,Tanvi Banerjee,tanvi.banerjee957@gmail.com,+91 9687489644,tanvi.banerjee@okhdfcbank,Uber India,XX7334,HDFC0004663,2333.61,Transportation
+44b55303-6e8d-4699-a74b-58db192fae1f,2024-06-07 10:32:00,Meera Gaurav Trivedi,meera.trivedi560@gmail.com,+91 7011380221,meera.trivedi@oksbi,MakeMyTrip Travels,XX8419,ICIC0009267,13105.44,Travel
+73b3e40d-e9b3-4870-a4bd-f875689d4117,2024-06-07 10:57:00,Ritu Sneha Ghosh,ritu.ghosh744@gmail.com,+91 8886262990,ritu.ghosh@okhdfcbank,Apollo Pharmacy,XX0201,ICIC0001501,8534.25,Healthcare
+18baa7b2-fd1f-4014-86b3-d7b975b5e8a8,2024-06-07 11:54:00,Rahul Bhat,rahul.bhat707@gmail.com,+91 9713416548,rahul.bhat@okicici,Zara Fashion,XX1102,KKBK0004111,8885.06,Shopping
+055a2f9c-40e3-4437-98ea-367f6ffdfe04,2024-06-07 12:41:00,Bhavna Tanvi Mishra,bhavna.mishra397@gmail.com,+91 8842445943,bhavna.mishra@okaxis,Apollo Pharmacy,XX5150,UTIB0003890,8720.84,Healthcare
+5126b6b5-5cd0-492e-b055-a70a2d643902,2024-06-07 13:11:00,Gaurav Gaurav Malhotra,gaurav.malhotra808@gmail.com,+91 7012943511,gaurav.malhotra@oksbi,Reliance Fresh,XX6684,ICIC0002595,14827.51,Groceries
+135cb07b-8d9f-4833-a441-4dd8c5aac4f8,2024-06-07 13:59:00,Kavita Shreya Bhat,kavita.bhat186@gmail.com,+91 9817491622,kavita.bhat@okaxis,Swiggy Delivery,XX1581,UTIB0008792,8388.46,Food & Dining
+ffc5f1d7-58b4-4596-8e95-29099dc75d12,2024-06-07 14:49:00,Amit Rahul Reddy,amit.reddy833@gmail.com,+91 9796469879,amit.reddy@apl,Apollo Pharmacy,XX9137,SBIN0006353,5700.57,Healthcare
+f7168c71-d87d-4967-adbf-a5be6fa12c5f,2024-06-07 15:18:00,Shreya Sunita Agarwal,shreya.agarwal844@gmail.com,+91 9185374270,shreya.agarwal@paytm,Uber India,XX4878,UTIB0002354,13565.68,Transportation
+b83c3429-d64b-473e-b479-edfd4194df0b,2024-06-07 16:14:00,Amit Manoj Gupta,amit.gupta634@gmail.com,+91 9794967012,amit.gupta@paytm,Cult.Fit Gym,XX7930,HDFC0008444,12745.19,Healthcare
+1c436072-75be-4528-ac82-d94e5cff081f,2024-06-07 16:45:00,Meera Chopra,meera.chopra279@gmail.com,+91 9173488839,meera.chopra@okicici,Zara Fashion,XX1643,UTIB0008000,17626.09,Shopping
+0b25c5c8-c45e-4451-86c8-52b753a84e5b,2024-06-07 17:41:00,Ritu Verma,ritu.verma377@gmail.com,+91 9195036295,ritu.verma@apl,Swiggy Delivery,XX0853,UTIB0007463,15958.36,Food & Dining
+ae31d4b1-04fb-42c2-8849-ec600a27db30,2024-06-07 18:13:00,Suresh Sneha Shah,suresh.shah13@gmail.com,+91 8887869116,suresh.shah@ybl,Reliance Fresh,XX6906,HDFC0005559,9297.11,Groceries
+e83dbdba-bd78-4c1d-8e40-c5ec941b7cb0,2024-06-07 18:54:00,Vikram Sharma,vikram.sharma641@gmail.com,+91 9738358696,vikram.sharma@okicici,Zomato Online,XX4041,UTIB0008115,17711.22,Food & Dining
+92696c95-dd73-4546-830a-d161d9e91aec,2024-06-07 19:47:00,Swati Rohan Trivedi,swati.trivedi973@gmail.com,+91 9697941200,swati.trivedi@apl,Cult.Fit Gym,XX2609,ICIC0002447,984.75,Healthcare
+8c266334-f9ae-4810-91d0-c08f65ef8934,2024-06-07 20:20:00,Karan Iyer,karan.iyer307@gmail.com,+91 9166059480,karan.iyer@okicici,Amazon Pay India,XX8547,UTIB0001785,14416.48,Shopping
+12b49efa-b966-4539-a5cd-03ca24756c13,2024-06-07 20:58:00,Rohan Rajesh Trivedi,rohan.trivedi29@gmail.com,+91 8882318972,rohan.trivedi@ybl,Tata Power,XX4808,HDFC0009385,10133.30,Utilities
+2b6c2587-11c1-4d88-b0c6-fbf94dcac13a,2024-06-07 21:47:00,Bhavna Pooja Gupta,bhavna.gupta56@gmail.com,+91 9667521272,bhavna.gupta@paytm,Reliance Fresh,XX1950,UTIB0009100,9923.74,Groceries
+7a3ff259-1ce8-4468-bfd8-3f6f1f4034a4,2024-06-07 22:36:00,Alok Tanvi Banerjee,alok.banerjee507@gmail.com,+91 9829175605,alok.banerjee@okhdfcbank,Amazon Pay India,XX0942,ICIC0009008,11260.91,Shopping
+8278d095-aa87-452b-b61c-6dfe69211efe,2024-06-07 23:08:00,Ananya Rohan Shah,ananya.shah484@gmail.com,+91 8882737472,ananya.shah@okhdfcbank,Zara Fashion,XX1160,HDFC0009185,8328.42,Shopping
+8c912735-6c34-44e2-bde7-f370b42ddd55,2024-06-08 00:06:00,Rahul Reddy,rahul.reddy317@gmail.com,+91 8821032763,rahul.reddy@okicici,Amazon Pay India,XX8979,HDFC0009438,9777.99,Shopping
+020c54d0-d9ff-4d79-9d02-98c67319b593,2024-06-08 00:44:00,Sanjay Sunita Reddy,sanjay.reddy506@gmail.com,+91 9790400727,sanjay.reddy@ybl,Amazon Pay India,XX4759,KKBK0002745,16898.69,Shopping
+7a1faf0c-b6aa-4591-8881-a9785df479cf,2024-06-08 01:35:00,Amit Karan Gokhale,amit.gokhale657@gmail.com,+91 9781291458,amit.gokhale@paytm,Tata Power,XX3450,SBIN0002557,14017.00,Utilities
+309d8039-adc5-47e2-a753-803b30364a91,2024-06-08 02:09:00,Pooja Gokhale,pooja.gokhale520@gmail.com,+91 9133228631,pooja.gokhale@okicici,Reliance Fresh,XX0513,SBIN0002713,5592.58,Groceries
+76f31e30-c0d1-4108-85d7-45c9f80c2fd4,2024-06-08 02:53:00,Harsh Bhat,harsh.bhat409@gmail.com,+91 9794411845,harsh.bhat@okhdfcbank,Swiggy Delivery,XX2668,SBIN0001664,16888.06,Food & Dining
+3798a006-39c8-4522-ab12-8c8cf273f4e6,2024-06-08 03:43:00,Meera Agarwal,meera.agarwal945@gmail.com,+91 9116241050,meera.agarwal@oksbi,HP Petrol Pump,XX1983,ICIC0002509,8549.46,Transportation
+656a2ad8-eff1-4436-83dd-2dc1d46a6921,2024-06-08 04:15:00,Karan Shreya Reddy,karan.reddy794@gmail.com,+91 9739286313,karan.reddy@paytm,MakeMyTrip Travels,XX0348,KKBK0001432,13313.08,Travel
+00399d21-fce5-4c45-864f-c1b14ea7a5bb,2024-06-08 05:03:00,Swati Aarti Malhotra,swati.malhotra246@gmail.com,+91 9122289142,swati.malhotra@okhdfcbank,Flipkart Internet,XX0040,SBIN0006826,10414.81,Shopping
+d73afac7-52fc-4d1b-bf74-98a031d689bf,2024-06-08 05:36:00,Rahul Agarwal,rahul.agarwal40@gmail.com,+91 9111494439,rahul.agarwal@paytm,Starbucks India,XX6780,SBIN0007528,939.21,Food & Dining
+c3c8aefa-cd7b-47c4-a62c-68bbffaf098d,2024-06-08 06:27:00,Rajesh Meera Gupta,rajesh.gupta235@gmail.com,+91 9815907381,rajesh.gupta@oksbi,MakeMyTrip Travels,XX4115,UTIB0003484,7409.91,Travel
+f1c62ca0-73fc-47d4-8d14-d2b39c1da4f1,2024-06-08 07:18:00,Suresh Sneha Bhat,suresh.bhat453@gmail.com,+91 9865462976,suresh.bhat@okicici,Cult.Fit Gym,XX0678,UTIB0007609,9769.66,Healthcare
+c5470da2-f9c6-4224-9adc-81d8e8bf6045,2024-06-08 07:57:00,Sneha Shreya Chopra,sneha.chopra754@gmail.com,+91 7052571160,sneha.chopra@okaxis,Tata Power,XX9183,KKBK0001610,12815.03,Utilities
+aba4f4e5-353a-4245-815b-1c7da5292e15,2024-06-08 08:45:00,Bhavna Deepa Shetty,bhavna.shetty924@gmail.com,+91 9851821567,bhavna.shetty@ybl,Tata Power,XX4197,UTIB0001414,15698.97,Utilities
+6ee785f2-1c6b-40c3-b07c-94ff0062ac35,2024-06-08 09:18:00,Suresh Agarwal,suresh.agarwal131@gmail.com,+91 9139302722,suresh.agarwal@okhdfcbank,Uber India,XX8818,UTIB0009541,8068.26,Transportation
+f384b997-7ab9-4ccd-b8cb-b44509c232da,2024-06-08 10:09:00,Aarti Gokhale,aarti.gokhale685@gmail.com,+91 9139329069,aarti.gokhale@apl,Tata Power,XX8057,HDFC0004980,11316.65,Utilities
+2d521c4e-8483-476b-9943-8e3ab053b4d9,2024-06-08 10:41:00,Ritu Sneha Ghosh,ritu.ghosh744@gmail.com,+91 8886262990,ritu.ghosh@okhdfcbank,Flipkart Internet,XX0201,ICIC0001501,18067.12,Shopping
+7366101e-c480-4288-b3c4-c42c8071a280,2024-06-08 11:28:00,Deepa Ananya Shetty,deepa.shetty590@gmail.com,+91 9810852935,deepa.shetty@okicici,Zomato Online,XX0370,KKBK0006061,17813.49,Food & Dining
+9e77c48a-5fc6-4044-b23d-d311e4fc5272,2024-06-08 12:11:00,Pooja Deepa Shah,pooja.shah505@gmail.com,+91 9852720527,pooja.shah@paytm,Starbucks India,XX3445,ICIC0005173,6868.29,Food & Dining
+2c6fcee7-db74-4e96-9729-23efca35e033,2024-06-08 13:01:00,Ashok Rahul Saxena,ashok.saxena583@gmail.com,+91 8828584083,ashok.saxena@okhdfcbank,Starbucks India,XX1550,HDFC0005106,11749.04,Food & Dining
+c03f41f7-e2a0-48df-ac83-85d0970c8028,2024-06-08 13:44:00,Neha Joshi,neha.joshi90@gmail.com,+91 7024165519,neha.joshi@okaxis,BookMyShow,XX7985,UTIB0004098,5150.92,Entertainment
+0636585a-380d-4894-a96e-a0216b1fb3c5,2024-06-08 14:14:00,Sunita Priya Menon,sunita.menon480@gmail.com,+91 9878645744,sunita.menon@oksbi,Swiggy Delivery,XX1681,KKBK0004275,10276.97,Food & Dining
+8f22ca61-667e-445c-aa1e-a13ae9b5da7d,2024-06-08 15:03:00,Priya Deepa Sharma,priya.sharma151@gmail.com,+91 9619583675,priya.sharma@paytm,Zara Fashion,XX0083,HDFC0009901,5277.12,Shopping
+563feaa0-f1b7-4ae4-9115-7b049b1c0655,2024-06-08 15:51:00,Aarti Pillai,aarti.pillai397@gmail.com,+91 9152491693,aarti.pillai@ybl,BookMyShow,XX7764,HDFC0008343,10497.55,Entertainment
+19bcef05-dab3-4e80-900e-4039d3a95bdc,2024-06-08 16:38:00,Meera Nair,meera.nair741@gmail.com,+91 9870702699,meera.nair@ybl,HP Petrol Pump,XX8150,ICIC0002785,8946.96,Transportation
+e0226e24-fcc1-4296-b0d4-5d4154a7c416,2024-06-08 17:14:00,Rajesh Mishra,rajesh.mishra136@gmail.com,+91 7086256281,rajesh.mishra@ybl,Apollo Pharmacy,XX0876,UTIB0004841,9695.31,Healthcare
+68a031b3-204f-49f2-9788-2d553762a2d9,2024-06-08 17:48:00,Rajesh Bhavna Joshi,rajesh.joshi770@gmail.com,+91 9689239787,rajesh.joshi@apl,HP Petrol Pump,XX3846,KKBK0006623,2710.40,Transportation
+923bad87-8b03-41f3-8772-3747ea6d86fc,2024-06-08 18:45:00,Harsh Sunita Hegde,harsh.hegde685@gmail.com,+91 8819392480,harsh.hegde@okaxis,Uber India,XX6202,UTIB0002814,5917.42,Transportation
+e3d33317-afd1-46fa-afa5-4a81953875a2,2024-06-08 19:21:00,Divya Pranav Menon,divya.menon211@gmail.com,+91 9692226818,divya.menon@paytm,HP Petrol Pump,XX9871,ICIC0001274,4107.22,Transportation
+ace8fa50-1cf8-45aa-b4a6-62c38dbb9637,2024-06-08 19:59:00,Tanvi Tanvi Trivedi,tanvi.trivedi530@gmail.com,+91 9855860921,tanvi.trivedi@okicici,Tata Power,XX1590,ICIC0007505,15615.23,Utilities
+8acf42ea-1451-42af-b61d-d247066d3400,2024-06-08 20:54:00,Bhavna Sanjay Kulkarni,bhavna.kulkarni193@gmail.com,+91 9167040531,bhavna.kulkarni@okicici,Zomato Online,XX6322,UTIB0007780,17521.84,Food & Dining
+406ecf16-7a6a-400f-962e-f8603823a736,2024-06-08 21:31:00,Rohan Sanjay Patel,rohan.patel651@gmail.com,+91 9680051593,rohan.patel@okhdfcbank,Cult.Fit Gym,XX4166,ICIC0009138,15310.41,Healthcare
+c28cce8a-24b4-4176-989f-86cf940d4031,2024-06-08 22:22:00,Tanvi Reddy,tanvi.reddy661@gmail.com,+91 9149436524,tanvi.reddy@paytm,Cult.Fit Gym,XX7217,KKBK0005043,6431.60,Healthcare
+1b604157-48c6-4032-8787-34f7b2f9c530,2024-06-08 22:56:00,Ashok Meera Bhat,ashok.bhat938@gmail.com,+91 9724951020,ashok.bhat@apl,Apollo Pharmacy,XX1495,HDFC0002741,16646.75,Healthcare
+089458ba-5a1f-4d81-9be2-1f8f35c84f06,2024-06-08 23:30:00,Rajesh Rao,rajesh.rao131@gmail.com,+91 7047905442,rajesh.rao@okaxis,Reliance Fresh,XX6211,SBIN0004435,15782.67,Groceries
+d4f1a08a-0a97-4b56-9d2d-331a1c943327,2024-06-09 00:13:00,Alok Suresh Iyer,alok.iyer870@gmail.com,+91 7047220099,alok.iyer@okicici,Starbucks India,XX5684,ICIC0006502,752.86,Food & Dining
+7c373c73-6035-448a-b985-bb9149f4a3f3,2024-06-09 00:58:00,Suresh Agarwal,suresh.agarwal743@gmail.com,+91 9191979277,suresh.agarwal@okhdfcbank,HP Petrol Pump,XX7627,UTIB0004526,542.32,Transportation
+1843ce7f-74dc-48a7-9ab9-081dc51ab892,2024-06-09 01:46:00,Kavita Ritu Bhat,kavita.bhat321@gmail.com,+91 9723437152,kavita.bhat@ybl,Zomato Online,XX4220,HDFC0005370,16727.08,Food & Dining
+fdd1553d-19a9-47cb-afdd-1c4392a5029e,2024-06-09 02:22:00,Rahul Manoj Chopra,rahul.chopra308@gmail.com,+91 7062328922,rahul.chopra@ybl,Swiggy Delivery,XX5509,HDFC0004753,241.78,Food & Dining
+fd79998a-fa37-4c20-b8d4-df7fa82c68a1,2024-06-09 03:05:00,Harsh Mehta,harsh.mehta460@gmail.com,+91 9616281117,harsh.mehta@okhdfcbank,Uber India,XX4386,KKBK0009218,4192.05,Transportation
+74e6e931-76b1-4c3d-ae07-f26fcab78bed,2024-06-09 03:48:00,Meera Agarwal,meera.agarwal945@gmail.com,+91 9116241050,meera.agarwal@oksbi,HP Petrol Pump,XX1983,ICIC0002509,8295.66,Transportation
+8e43fe2f-7996-43cb-b8f0-580c3d83737e,2024-06-09 04:49:00,Nikhil Rahul Nair,nikhil.nair594@gmail.com,+91 9727016318,nikhil.nair@okhdfcbank,Apollo Pharmacy,XX8944,KKBK0002049,13110.87,Healthcare
+f9d7d1f4-322a-4470-b69c-d263e3c47ffb,2024-06-09 05:22:00,Priya Manoj Iyer,priya.iyer812@gmail.com,+91 8818818225,priya.iyer@oksbi,Airtel Broadband,XX6208,UTIB0004830,14957.02,Utilities
+5c0a1ad3-5441-42a8-9e63-d76119430e28,2024-06-09 06:10:00,Manoj Trivedi,manoj.trivedi475@gmail.com,+91 9658609538,manoj.trivedi@oksbi,BookMyShow,XX2574,HDFC0003478,4770.60,Entertainment
+71fbe347-27ad-4fa0-92ec-2e93ea8fbf8c,2024-06-09 06:44:00,Shreya Manoj Agarwal,shreya.agarwal234@gmail.com,+91 9128585996,shreya.agarwal@okaxis,Flipkart Internet,XX7415,HDFC0001988,18125.33,Shopping
+55daa21c-5b91-4a63-a0b5-0bc5b315972d,2024-06-09 07:41:00,Gaurav Saxena,gaurav.saxena219@gmail.com,+91 9664709401,gaurav.saxena@ybl,Flipkart Internet,XX5059,UTIB0003941,7200.42,Shopping
+558bfd44-3560-4db8-b2b4-bac3743f1d8e,2024-06-09 08:17:00,Rajesh Trivedi,rajesh.trivedi311@gmail.com,+91 9852777459,rajesh.trivedi@okhdfcbank,Zomato Online,XX0645,SBIN0009962,4540.86,Food & Dining
+5bd34255-83b3-4674-b25b-0fa3e889edbe,2024-06-09 08:55:00,Alok Meera Mishra,alok.mishra506@gmail.com,+91 8896688707,alok.mishra@apl,Swiggy Delivery,XX3823,SBIN0001827,11675.18,Food & Dining
+ebf4b48a-180c-443d-adcc-aa12d78e1772,2024-06-09 09:38:00,Priya Amit Ghosh,priya.ghosh222@gmail.com,+91 9865599477,priya.ghosh@ybl,Swiggy Delivery,XX9679,UTIB0005497,4778.92,Food & Dining
+3ca8aee1-c717-42fa-845b-1bb578fac8a4,2024-06-09 10:24:00,Shreya Gupta,shreya.gupta22@gmail.com,+91 7073045898,shreya.gupta@ybl,Zara Fashion,XX3102,UTIB0004337,14245.30,Shopping
+c29d9d44-e474-44be-b4f8-e2da0736e072,2024-06-09 10:57:00,Ashok Trivedi,ashok.trivedi115@gmail.com,+91 9761060807,ashok.trivedi@okaxis,Zomato Online,XX6721,ICIC0003855,7737.93,Food & Dining
+580cedc3-c8a8-4f40-b3c1-5e74472d0d15,2024-06-09 11:55:00,Nikhil Bhat,nikhil.bhat30@gmail.com,+91 8874154596,nikhil.bhat@okhdfcbank,Airtel Broadband,XX9088,SBIN0006301,9291.35,Utilities
+9c8c5bd0-11fd-41db-9291-e241f8cdf956,2024-06-09 12:23:00,Aarti Shreya Shetty,aarti.shetty354@gmail.com,+91 8842300789,aarti.shetty@okhdfcbank,BookMyShow,XX9467,ICIC0004069,8219.40,Entertainment
+e85a7355-4779-4a28-8f1b-7a2c21a1699f,2024-06-09 13:24:00,Alok Deepa Iyer,alok.iyer567@gmail.com,+91 9641179035,alok.iyer@okicici,Apollo Pharmacy,XX3794,KKBK0004941,17066.31,Healthcare
+0c85a747-de24-4a72-83af-695fe6274417,2024-06-09 14:04:00,Harsh Mehta,harsh.mehta460@gmail.com,+91 9616281117,harsh.mehta@okhdfcbank,Tata Power,XX4386,KKBK0009218,10514.17,Utilities
+2ac5aef5-242c-4cb3-9f09-61542c83225a,2024-06-09 14:47:00,Pranav Rajesh Joshi,pranav.joshi875@gmail.com,+91 7068719406,pranav.joshi@paytm,Uber India,XX3161,HDFC0001269,13193.05,Transportation
+e396a0ca-3f58-4ceb-9360-162f0f1d4fb1,2024-06-09 15:25:00,Gaurav Ghosh,gaurav.ghosh978@gmail.com,+91 9129358634,gaurav.ghosh@paytm,Uber India,XX7427,ICIC0002163,17704.68,Transportation
+51757d16-0237-4e5e-a775-9e7275ec1812,2024-06-09 16:05:00,Karan Patel,karan.patel437@gmail.com,+91 9862672150,karan.patel@okhdfcbank,Zomato Online,XX2189,KKBK0007536,1608.11,Food & Dining
+9758fc67-dea9-443f-883a-8ebe97cfa437,2024-06-09 16:42:00,Rajesh Rajesh Deshmukh,rajesh.deshmukh979@gmail.com,+91 9771434761,rajesh.deshmukh@apl,Airtel Broadband,XX3043,ICIC0004519,12232.03,Utilities
+58b1d944-9513-4d3a-adeb-d55a78eb3dca,2024-06-09 17:31:00,Ashok Neha Gupta,ashok.gupta550@gmail.com,+91 8847208837,ashok.gupta@apl,Amazon Pay India,XX9784,HDFC0002611,2088.19,Shopping
+d4fcf86d-e45d-49a1-9df2-14863568e4bf,2024-06-09 18:18:00,Pranav Rajesh Hegde,pranav.hegde324@gmail.com,+91 7031246994,pranav.hegde@apl,Reliance Fresh,XX5846,SBIN0005789,3193.91,Groceries
+f334d0a0-f4d6-48f1-9266-8a6a3697a6c8,2024-06-09 18:56:00,Pranav Trivedi,pranav.trivedi788@gmail.com,+91 9116648129,pranav.trivedi@ybl,Zara Fashion,XX2549,SBIN0004757,14064.14,Shopping
+eb763532-b447-42dc-b84b-4b3da5a87a78,2024-06-09 19:50:00,Sneha Pooja Gokhale,sneha.gokhale737@gmail.com,+91 8840465492,sneha.gokhale@ybl,Starbucks India,XX0072,UTIB0008546,11683.42,Food & Dining
+0019cc4d-06b3-4f36-8504-d876140b1873,2024-06-09 20:31:00,Deepa Deepa Hegde,deepa.hegde127@gmail.com,+91 7028318112,deepa.hegde@okaxis,Apollo Pharmacy,XX2952,KKBK0008171,16792.67,Healthcare
+0cec6f53-853c-4cdd-b487-c8d9bc08c816,2024-06-09 21:08:00,Neha Pooja Iyer,neha.iyer671@gmail.com,+91 9730976318,neha.iyer@okaxis,Amazon Pay India,XX4596,UTIB0008031,11248.33,Shopping
+2c54396e-b083-4764-8c9d-491be2a4c7d3,2024-06-09 21:44:00,Swati Bose,swati.bose672@gmail.com,+91 9812518334,swati.bose@paytm,Tata Power,XX4117,SBIN0004289,14692.63,Utilities
+cb9a7d44-e644-42ef-8a28-c3e1282c8e52,2024-06-09 22:28:00,Meera Meera Mehta,meera.mehta873@gmail.com,+91 9717521339,meera.mehta@okhdfcbank,Starbucks India,XX2833,ICIC0001206,17482.27,Food & Dining
+4f01231f-2b0a-436c-90be-8e1310520fa5,2024-06-09 23:16:00,Kavita Hegde,kavita.hegde852@gmail.com,+91 9891948851,kavita.hegde@oksbi,HP Petrol Pump,XX7350,SBIN0005946,13941.72,Transportation
+a0730b9e-81f0-4aea-8018-37e7a1cb2439,2024-06-10 00:06:00,Meera Shetty,meera.shetty397@gmail.com,+91 9724780486,meera.shetty@ybl,Uber India,XX0744,KKBK0005228,2659.72,Transportation
+299ced4c-f967-4740-8c6a-1df4c381d8d3,2024-06-10 00:42:00,Ashok Sunita Singh,ashok.singh409@gmail.com,+91 9679068413,ashok.singh@oksbi,BookMyShow,XX6685,KKBK0007073,7318.20,Entertainment
+f260fca5-bfdd-47b8-b41c-59cc4023df23,2024-06-10 01:35:00,Ananya Banerjee,ananya.banerjee545@gmail.com,+91 9113245513,ananya.banerjee@paytm,Zomato Online,XX9742,SBIN0001663,12030.36,Food & Dining
+91b2d6c2-e14e-4aaf-8673-88ad18e4ea7b,2024-06-10 02:12:00,Rajesh Meera Gupta,rajesh.gupta235@gmail.com,+91 9815907381,rajesh.gupta@oksbi,Flipkart Internet,XX4115,UTIB0003484,10204.66,Shopping
+1eedbff6-c0a4-45da-8fff-6efe88da0885,2024-06-10 02:44:00,Meera Gaurav Deshmukh,meera.deshmukh491@gmail.com,+91 8873614573,meera.deshmukh@apl,Tata Power,XX7551,HDFC0006549,9877.08,Utilities
+b19de87b-054d-4a02-98c2-5c6349fff873,2024-06-10 03:38:00,Rajesh Arjun Shah,rajesh.shah139@gmail.com,+91 8856717280,rajesh.shah@oksbi,Apollo Pharmacy,XX3479,ICIC0008101,15326.91,Healthcare
+f6353a54-ae45-4986-bd47-c605dfa1735f,2024-06-10 04:19:00,Priya Amit Ghosh,priya.ghosh222@gmail.com,+91 9865599477,priya.ghosh@ybl,Uber India,XX9679,UTIB0005497,4920.81,Transportation
+9b0c5be5-2474-42a9-8524-f5a13116d0a3,2024-06-10 04:57:00,Gaurav Swati Mishra,gaurav.mishra935@gmail.com,+91 9650170436,gaurav.mishra@okaxis,HP Petrol Pump,XX3645,HDFC0003840,10803.72,Transportation
+7276af01-8983-4ba6-82d6-f2332892c474,2024-06-10 05:54:00,Vikram Verma,vikram.verma702@gmail.com,+91 9779963276,vikram.verma@ybl,Swiggy Delivery,XX8295,HDFC0008047,16973.13,Food & Dining
+0cc5d9a1-58f7-45b0-8c2f-d236e00d82ac,2024-06-10 06:26:00,Sneha Hegde,sneha.hegde518@gmail.com,+91 7085200310,sneha.hegde@okicici,Starbucks India,XX5965,SBIN0006229,10723.29,Food & Dining
+34154711-e14f-46b3-b2c4-2e599c34ce20,2024-06-10 07:20:00,Rahul Divya Iyer,rahul.iyer17@gmail.com,+91 8846578812,rahul.iyer@okicici,Uber India,XX4759,KKBK0007661,10180.69,Transportation
+52a4282f-a395-4076-a074-c88f8147da78,2024-06-10 07:59:00,Vikram Bose,vikram.bose453@gmail.com,+91 9885173983,vikram.bose@ybl,Uber India,XX8740,SBIN0004481,18397.78,Transportation
+8af22b22-d15c-4ed2-b9a6-ebdf147b2bb0,2024-06-10 08:27:00,Vikram Rajesh Sharma,vikram.sharma859@gmail.com,+91 9615917225,vikram.sharma@paytm,Airtel Broadband,XX2649,UTIB0008007,2224.64,Utilities
+19734e31-2e89-4d1a-b900-9e7dfdfca3c4,2024-06-10 09:29:00,Kavita Ananya Verma,kavita.verma17@gmail.com,+91 9636891808,kavita.verma@okhdfcbank,Zara Fashion,XX0443,ICIC0002256,2178.28,Shopping
+cad331cc-f616-4fd8-9eda-804012008eb9,2024-06-10 10:07:00,Ashok Arjun Rao,ashok.rao209@gmail.com,+91 7098394549,ashok.rao@ybl,Amazon Pay India,XX8941,HDFC0002014,8325.29,Shopping
+2f4673bb-f765-4952-a357-e9cf297aca6b,2024-06-10 10:45:00,Ashok Pranav Trivedi,ashok.trivedi706@gmail.com,+91 9869202123,ashok.trivedi@okicici,Zomato Online,XX5715,HDFC0002992,13873.05,Food & Dining
+04f0d709-3097-4c99-8385-2885dfb1d12b,2024-06-10 11:27:00,Karan Kavita Pillai,karan.pillai38@gmail.com,+91 9783108701,karan.pillai@oksbi,Airtel Broadband,XX2561,ICIC0002346,18108.22,Utilities
+ebd63d0d-09cb-4331-a26a-ac092e015233,2024-06-10 12:18:00,Deepa Shetty,deepa.shetty482@gmail.com,+91 9674023489,deepa.shetty@ybl,Amazon Pay India,XX7289,ICIC0009315,16943.39,Shopping
+83952339-2d81-4cbe-8829-2ff788212059,2024-06-10 12:59:00,Manoj Mishra,manoj.mishra231@gmail.com,+91 8834258202,manoj.mishra@okicici,Uber India,XX3898,HDFC0005153,12512.98,Transportation
+37363f48-a9f6-40da-a028-bd9e95a3ec09,2024-06-10 13:46:00,Manoj Reddy,manoj.reddy177@gmail.com,+91 8843948447,manoj.reddy@okhdfcbank,HP Petrol Pump,XX5531,KKBK0002833,2199.05,Transportation
+87b877ec-9921-4cbc-bff4-6f5f63ac1925,2024-06-10 14:11:00,Tanvi Rajesh Shah,tanvi.shah685@gmail.com,+91 9610971584,tanvi.shah@apl,Zara Fashion,XX1318,KKBK0002928,6580.00,Shopping
+eb3b2d8b-e6ef-405f-ac58-f5f938a96aac,2024-06-10 15:03:00,Ananya Arjun Menon,ananya.menon741@gmail.com,+91 7039273505,ananya.menon@ybl,Amazon Pay India,XX5925,UTIB0004255,11891.82,Shopping
+c8864794-7034-4a3c-a179-622cf4336a2d,2024-06-10 15:42:00,Sanjay Nikhil Pillai,sanjay.pillai691@gmail.com,+91 7085287870,sanjay.pillai@okicici,Airtel Broadband,XX8210,HDFC0002585,376.67,Utilities
+507530f9-0102-4385-bf3a-46d856e2d5d3,2024-06-10 16:33:00,Ananya Menon,ananya.menon154@gmail.com,+91 9883296885,ananya.menon@paytm,BookMyShow,XX8957,HDFC0001394,5687.98,Entertainment
+b549657d-105a-4f41-847d-8d6650c04c4e,2024-06-10 17:19:00,Sanjay Manoj Reddy,sanjay.reddy705@gmail.com,+91 8875317756,sanjay.reddy@paytm,Apollo Pharmacy,XX4617,ICIC0003647,13834.99,Healthcare
+bf02cd8c-c403-40e6-a531-8833c4bd4c90,2024-06-10 17:57:00,Karan Shreya Reddy,karan.reddy794@gmail.com,+91 9739286313,karan.reddy@paytm,Tata Power,XX0348,KKBK0001432,2732.34,Utilities
+33689edc-5e47-4806-8117-5184befd5b4f,2024-06-10 18:47:00,Arjun Pandey,arjun.pandey814@gmail.com,+91 9748186737,arjun.pandey@paytm,Apollo Pharmacy,XX6329,UTIB0001361,3510.37,Healthcare
+5addcb6c-0223-4945-9169-4f11ae6401c9,2024-06-10 19:16:00,Aarti Kavita Mehta,aarti.mehta659@gmail.com,+91 7028521675,aarti.mehta@okhdfcbank,BookMyShow,XX9797,SBIN0008107,12871.66,Entertainment
+705f1e78-5646-429e-a13d-6a2bdf45e272,2024-06-10 20:13:00,Tanvi Sunita Bhat,tanvi.bhat413@gmail.com,+91 7094592338,tanvi.bhat@ybl,Airtel Broadband,XX9546,HDFC0009504,285.38,Utilities
+260c0277-f3b9-4da8-a0d8-63bfa1fb2bdf,2024-06-10 20:49:00,Ananya Meera Trivedi,ananya.trivedi443@gmail.com,+91 7011464854,ananya.trivedi@apl,Airtel Broadband,XX1295,UTIB0008617,9878.59,Utilities
+167a344c-a8e2-44ac-b504-e3eb0747f57e,2024-06-10 21:30:00,Bhavna Ghosh,bhavna.ghosh53@gmail.com,+91 9755988845,bhavna.ghosh@ybl,Cult.Fit Gym,XX9656,UTIB0006626,4367.41,Healthcare
+1816f667-343c-4859-a1ab-f4a5492a41f1,2024-06-10 22:22:00,Sunita Mishra,sunita.mishra447@gmail.com,+91 9164799244,sunita.mishra@okaxis,Tata Power,XX6622,KKBK0004579,1734.36,Utilities
+5ca9df6d-7ae1-4c8f-ae05-20f4c49b1822,2024-06-10 23:02:00,Pranav Ghosh,pranav.ghosh982@gmail.com,+91 9818077387,pranav.ghosh@okhdfcbank,MakeMyTrip Travels,XX0337,HDFC0001839,15997.76,Travel
+da37731d-a862-4c85-b282-e589a9e266ba,2024-06-10 23:45:00,Meera Pillai,meera.pillai423@gmail.com,+91 9780368504,meera.pillai@okhdfcbank,Zomato Online,XX0900,HDFC0008478,2555.84,Food & Dining
+f67518a4-acec-4cce-810c-eb08f5b5202f,2024-06-11 00:16:00,Tanvi Pillai,tanvi.pillai977@gmail.com,+91 9752892856,tanvi.pillai@okaxis,BookMyShow,XX7464,ICIC0002195,16994.46,Entertainment
+ebd79d43-0d82-41dc-bc38-de6dbd5d514e,2024-06-11 01:08:00,Ananya Menon,ananya.menon154@gmail.com,+91 9883296885,ananya.menon@paytm,Flipkart Internet,XX8957,HDFC0001394,16536.89,Shopping
+6080bf33-4385-4955-9afa-111667d5eeef,2024-06-11 01:53:00,Arjun Rajesh Joshi,arjun.joshi55@gmail.com,+91 8817972328,arjun.joshi@oksbi,Apollo Pharmacy,XX2263,UTIB0002644,9637.69,Healthcare
+af95e0a3-5ede-4ef1-b628-e9b8cf291e6e,2024-06-11 02:31:00,Pranav Malhotra,pranav.malhotra579@gmail.com,+91 9784883523,pranav.malhotra@okhdfcbank,Amazon Pay India,XX8076,SBIN0005774,5985.69,Shopping
+3f288563-960c-4b42-81be-8dd255a6e53d,2024-06-11 03:05:00,Ashok Manoj Bose,ashok.bose44@gmail.com,+91 9762180303,ashok.bose@oksbi,Reliance Fresh,XX6049,KKBK0006192,6101.75,Groceries
+743c9a4b-21ad-4425-8878-36c5fc947e93,2024-06-11 04:06:00,Bhavna Tanvi Chatterjee,bhavna.chatterjee310@gmail.com,+91 9834002895,bhavna.chatterjee@ybl,Tata Power,XX5187,KKBK0001422,10290.64,Utilities
+ded26901-e4d6-447b-b1f0-e9b04a42b692,2024-06-11 04:41:00,Vikram Shreya Iyer,vikram.iyer26@gmail.com,+91 9629583293,vikram.iyer@okhdfcbank,HP Petrol Pump,XX6301,KKBK0001022,2847.75,Transportation
+b5876f0a-2a80-473d-bdd9-8a4062034277,2024-06-11 05:19:00,Priya Karan Reddy,priya.reddy329@gmail.com,+91 9797909930,priya.reddy@apl,Zomato Online,XX5021,ICIC0004821,5099.00,Food & Dining
+a66d867c-7408-4e27-89c9-f26a0e29280d,2024-06-11 06:08:00,Deepa Deepa Deshmukh,deepa.deshmukh993@gmail.com,+91 9815380586,deepa.deshmukh@paytm,Apollo Pharmacy,XX2385,SBIN0001696,10486.87,Healthcare
+9a146084-d291-47a5-8746-43ad1bcc95b7,2024-06-11 06:53:00,Vikram Pooja Kulkarni,vikram.kulkarni459@gmail.com,+91 9844667599,vikram.kulkarni@oksbi,Zomato Online,XX0701,KKBK0008863,4954.72,Food & Dining
+3a44a012-35e7-4acd-97e6-973e2250d9ad,2024-06-11 07:24:00,Rohan Nikhil Agarwal,rohan.agarwal471@gmail.com,+91 8847543473,rohan.agarwal@paytm,Flipkart Internet,XX5730,UTIB0006555,13984.68,Shopping
+d6be4686-5c31-45f4-a8c4-36de947441db,2024-06-11 08:19:00,Rohan Ritu Sharma,rohan.sharma433@gmail.com,+91 9874348569,rohan.sharma@ybl,Tata Power,XX2913,SBIN0007900,4796.73,Utilities
+f89c7b10-6913-4981-8600-fff3ca09c4ed,2024-06-11 08:52:00,Ashok Gaurav Reddy,ashok.reddy636@gmail.com,+91 7038703415,ashok.reddy@apl,Starbucks India,XX1603,ICIC0002896,15318.27,Food & Dining
+b6219ace-2348-4a78-aec7-f915d2785a78,2024-06-11 09:40:00,Sanjay Suresh Menon,sanjay.menon129@gmail.com,+91 9839404895,sanjay.menon@paytm,BookMyShow,XX8652,ICIC0002222,12331.99,Entertainment
+0618ba7a-5eea-4731-aa56-f079b36a3bf0,2024-06-11 10:29:00,Neha Tanvi Mishra,neha.mishra317@gmail.com,+91 9191754677,neha.mishra@paytm,Reliance Fresh,XX6062,ICIC0006463,253.16,Groceries
+d35f00ad-5095-4916-8e70-c6ee1d285ff0,2024-06-11 11:07:00,Deepa Sneha Banerjee,deepa.banerjee248@gmail.com,+91 7019533809,deepa.banerjee@oksbi,MakeMyTrip Travels,XX6601,SBIN0006363,1356.82,Travel
+e69e0fbe-ef62-4d76-81a5-3db4f2307d5d,2024-06-11 11:52:00,Ananya Meera Banerjee,ananya.banerjee73@gmail.com,+91 9841000462,ananya.banerjee@apl,MakeMyTrip Travels,XX7306,ICIC0006155,1288.67,Travel
+b37b4947-42ff-4e18-9b80-064422bc65ef,2024-06-11 12:35:00,Rahul Pranav Deshmukh,rahul.deshmukh34@gmail.com,+91 9154522084,rahul.deshmukh@okicici,Flipkart Internet,XX6387,HDFC0004729,14466.78,Shopping
+c049130c-7109-4ce6-97cb-8200e02f688c,2024-06-11 13:22:00,Rahul Amit Menon,rahul.menon979@gmail.com,+91 9135911301,rahul.menon@okaxis,Zomato Online,XX6046,UTIB0006105,17473.08,Food & Dining
+fad924a7-45cc-4083-8491-e566ebd975e9,2024-06-11 14:06:00,Shreya Kulkarni,shreya.kulkarni369@gmail.com,+91 9895429521,shreya.kulkarni@okicici,Cult.Fit Gym,XX0941,UTIB0001045,15504.69,Healthcare
+157fb3ab-6214-4985-a476-9948676bb9af,2024-06-11 14:37:00,Alok Tanvi Banerjee,alok.banerjee507@gmail.com,+91 9829175605,alok.banerjee@okhdfcbank,Airtel Broadband,XX0942,ICIC0009008,4452.56,Utilities
+c70d1daa-984f-494c-911f-72e94d601117,2024-06-11 15:32:00,Suresh Sunita Joshi,suresh.joshi219@gmail.com,+91 9663857307,suresh.joshi@apl,Cult.Fit Gym,XX0348,UTIB0009694,17652.53,Healthcare
+ad55fd76-ac40-48b4-aecb-185854431043,2024-06-11 16:11:00,Ashok Manoj Kulkarni,ashok.kulkarni686@gmail.com,+91 9661605243,ashok.kulkarni@ybl,Swiggy Delivery,XX4479,SBIN0003534,3006.58,Food & Dining
+1482dcc4-17c3-4723-b1c8-996b84c3a5e8,2024-06-11 17:00:00,Aarti Sunita Gokhale,aarti.gokhale995@gmail.com,+91 8832037909,aarti.gokhale@okicici,Starbucks India,XX8493,ICIC0004874,1645.79,Food & Dining
+9fad1ab6-1524-4267-b4cf-c08a72fd95f6,2024-06-11 17:38:00,Manoj Bhat,manoj.bhat990@gmail.com,+91 8830373686,manoj.bhat@apl,Tata Power,XX5336,UTIB0004295,4505.69,Utilities
+4cd9b413-36e7-4838-b3ee-f3aa7fec061d,2024-06-11 18:20:00,Swati Chopra,swati.chopra229@gmail.com,+91 9167727800,swati.chopra@apl,Reliance Fresh,XX9745,KKBK0007174,14296.22,Groceries
+e21f1447-f3ba-466b-bd72-38dccd47524c,2024-06-11 18:57:00,Deepa Shetty,deepa.shetty589@gmail.com,+91 9743160881,deepa.shetty@okhdfcbank,Zara Fashion,XX7492,ICIC0008075,8157.28,Shopping
+d81661be-6c5e-4aa8-9b86-c46d79b4f30e,2024-06-11 19:35:00,Arjun Shetty,arjun.shetty260@gmail.com,+91 9894791790,arjun.shetty@oksbi,Reliance Fresh,XX3670,KKBK0002057,16221.88,Groceries
+98616598-b2bf-4eed-bb1c-87bcfd5d34df,2024-06-11 20:23:00,Rohan Malhotra,rohan.malhotra591@gmail.com,+91 9722470997,rohan.malhotra@okaxis,Uber India,XX9607,UTIB0004666,14455.36,Transportation
+24c76941-47a0-4310-9e64-7f1734c762ce,2024-06-11 21:03:00,Sanjay Malhotra,sanjay.malhotra574@gmail.com,+91 9168200738,sanjay.malhotra@okhdfcbank,Amazon Pay India,XX3459,HDFC0001403,12499.81,Shopping
+cd9d9730-a631-438e-bbc0-d36b8a38da03,2024-06-11 21:55:00,Ananya Rohan Dubey,ananya.dubey694@gmail.com,+91 7094086116,ananya.dubey@okaxis,Flipkart Internet,XX4294,SBIN0004974,13865.89,Shopping
+f4697ee2-1570-40ef-8957-83ac8d879c2e,2024-06-11 22:40:00,Pranav Dubey,pranav.dubey134@gmail.com,+91 9883290305,pranav.dubey@oksbi,Tata Power,XX5192,HDFC0007259,9789.04,Utilities
+f353b38b-c085-4423-b0c6-d9a9b37de4ef,2024-06-11 23:16:00,Suresh Singh,suresh.singh610@gmail.com,+91 9630055725,suresh.singh@ybl,Reliance Fresh,XX1015,UTIB0004309,12275.07,Groceries
+9a3ca1e4-0d03-4dec-a625-ea37497067c9,2024-06-11 23:59:00,Pranav Joshi,pranav.joshi459@gmail.com,+91 9111635686,pranav.joshi@paytm,Apollo Pharmacy,XX2612,UTIB0003319,1893.12,Healthcare
+13d5c0ac-0ac0-4c33-be52-792bcd92ef0c,2024-06-12 00:45:00,Ritu Shah,ritu.shah894@gmail.com,+91 8862390577,ritu.shah@okhdfcbank,Tata Power,XX9442,SBIN0003723,9913.95,Utilities
+1a14e245-f4fb-45e0-bb3f-e6e91c56651d,2024-06-12 01:36:00,Gaurav Rajesh Chopra,gaurav.chopra548@gmail.com,+91 7083287740,gaurav.chopra@oksbi,MakeMyTrip Travels,XX9224,HDFC0001810,1508.70,Travel
+45241ea4-eb0b-4d59-b8c9-7ec27d07c3be,2024-06-12 02:16:00,Ananya Harsh Nair,ananya.nair61@gmail.com,+91 9889281662,ananya.nair@paytm,Cult.Fit Gym,XX2561,HDFC0004707,750.55,Healthcare
+215714a5-dc56-434e-8e14-690633f3d457,2024-06-12 02:44:00,Pooja Joshi,pooja.joshi59@gmail.com,+91 9859987316,pooja.joshi@okaxis,Flipkart Internet,XX4565,UTIB0003071,4038.48,Shopping
+cbe21c39-4291-4c22-ac5a-d6109d096b36,2024-06-12 03:42:00,Suresh Swati Mishra,suresh.mishra292@gmail.com,+91 9825348318,suresh.mishra@paytm,Starbucks India,XX9737,UTIB0005358,14678.76,Food & Dining
+a01f3d8e-3bf0-431f-8dde-c3afb639d960,2024-06-12 04:23:00,Karan Neha Bhat,karan.bhat621@gmail.com,+91 9622854587,karan.bhat@okhdfcbank,BookMyShow,XX8792,SBIN0005984,830.28,Entertainment
+a54af063-cad8-4664-9cf9-49e54aaa9d60,2024-06-12 05:12:00,Kavita Ananya Singh,kavita.singh90@gmail.com,+91 9114661179,kavita.singh@okaxis,Tata Power,XX6518,HDFC0008357,6478.48,Utilities
+68b26eb0-b589-4a78-b9f3-2e376d578f08,2024-06-12 05:44:00,Deepa Bhat,deepa.bhat440@gmail.com,+91 9617507685,deepa.bhat@ybl,Apollo Pharmacy,XX2771,HDFC0007689,5542.27,Healthcare
+48b2e1e0-035d-4774-bde6-a4b96b5da9b6,2024-06-12 06:21:00,Aarti Kavita Mehta,aarti.mehta659@gmail.com,+91 7028521675,aarti.mehta@okhdfcbank,Uber India,XX9797,SBIN0008107,14134.52,Transportation
+f8f6928b-3434-4a05-b11a-82944eba6b7f,2024-06-12 07:17:00,Shreya Amit Shetty,shreya.shetty997@gmail.com,+91 7068906777,shreya.shetty@okaxis,Tata Power,XX0776,HDFC0002529,13320.51,Utilities
+f725e5d3-2f88-4810-b452-c18909b58544,2024-06-12 07:51:00,Shreya Gaurav Mehta,shreya.mehta154@gmail.com,+91 9763339667,shreya.mehta@ybl,MakeMyTrip Travels,XX5912,KKBK0007038,15100.53,Travel
+321db2a9-263b-401f-878e-e0f61920b3b8,2024-06-12 08:29:00,Harsh Gupta,harsh.gupta145@gmail.com,+91 8815519702,harsh.gupta@ybl,Flipkart Internet,XX0600,UTIB0006198,6884.97,Shopping
+5d993318-568e-47eb-9c3e-8909cd759156,2024-06-12 09:29:00,Ashok Aarti Reddy,ashok.reddy224@gmail.com,+91 9736260378,ashok.reddy@okhdfcbank,Flipkart Internet,XX1972,SBIN0003756,7176.95,Shopping
+69ec2440-963d-4225-8d2d-2dc61d343aa6,2024-06-12 10:03:00,Ananya Rajesh Mishra,ananya.mishra366@gmail.com,+91 9729596590,ananya.mishra@paytm,Uber India,XX1694,SBIN0004045,13622.93,Transportation
+c4e0d935-0fc7-457c-86d6-36d86e43669a,2024-06-12 10:55:00,Divya Sneha Joshi,divya.joshi985@gmail.com,+91 7054585582,divya.joshi@oksbi,Flipkart Internet,XX7965,UTIB0003255,17965.81,Shopping
+e7c5d660-e099-448f-b7e2-eaedd1ca7fa7,2024-06-12 11:20:00,Divya Pranav Menon,divya.menon211@gmail.com,+91 9692226818,divya.menon@paytm,Uber India,XX9871,ICIC0001274,8262.69,Transportation
+2c28dc15-22ce-4379-be73-69ec424c66a8,2024-06-12 12:15:00,Rajesh Mishra,rajesh.mishra362@gmail.com,+91 8862418887,rajesh.mishra@okhdfcbank,MakeMyTrip Travels,XX5912,HDFC0002155,4921.56,Travel
+c39c219c-1a47-4b93-bf79-3cea87f9fd8f,2024-06-12 12:50:00,Rajesh Ghosh,rajesh.ghosh30@gmail.com,+91 9676628843,rajesh.ghosh@ybl,MakeMyTrip Travels,XX4947,HDFC0002933,7480.10,Travel
+82f24b96-7db2-4b83-92c6-b0990b9bd771,2024-06-12 13:38:00,Karan Singh,karan.singh426@gmail.com,+91 9736169665,karan.singh@apl,Uber India,XX9070,HDFC0006850,3498.13,Transportation
+743305a9-ee63-418e-94e1-454d5e63f1c0,2024-06-12 14:29:00,Meera Sunita Saxena,meera.saxena878@gmail.com,+91 9781722941,meera.saxena@okaxis,MakeMyTrip Travels,XX3890,ICIC0006696,2705.50,Travel
+9d41ef78-602d-4c87-b0eb-7d86c62f5093,2024-06-12 15:03:00,Priya Banerjee,priya.banerjee730@gmail.com,+91 9748888385,priya.banerjee@paytm,BookMyShow,XX8619,SBIN0009721,15984.68,Entertainment
+2bca2ec4-d1d5-4c8f-8a82-c035a8b873d1,2024-06-12 15:48:00,Rajesh Swati Gokhale,rajesh.gokhale888@gmail.com,+91 9761494021,rajesh.gokhale@okaxis,MakeMyTrip Travels,XX1583,KKBK0005214,2012.69,Travel
+eda57078-118e-4216-b303-1fb130a9fc01,2024-06-12 16:28:00,Shreya Banerjee,shreya.banerjee379@gmail.com,+91 8875796428,shreya.banerjee@okhdfcbank,Zara Fashion,XX9826,ICIC0004455,10141.79,Shopping
+27aa8033-fe92-4f31-bde6-3fffc936d111,2024-06-12 17:09:00,Sneha Suresh Menon,sneha.menon332@gmail.com,+91 9758480869,sneha.menon@ybl,Starbucks India,XX4863,HDFC0007583,5819.17,Food & Dining
+096c7f13-91b8-4467-bc24-12b5d0d29ad1,2024-06-12 17:57:00,Rohan Rohan Sharma,rohan.sharma730@gmail.com,+91 9131254118,rohan.sharma@okicici,Zomato Online,XX0576,SBIN0007922,3458.22,Food & Dining
+90f7a931-3763-484e-8875-9aca48268ccd,2024-06-12 18:30:00,Divya Rajesh Trivedi,divya.trivedi709@gmail.com,+91 9798651694,divya.trivedi@paytm,Swiggy Delivery,XX0525,KKBK0008930,12779.81,Food & Dining
+d550701d-7b46-4ed0-8e14-fb58a84b6491,2024-06-12 19:21:00,Sunita Vikram Shah,sunita.shah523@gmail.com,+91 9184551091,sunita.shah@apl,Zara Fashion,XX7400,UTIB0005653,13684.00,Shopping
+a64a10b7-f574-4725-98ad-ba909363fd92,2024-06-12 19:59:00,Manoj Reddy,manoj.reddy177@gmail.com,+91 8843948447,manoj.reddy@okhdfcbank,Uber India,XX5531,KKBK0002833,4183.06,Transportation
+9e584fbf-3f3d-4f80-a8c3-f945dd408fe5,2024-06-12 20:39:00,Bhavna Ritu Shah,bhavna.shah546@gmail.com,+91 9835382690,bhavna.shah@okhdfcbank,Flipkart Internet,XX2036,ICIC0006973,11547.24,Shopping
+9df20ceb-a289-4701-8a84-c3e1ff153291,2024-06-12 21:36:00,Shreya Dubey,shreya.dubey995@gmail.com,+91 8838270305,shreya.dubey@oksbi,Reliance Fresh,XX4997,UTIB0002071,8911.09,Groceries
+6922cfe9-ad7f-4824-9ee8-87faea51e7ce,2024-06-12 22:07:00,Bhavna Aarti Hegde,bhavna.hegde532@gmail.com,+91 9127120235,bhavna.hegde@apl,Flipkart Internet,XX8239,KKBK0005623,11274.36,Shopping
+50fdf708-5867-47fc-8834-8b4c25271250,2024-06-12 22:53:00,Bhavna Chatterjee,bhavna.chatterjee154@gmail.com,+91 9728211123,bhavna.chatterjee@okhdfcbank,Apollo Pharmacy,XX0515,KKBK0003885,9433.77,Healthcare
+dc25120f-e29d-4ab7-bb91-5fb209fd06ec,2024-06-12 23:32:00,Kavita Hegde,kavita.hegde852@gmail.com,+91 9891948851,kavita.hegde@oksbi,Apollo Pharmacy,XX7350,SBIN0005946,5812.05,Healthcare
+fcd00a4a-c1a3-4f4a-9272-b02c2c8a6ffa,2024-06-13 00:14:00,Nikhil Sneha Mishra,nikhil.mishra990@gmail.com,+91 7093488889,nikhil.mishra@okicici,Reliance Fresh,XX8741,KKBK0005545,11810.97,Groceries
+f0753609-eace-4fc5-b135-98debb2c2653,2024-06-13 01:02:00,Rajesh Deshmukh,rajesh.deshmukh645@gmail.com,+91 9821548508,rajesh.deshmukh@okhdfcbank,MakeMyTrip Travels,XX1061,SBIN0005746,4345.87,Travel
+746ba14b-f3b5-425e-b9fd-2827f35d0b42,2024-06-13 01:40:00,Sanjay Arjun Shah,sanjay.shah933@gmail.com,+91 9176607527,sanjay.shah@oksbi,Zara Fashion,XX1382,HDFC0009172,16904.13,Shopping
+0e1b15f8-bd3a-41b3-927c-0e1bf3efd660,2024-06-13 02:40:00,Deepa Harsh Joshi,deepa.joshi85@gmail.com,+91 9814054841,deepa.joshi@okaxis,Zomato Online,XX4776,SBIN0007518,2644.64,Food & Dining
+6cba58c3-ce60-4c9c-8111-86d63e2e3f3f,2024-06-13 03:12:00,Neha Ananya Kulkarni,neha.kulkarni51@gmail.com,+91 9178910617,neha.kulkarni@ybl,Zomato Online,XX0943,UTIB0003671,5732.23,Food & Dining
+006e6a25-eec2-4829-a855-88ff925bf7f0,2024-06-13 03:55:00,Alok Arjun Mishra,alok.mishra486@gmail.com,+91 8823883460,alok.mishra@okhdfcbank,Zomato Online,XX1258,UTIB0004922,13594.38,Food & Dining
+c276af93-3ca5-4331-af99-1a9604c91d0d,2024-06-13 04:42:00,Ritu Dubey,ritu.dubey786@gmail.com,+91 9786120854,ritu.dubey@ybl,Swiggy Delivery,XX2038,SBIN0005417,2767.05,Food & Dining
+46759436-7d18-4872-ae29-3dbc4ffd60ab,2024-06-13 05:24:00,Rohan Swati Shetty,rohan.shetty455@gmail.com,+91 9888956536,rohan.shetty@apl,Zomato Online,XX0073,UTIB0007293,11481.00,Food & Dining
+3c9c2f63-a918-4b20-981f-327d3dcc34d4,2024-06-13 06:05:00,Harsh Dubey,harsh.dubey861@gmail.com,+91 7048785400,harsh.dubey@okaxis,HP Petrol Pump,XX8954,HDFC0004639,16928.43,Transportation
+7735585c-22db-49a1-8264-97f4ffd2fff1,2024-06-13 06:43:00,Gaurav Karan Malhotra,gaurav.malhotra307@gmail.com,+91 9179955294,gaurav.malhotra@okhdfcbank,Amazon Pay India,XX6039,UTIB0005803,11533.58,Shopping
+d804f37d-5306-4d11-84b7-4bd5680dbcfe,2024-06-13 07:38:00,Sanjay Nikhil Shetty,sanjay.shetty236@gmail.com,+91 8832351968,sanjay.shetty@okhdfcbank,Zomato Online,XX5219,KKBK0007212,17142.74,Food & Dining
+306e0888-8452-4a64-aa03-a91308657f3f,2024-06-13 08:20:00,Deepa Ananya Shetty,deepa.shetty590@gmail.com,+91 9810852935,deepa.shetty@okicici,Cult.Fit Gym,XX0370,KKBK0006061,7547.04,Healthcare
+49a8f11f-b4f9-4393-9054-5fa587177df0,2024-06-13 09:01:00,Sneha Shreya Hegde,sneha.hegde141@gmail.com,+91 9676107524,sneha.hegde@okaxis,Apollo Pharmacy,XX0171,UTIB0001784,11069.87,Healthcare
+eaebb6a8-4658-41e9-94e2-1e6029059a1a,2024-06-13 09:48:00,Karan Arjun Kulkarni,karan.kulkarni124@gmail.com,+91 9189328179,karan.kulkarni@apl,Zomato Online,XX7812,KKBK0003227,3023.02,Food & Dining
+3c384ef0-0e80-4c19-8881-16a49350e907,2024-06-13 10:25:00,Rajesh Gupta,rajesh.gupta308@gmail.com,+91 9751992881,rajesh.gupta@oksbi,Zomato Online,XX4241,UTIB0002742,4946.75,Food & Dining
+c88eb31a-1418-4a6d-a39b-db50051b3941,2024-06-13 11:10:00,Alok Manoj Menon,alok.menon512@gmail.com,+91 9148398260,alok.menon@ybl,Cult.Fit Gym,XX2894,SBIN0001397,3945.20,Healthcare
+e99dfe10-b39c-4df3-8fe5-aebb352d0a58,2024-06-13 11:54:00,Rahul Gaurav Menon,rahul.menon146@gmail.com,+91 9844864205,rahul.menon@okicici,MakeMyTrip Travels,XX5116,ICIC0008988,16707.97,Travel
+ced94680-71cb-40c3-acd4-318f4a7f6fa4,2024-06-13 12:38:00,Swati Pooja Saxena,swati.saxena34@gmail.com,+91 7027030337,swati.saxena@oksbi,Flipkart Internet,XX7441,UTIB0009489,888.70,Shopping
+e44e359e-7490-4e7f-80de-6bdce1e56b01,2024-06-13 13:27:00,Ritu Shah,ritu.shah894@gmail.com,+91 8862390577,ritu.shah@okhdfcbank,HP Petrol Pump,XX9442,SBIN0003723,10677.93,Transportation
+95714ffa-c177-4c01-8c5d-ebfdc04d4194,2024-06-13 13:53:00,Alok Suresh Iyer,alok.iyer870@gmail.com,+91 7047220099,alok.iyer@okicici,Airtel Broadband,XX5684,ICIC0006502,10381.67,Utilities
+e4386320-9711-470e-b725-a50d0952442e,2024-06-13 14:43:00,Pranav Tanvi Chatterjee,pranav.chatterjee397@gmail.com,+91 7060231696,pranav.chatterjee@okicici,Cult.Fit Gym,XX5631,KKBK0009773,14448.65,Healthcare
+9815d234-063c-4d51-bfb7-d2af8a4a6c80,2024-06-13 15:34:00,Manoj Priya Saxena,manoj.saxena796@gmail.com,+91 9684330223,manoj.saxena@okhdfcbank,MakeMyTrip Travels,XX2475,SBIN0009443,8545.71,Travel
+9ee64275-971d-4e35-ba26-4c4ed5be7db8,2024-06-13 16:17:00,Ashok Saxena,ashok.saxena596@gmail.com,+91 9795460073,ashok.saxena@okicici,Swiggy Delivery,XX4782,HDFC0003726,15372.48,Food & Dining
+06af281d-929c-448f-b21a-550e307791f8,2024-06-13 17:02:00,Alok Pillai,alok.pillai451@gmail.com,+91 9815950259,alok.pillai@okicici,Amazon Pay India,XX9945,KKBK0004082,5539.79,Shopping
+cfbeec35-423d-4f53-9b7a-144fc4cbeec0,2024-06-13 17:42:00,Rahul Malhotra,rahul.malhotra147@gmail.com,+91 9660493774,rahul.malhotra@apl,Uber India,XX9733,ICIC0001980,11237.98,Transportation
+1aa0421c-ebc1-415b-8c4f-ef9ac6900547,2024-06-13 18:16:00,Rajesh Rao,rajesh.rao131@gmail.com,+91 7047905442,rajesh.rao@okaxis,Uber India,XX6211,SBIN0004435,5337.74,Transportation
+8a23cf8e-3b0b-4c4f-b98b-aef4b67261d0,2024-06-13 18:54:00,Manoj Trivedi,manoj.trivedi475@gmail.com,+91 9658609538,manoj.trivedi@oksbi,Reliance Fresh,XX2574,HDFC0003478,13399.38,Groceries
+ee5f953b-e60b-41eb-826c-2d21cf11f92d,2024-06-13 19:46:00,Neha Ritu Gokhale,neha.gokhale230@gmail.com,+91 9152110357,neha.gokhale@okaxis,Zomato Online,XX9373,UTIB0002722,6040.27,Food & Dining
+a4f9ad92-9c49-4290-bda3-7b510c013057,2024-06-13 20:24:00,Ananya Kulkarni,ananya.kulkarni890@gmail.com,+91 9721635070,ananya.kulkarni@okaxis,Airtel Broadband,XX6751,UTIB0003290,16514.92,Utilities
+4b8063e8-8725-4507-b69b-196b573f152b,2024-06-13 21:01:00,Sanjay Harsh Gupta,sanjay.gupta504@gmail.com,+91 8851861799,sanjay.gupta@okaxis,Uber India,XX1620,UTIB0002736,11351.86,Transportation
+a03e39ff-b803-451d-8cb2-d4bbcf8b6135,2024-06-13 22:01:00,Nikhil Sunita Gupta,nikhil.gupta44@gmail.com,+91 9886984297,nikhil.gupta@okhdfcbank,Flipkart Internet,XX0576,KKBK0003938,9545.32,Shopping
+896e719e-8c87-49d5-a69f-9332814265ea,2024-06-13 22:39:00,Harsh Mehta,harsh.mehta460@gmail.com,+91 9616281117,harsh.mehta@okhdfcbank,Zara Fashion,XX4386,KKBK0009218,3605.85,Shopping
+413a78fa-c25e-4b31-8dfa-bba568c05382,2024-06-13 23:25:00,Divya Bose,divya.bose37@gmail.com,+91 9798318537,divya.bose@okicici,MakeMyTrip Travels,XX5697,KKBK0002107,4273.57,Travel
+b845966d-cd70-41df-b46e-4b30684511c5,2024-06-14 00:08:00,Arjun Sneha Saxena,arjun.saxena798@gmail.com,+91 8855465290,arjun.saxena@apl,Swiggy Delivery,XX5866,SBIN0005639,9841.10,Food & Dining
+605ff27d-7e1f-4476-8c00-cec6aa13fde1,2024-06-14 00:53:00,Ritu Pandey,ritu.pandey923@gmail.com,+91 8899174686,ritu.pandey@ybl,HP Petrol Pump,XX5485,KKBK0007502,14214.82,Transportation
+88eede7a-47be-4461-86a6-5f69bff851e1,2024-06-14 01:37:00,Tanvi Ananya Chatterjee,tanvi.chatterjee851@gmail.com,+91 8831604401,tanvi.chatterjee@oksbi,Uber India,XX1803,KKBK0007489,17323.88,Transportation
+8cd9eb6e-e5b1-48f9-8610-396564471dcc,2024-06-14 02:07:00,Sunita Chopra,sunita.chopra895@gmail.com,+91 7093974612,sunita.chopra@oksbi,Apollo Pharmacy,XX4766,HDFC0006743,3822.15,Healthcare
+e3ced9dc-fb8f-4b66-9d8d-1d3180bfbe7a,2024-06-14 02:48:00,Meera Manoj Mehta,meera.mehta607@gmail.com,+91 9648307739,meera.mehta@apl,Apollo Pharmacy,XX8506,SBIN0009656,1906.58,Healthcare
+7fcc0932-624a-4a7d-ba08-7253cc00c779,2024-06-14 03:33:00,Bhavna Pranav Kulkarni,bhavna.kulkarni76@gmail.com,+91 8865438388,bhavna.kulkarni@okhdfcbank,Cult.Fit Gym,XX6781,HDFC0001756,16822.54,Healthcare
+e9e3b7d9-9b26-49d7-8b49-e50ad02181a8,2024-06-14 04:11:00,Bhavna Pooja Gupta,bhavna.gupta56@gmail.com,+91 9667521272,bhavna.gupta@paytm,BookMyShow,XX1950,UTIB0009100,5119.37,Entertainment
+82f77be5-8a8f-4909-9f97-6d865c209d71,2024-06-14 05:03:00,Ashok Pandey,ashok.pandey690@gmail.com,+91 9864289660,ashok.pandey@apl,BookMyShow,XX3680,HDFC0005912,83.11,Entertainment
+9e65c5b0-3af4-41f9-bcb5-cb921e68609e,2024-06-14 05:41:00,Pranav Divya Banerjee,pranav.banerjee738@gmail.com,+91 9814367911,pranav.banerjee@paytm,MakeMyTrip Travels,XX8538,HDFC0006373,14030.94,Travel
+03e44a8b-1196-4bd0-82af-f6fc395a9c7e,2024-06-14 06:23:00,Bhavna Suresh Bose,bhavna.bose579@gmail.com,+91 7057956720,bhavna.bose@oksbi,Uber India,XX3049,KKBK0005134,17764.19,Transportation
+be6b9959-9db5-408e-b5b1-f4d9a9b188f8,2024-06-14 07:15:00,Amit Chopra,amit.chopra567@gmail.com,+91 9135688312,amit.chopra@apl,Tata Power,XX1979,ICIC0002207,16516.36,Utilities
+419d17fd-86cc-4235-b89c-26c95f185ab8,2024-06-14 08:00:00,Rahul Shah,rahul.shah269@gmail.com,+91 7043743082,rahul.shah@okhdfcbank,MakeMyTrip Travels,XX9906,ICIC0007329,15927.35,Travel
+462af151-b987-43cc-9584-a041b65910f1,2024-06-14 08:40:00,Sunita Iyer,sunita.iyer148@gmail.com,+91 9776894182,sunita.iyer@okicici,Amazon Pay India,XX7264,SBIN0001478,7644.20,Shopping
+3c681ff0-5d62-450d-8393-ff487563f6ad,2024-06-14 09:31:00,Priya Pandey,priya.pandey867@gmail.com,+91 7014783007,priya.pandey@oksbi,Reliance Fresh,XX0852,SBIN0005346,3596.77,Groceries
+1f697e33-92c6-4851-96e8-ceaf913c96cc,2024-06-14 09:56:00,Gaurav Sneha Bose,gaurav.bose615@gmail.com,+91 7062336123,gaurav.bose@okicici,Reliance Fresh,XX6131,SBIN0004804,1373.62,Groceries
+d105a0c7-b1f0-42fb-aca6-3a9fd458e6f5,2024-06-14 10:50:00,Manoj Reddy,manoj.reddy177@gmail.com,+91 8843948447,manoj.reddy@okhdfcbank,Flipkart Internet,XX5531,KKBK0002833,16968.11,Shopping
+95263b39-a6b8-4948-b34e-b6fda8369cd9,2024-06-14 11:39:00,Manoj Reddy,manoj.reddy177@gmail.com,+91 8843948447,manoj.reddy@okhdfcbank,Reliance Fresh,XX5531,KKBK0002833,6219.74,Groceries
+9b03f2d9-ba59-4e22-b12f-813129c00e66,2024-06-14 12:15:00,Manoj Harsh Bhat,manoj.bhat143@gmail.com,+91 9645833311,manoj.bhat@apl,Flipkart Internet,XX1440,HDFC0008854,8848.97,Shopping
+c163e34e-4cfe-4bba-9744-cc00adcd87cf,2024-06-14 13:02:00,Rajesh Reddy,rajesh.reddy973@gmail.com,+91 9182558971,rajesh.reddy@ybl,Tata Power,XX6612,KKBK0003749,14474.55,Utilities
+61e83f94-30f5-43a4-a84b-52174898e9af,2024-06-14 13:42:00,Sneha Deepa Iyer,sneha.iyer63@gmail.com,+91 9652314549,sneha.iyer@okhdfcbank,Amazon Pay India,XX6470,KKBK0008057,1950.17,Shopping
+67a99327-d493-4da7-ba5d-3a51689cc646,2024-06-14 14:26:00,Sanjay Pranav Verma,sanjay.verma799@gmail.com,+91 8823056527,sanjay.verma@okicici,Cult.Fit Gym,XX7402,ICIC0004014,6713.70,Healthcare
+444a1f40-a807-4727-992f-51a6d38d6d3a,2024-06-14 15:04:00,Arjun Meera Deshmukh,arjun.deshmukh370@gmail.com,+91 9650538196,arjun.deshmukh@okaxis,Flipkart Internet,XX0033,HDFC0009935,12834.71,Shopping
+87dfe720-9110-4a6e-9b4e-9038bdd2f46c,2024-06-14 15:42:00,Ananya Vikram Trivedi,ananya.trivedi860@gmail.com,+91 9634572290,ananya.trivedi@okaxis,BookMyShow,XX9795,KKBK0006593,209.89,Entertainment
+93d1e101-e8b2-41bd-9792-139c162af274,2024-06-14 16:35:00,Kavita Dubey,kavita.dubey213@gmail.com,+91 9838426218,kavita.dubey@ybl,Tata Power,XX5903,UTIB0005028,11204.10,Utilities
+8b038f39-efd2-4524-82de-67610d35ac52,2024-06-14 17:13:00,Pranav Karan Ghosh,pranav.ghosh93@gmail.com,+91 9896094462,pranav.ghosh@okicici,Cult.Fit Gym,XX3354,HDFC0009938,1638.81,Healthcare
+411fb73a-a481-4333-83e1-e71a611367ff,2024-06-14 17:55:00,Ashok Bhat,ashok.bhat973@gmail.com,+91 8848365712,ashok.bhat@okaxis,Uber India,XX8667,UTIB0001720,7684.27,Transportation
+841000d4-9858-4586-be5f-db48cd75048e,2024-06-14 18:32:00,Vikram Iyer,vikram.iyer947@gmail.com,+91 7055450055,vikram.iyer@okhdfcbank,Apollo Pharmacy,XX7860,ICIC0004984,7622.48,Healthcare
+ef8ff89c-05d1-45f8-8f3b-27d795a8a801,2024-06-14 19:16:00,Ashok Manoj Iyer,ashok.iyer165@gmail.com,+91 9790194732,ashok.iyer@okhdfcbank,Swiggy Delivery,XX8467,ICIC0008278,204.41,Food & Dining
+9aea2a91-5198-401d-8649-2f3603f371be,2024-06-14 19:58:00,Harsh Meera Sharma,harsh.sharma758@gmail.com,+91 9862978256,harsh.sharma@oksbi,Flipkart Internet,XX1625,SBIN0001225,1561.89,Shopping
+6bcabff2-0817-4584-95e4-1bdeff0ce22e,2024-06-14 20:48:00,Arjun Gaurav Ghosh,arjun.ghosh969@gmail.com,+91 9739450832,arjun.ghosh@okicici,Zomato Online,XX0236,HDFC0002687,6819.34,Food & Dining
+f52860d3-8358-4555-ac52-5d53cc2e7a80,2024-06-14 21:39:00,Sneha Kulkarni,sneha.kulkarni478@gmail.com,+91 9658692457,sneha.kulkarni@okaxis,Flipkart Internet,XX8391,SBIN0001336,11968.99,Shopping
+8534c40f-df81-4e88-966b-af6fdf0f5535,2024-06-14 22:24:00,Ashok Reddy,ashok.reddy600@gmail.com,+91 9743133080,ashok.reddy@okaxis,Flipkart Internet,XX3593,UTIB0001082,4592.78,Shopping
+9b431ba9-8ff4-474b-806d-608e0da8cd88,2024-06-14 22:56:00,Nikhil Shreya Malhotra,nikhil.malhotra723@gmail.com,+91 9146059690,nikhil.malhotra@oksbi,Zomato Online,XX2658,ICIC0006736,1373.15,Food & Dining
+a3077e4b-29d2-42c9-8b8e-ddbcee2ade4c,2024-06-14 23:32:00,Swati Aarti Dubey,swati.dubey667@gmail.com,+91 9161065827,swati.dubey@paytm,Uber India,XX3474,HDFC0006942,7555.36,Transportation
+769957da-5df0-4970-8a24-5907173761bb,2024-06-15 00:15:00,Arjun Dubey,arjun.dubey507@gmail.com,+91 9138688676,arjun.dubey@okaxis,Reliance Fresh,XX4082,UTIB0008973,13886.20,Groceries
+1431551b-00ce-44e5-bda4-d3b784104557,2024-06-15 01:16:00,Ashok Deepa Dubey,ashok.dubey507@gmail.com,+91 9196053297,ashok.dubey@okhdfcbank,Zara Fashion,XX7809,KKBK0009453,8799.27,Shopping
+18ead262-11fa-4e7e-820e-451fce96ec63,2024-06-15 01:53:00,Pooja Verma,pooja.verma233@gmail.com,+91 9745496712,pooja.verma@okicici,Starbucks India,XX8317,KKBK0001660,2194.15,Food & Dining
+29c3e066-1591-4eea-89ed-39273f65facd,2024-06-15 02:34:00,Ananya Aarti Hegde,ananya.hegde248@gmail.com,+91 9680626938,ananya.hegde@apl,BookMyShow,XX9800,UTIB0005784,6844.77,Entertainment
+8a53e1ce-aa42-43bc-8bd3-0e864f67a0ca,2024-06-15 03:18:00,Suresh Ananya Hegde,suresh.hegde720@gmail.com,+91 9677620927,suresh.hegde@apl,Tata Power,XX0691,UTIB0001432,16910.30,Utilities
+1a800735-23ae-4fbb-8725-1d635cae0045,2024-06-15 03:54:00,Ashok Sunita Singh,ashok.singh409@gmail.com,+91 9679068413,ashok.singh@oksbi,Flipkart Internet,XX6685,KKBK0007073,3063.08,Shopping
+69b56f96-3bda-490e-9edc-c2bb1c37c702,2024-06-15 04:46:00,Karan Meera Banerjee,karan.banerjee634@gmail.com,+91 9732341731,karan.banerjee@paytm,Swiggy Delivery,XX1003,KKBK0007378,18298.69,Food & Dining
+fe8c8c2b-b916-49ac-a434-effb31d69cfc,2024-06-15 05:35:00,Ashok Rahul Pillai,ashok.pillai492@gmail.com,+91 9879046488,ashok.pillai@ybl,Starbucks India,XX0070,HDFC0002695,16520.66,Food & Dining
+c31f91dc-78f8-4e12-8360-b94972236f36,2024-06-15 06:14:00,Ananya Patel,ananya.patel587@gmail.com,+91 9786060638,ananya.patel@paytm,Uber India,XX5996,SBIN0002284,11766.52,Transportation
+da5e6e1f-4b82-4a23-9f53-0e7eb437b808,2024-06-15 06:43:00,Vikram Shetty,vikram.shetty112@gmail.com,+91 7036378831,vikram.shetty@oksbi,Amazon Pay India,XX8356,SBIN0005789,15086.78,Shopping
+bf1a55b8-4e97-4112-aa19-1267803d395f,2024-06-15 07:38:00,Pranav Pooja Menon,pranav.menon846@gmail.com,+91 9116832501,pranav.menon@okaxis,Zara Fashion,XX2534,KKBK0001883,10558.87,Shopping
+8efcf060-5b79-4a56-b2a1-7fa4ccaac863,2024-06-15 08:27:00,Bhavna Rohan Trivedi,bhavna.trivedi741@gmail.com,+91 8873540928,bhavna.trivedi@oksbi,BookMyShow,XX5028,UTIB0009827,13422.42,Entertainment
+26a2b371-1247-4790-9dc7-528489bad9c7,2024-06-15 09:01:00,Kavita Ananya Singh,kavita.singh90@gmail.com,+91 9114661179,kavita.singh@okaxis,BookMyShow,XX6518,HDFC0008357,8224.71,Entertainment
+26cff442-e635-4074-bdb6-d8474b498d16,2024-06-15 09:51:00,Rajesh Meera Rao,rajesh.rao404@gmail.com,+91 9111166562,rajesh.rao@apl,Flipkart Internet,XX7547,SBIN0008488,5134.02,Shopping
+58cf8550-eec2-44de-89fa-382927b53ccc,2024-06-15 10:23:00,Sanjay Chopra,sanjay.chopra979@gmail.com,+91 9746307023,sanjay.chopra@okhdfcbank,BookMyShow,XX6359,UTIB0004731,6589.52,Entertainment
+390ef83f-16a6-45b6-adb4-ec247a056c32,2024-06-15 11:01:00,Kavita Karan Banerjee,kavita.banerjee482@gmail.com,+91 8864653122,kavita.banerjee@paytm,Starbucks India,XX2718,HDFC0001481,5207.65,Food & Dining
+b87a9f2f-2f0a-4bf1-baf4-0d71456be892,2024-06-15 11:46:00,Sneha Swati Mishra,sneha.mishra74@gmail.com,+91 9623920713,sneha.mishra@oksbi,Zara Fashion,XX5840,HDFC0007572,5894.22,Shopping
+74c622d6-744a-4cc6-9e77-8686836943c0,2024-06-15 12:43:00,Rohan Neha Banerjee,rohan.banerjee915@gmail.com,+91 8821862128,rohan.banerjee@okicici,Amazon Pay India,XX1802,SBIN0004581,5772.41,Shopping
+8189b419-d397-470a-95ee-6e567d74a21c,2024-06-15 13:19:00,Gaurav Iyer,gaurav.iyer536@gmail.com,+91 9894010652,gaurav.iyer@paytm,Swiggy Delivery,XX3047,UTIB0005093,8071.52,Food & Dining
+c447b86f-33e9-41c2-9708-fe80c4244363,2024-06-15 14:03:00,Shreya Aarti Patel,shreya.patel56@gmail.com,+91 9120315843,shreya.patel@oksbi,Amazon Pay India,XX4634,KKBK0003215,13360.11,Shopping
+3aac449a-b1f5-496d-9666-187f2c4b7e57,2024-06-15 14:54:00,Gaurav Reddy,gaurav.reddy978@gmail.com,+91 7094318115,gaurav.reddy@okhdfcbank,Swiggy Delivery,XX0420,UTIB0003566,8970.80,Food & Dining
+760b34b3-5cb7-4476-84a9-6b6fdc25b683,2024-06-15 15:26:00,Bhavna Harsh Malhotra,bhavna.malhotra31@gmail.com,+91 9782065988,bhavna.malhotra@oksbi,BookMyShow,XX2720,UTIB0002475,14364.79,Entertainment
+cc12be55-8622-433e-a41a-6629ae939e6f,2024-06-15 16:15:00,Bhavna Kavita Singh,bhavna.singh899@gmail.com,+91 7022501261,bhavna.singh@apl,Apollo Pharmacy,XX7943,KKBK0008039,9518.22,Healthcare
+1b27c0f9-aee1-4317-9d04-0d4f27e0aed6,2024-06-15 16:46:00,Shreya Manoj Agarwal,shreya.agarwal234@gmail.com,+91 9128585996,shreya.agarwal@okaxis,Uber India,XX7415,HDFC0001988,8539.22,Transportation
+78209233-0a5f-49c7-ae29-79d8472c0eea,2024-06-15 17:37:00,Aarti Nikhil Nair,aarti.nair881@gmail.com,+91 9110821534,aarti.nair@okicici,BookMyShow,XX3328,UTIB0006539,16018.33,Entertainment
+18081b2e-cf2c-4ff6-bbb2-0f54e957a1b3,2024-06-15 18:26:00,Ritu Nair,ritu.nair226@gmail.com,+91 9866763408,ritu.nair@apl,Airtel Broadband,XX2476,UTIB0008396,6194.64,Utilities
+24182d57-dbb9-4052-a04b-6ed4363264f8,2024-06-15 19:04:00,Swati Chopra,swati.chopra229@gmail.com,+91 9167727800,swati.chopra@apl,Starbucks India,XX9745,KKBK0007174,4901.77,Food & Dining
+dfee3b30-56c4-4cfc-adad-eb4574b18ed9,2024-06-15 19:42:00,Aarti Neha Shah,aarti.shah132@gmail.com,+91 9781620955,aarti.shah@oksbi,HP Petrol Pump,XX5798,HDFC0008145,14371.02,Transportation
+2371c972-25ed-42e3-94f1-85cde58ff910,2024-06-15 20:33:00,Sanjay Sharma,sanjay.sharma228@gmail.com,+91 8818766008,sanjay.sharma@paytm,Airtel Broadband,XX3873,HDFC0005953,7907.25,Utilities
+5514eb0c-b3d0-4b21-835b-2b0ead01961a,2024-06-15 21:19:00,Pooja Pranav Bhat,pooja.bhat906@gmail.com,+91 9124988449,pooja.bhat@oksbi,Flipkart Internet,XX6538,KKBK0002608,2504.18,Shopping
+cf0e332e-a7e9-47b0-804d-248eebb80dfc,2024-06-15 21:47:00,Harsh Swati Verma,harsh.verma118@gmail.com,+91 9154683276,harsh.verma@okicici,BookMyShow,XX1520,HDFC0009411,4194.85,Entertainment
+f4cbc48a-901f-47c5-b1f4-96b9b7015902,2024-06-15 22:33:00,Pooja Sharma,pooja.sharma412@gmail.com,+91 7094214116,pooja.sharma@paytm,MakeMyTrip Travels,XX3824,HDFC0003222,1414.92,Travel
+de51ffd2-51fc-4c45-a57a-fce144ff4157,2024-06-15 23:12:00,Priya Singh,priya.singh283@gmail.com,+91 9129074864,priya.singh@ybl,Swiggy Delivery,XX4660,UTIB0002248,17509.66,Food & Dining
+ad927443-2e2c-4543-972e-e87c75fe0e7b,2024-06-15 23:56:00,Divya Manoj Pandey,divya.pandey160@gmail.com,+91 9641504589,divya.pandey@okicici,HP Petrol Pump,XX4153,UTIB0008085,16271.29,Transportation
+c22768fe-eafb-40a0-8c7c-083cd0c6bd01,2024-06-16 00:46:00,Gaurav Aarti Chatterjee,gaurav.chatterjee157@gmail.com,+91 9176721392,gaurav.chatterjee@oksbi,Amazon Pay India,XX2123,UTIB0001720,3820.03,Shopping
+6ecb86f8-1c5b-4124-8701-a693b5434b9c,2024-06-16 01:27:00,Suresh Vikram Mishra,suresh.mishra254@gmail.com,+91 8830320489,suresh.mishra@ybl,Amazon Pay India,XX7318,KKBK0009021,11422.92,Shopping
+80d8031f-404e-46f7-9cc7-c472c8d07ec5,2024-06-16 02:17:00,Manoj Gaurav Banerjee,manoj.banerjee251@gmail.com,+91 9752493177,manoj.banerjee@ybl,Cult.Fit Gym,XX7591,SBIN0004044,13604.26,Healthcare
+cfdda5b3-9c71-4e24-ae80-69a8eb88b6a8,2024-06-16 02:54:00,Sanjay Gokhale,sanjay.gokhale775@gmail.com,+91 9156852200,sanjay.gokhale@oksbi,Cult.Fit Gym,XX8768,KKBK0004247,8225.71,Healthcare
+4602e6e0-f7e1-4409-ab92-d980757c62a9,2024-06-16 03:29:00,Tanvi Banerjee,tanvi.banerjee957@gmail.com,+91 9687489644,tanvi.banerjee@okhdfcbank,Zara Fashion,XX7334,HDFC0004663,6344.46,Shopping
+29b4d54f-b7c6-480f-b139-2aa08bc77977,2024-06-16 04:27:00,Aarti Deepa Deshmukh,aarti.deshmukh303@gmail.com,+91 8833684129,aarti.deshmukh@apl,Swiggy Delivery,XX6986,KKBK0007338,4943.10,Food & Dining
+18e389ee-0eae-4c92-955d-c95c841c686b,2024-06-16 05:05:00,Sunita Ananya Chopra,sunita.chopra288@gmail.com,+91 9773919587,sunita.chopra@okicici,Airtel Broadband,XX6380,ICIC0002644,4014.06,Utilities
+0cecfab8-ed1b-4ffd-bda3-ea83b737bbba,2024-06-16 05:54:00,Vikram Ghosh,vikram.ghosh25@gmail.com,+91 8814441749,vikram.ghosh@okicici,MakeMyTrip Travels,XX8019,SBIN0005334,14484.49,Travel
+5eea2071-f5a9-4732-b473-894f78dbf5f4,2024-06-16 06:25:00,Divya Deshmukh,divya.deshmukh43@gmail.com,+91 9156109921,divya.deshmukh@apl,HP Petrol Pump,XX0359,UTIB0006805,3750.01,Transportation
+dd80a0fa-6364-4d03-aa08-d952d014471b,2024-06-16 07:19:00,Neha Karan Pillai,neha.pillai11@gmail.com,+91 9899619369,neha.pillai@paytm,MakeMyTrip Travels,XX7267,HDFC0007343,18292.93,Travel
+dc15daf5-032a-4097-ade7-1bb3a52b5468,2024-06-16 07:55:00,Tanvi Kulkarni,tanvi.kulkarni144@gmail.com,+91 8860416255,tanvi.kulkarni@paytm,HP Petrol Pump,XX9237,HDFC0006124,13478.80,Transportation
+9df346c9-15df-455f-843b-2d7cd3b2b6fd,2024-06-16 08:36:00,Kavita Ananya Verma,kavita.verma17@gmail.com,+91 9636891808,kavita.verma@okhdfcbank,Apollo Pharmacy,XX0443,ICIC0002256,15204.65,Healthcare
+b56cbff2-5c69-4045-b2d8-510f8fad53dc,2024-06-16 09:14:00,Pranav Priya Mehta,pranav.mehta922@gmail.com,+91 8857470916,pranav.mehta@ybl,BookMyShow,XX3458,UTIB0008681,5845.47,Entertainment
+cf678793-7ab2-4cc9-89a8-b5e77c9c34af,2024-06-16 09:58:00,Harsh Sunita Hegde,harsh.hegde685@gmail.com,+91 8819392480,harsh.hegde@okaxis,Zomato Online,XX6202,UTIB0002814,14571.25,Food & Dining
+a03e55a7-9a2d-4c8b-bb51-362e5e5c9e54,2024-06-16 10:46:00,Pranav Hegde,pranav.hegde540@gmail.com,+91 9689443352,pranav.hegde@oksbi,Zomato Online,XX1557,SBIN0001355,2956.74,Food & Dining
+465b260f-832d-4ece-98f5-39680416f9a9,2024-06-16 11:35:00,Meera Ananya Singh,meera.singh143@gmail.com,+91 9841555368,meera.singh@okaxis,Reliance Fresh,XX0373,UTIB0009487,2100.75,Groceries
+aa20f77c-a373-402b-aa85-59cf0aa53520,2024-06-16 12:14:00,Neha Priya Reddy,neha.reddy933@gmail.com,+91 9651971760,neha.reddy@okicici,Uber India,XX3310,ICIC0004652,3431.86,Transportation
+c968b0d7-c82f-4275-98a6-a218fb59943a,2024-06-16 12:49:00,Aarti Nair,aarti.nair842@gmail.com,+91 7095128134,aarti.nair@okaxis,Flipkart Internet,XX6696,ICIC0003389,2488.70,Shopping
+34b746fb-3867-4cd2-9549-6ce728ec8cc4,2024-06-16 13:38:00,Pooja Verma,pooja.verma233@gmail.com,+91 9745496712,pooja.verma@okicici,Airtel Broadband,XX8317,KKBK0001660,12737.38,Utilities
+3fbabbe8-6764-4d3b-acc2-507dbfe8dcaf,2024-06-16 14:20:00,Divya Rajesh Trivedi,divya.trivedi709@gmail.com,+91 9798651694,divya.trivedi@paytm,Starbucks India,XX0525,KKBK0008930,7600.04,Food & Dining
+e2d6d545-4550-49d0-b72e-c635e260b1c4,2024-06-16 15:07:00,Amit Iyer,amit.iyer677@gmail.com,+91 9863207566,amit.iyer@paytm,Airtel Broadband,XX9794,HDFC0009563,7257.51,Utilities
+ebf3959f-61c2-4aeb-bb88-8743afd96677,2024-06-16 15:44:00,Ananya Manoj Shah,ananya.shah182@gmail.com,+91 9683579784,ananya.shah@paytm,Zara Fashion,XX5205,KKBK0002761,2435.68,Shopping
+ec4dc5f8-3436-4c04-8903-ac7026b9e0f7,2024-06-16 16:32:00,Rajesh Arjun Shah,rajesh.shah139@gmail.com,+91 8856717280,rajesh.shah@oksbi,Amazon Pay India,XX3479,ICIC0008101,2405.77,Shopping
+271bbe1c-dc1f-46e8-b53c-7e131696d6db,2024-06-16 17:19:00,Ashok Sunita Singh,ashok.singh409@gmail.com,+91 9679068413,ashok.singh@oksbi,Apollo Pharmacy,XX6685,KKBK0007073,8533.30,Healthcare
+9cfb220f-f9c6-474a-96f7-0522dfb4d0c5,2024-06-16 17:53:00,Shreya Tanvi Chatterjee,shreya.chatterjee26@gmail.com,+91 9184644818,shreya.chatterjee@apl,Zara Fashion,XX2045,UTIB0003997,15723.78,Shopping
+6277fb02-9036-472c-b856-25a86ee9950c,2024-06-16 18:36:00,Priya Manoj Joshi,priya.joshi148@gmail.com,+91 7082381952,priya.joshi@okicici,HP Petrol Pump,XX1250,KKBK0009745,7868.96,Transportation
+2c3c278e-1e88-48a2-8c6a-7b5c5c57b546,2024-06-16 19:30:00,Sneha Sunita Malhotra,sneha.malhotra701@gmail.com,+91 9665931092,sneha.malhotra@oksbi,Starbucks India,XX5970,UTIB0004007,6486.82,Food & Dining
+7bcc8ef9-95e0-4132-abb1-8747c907304f,2024-06-16 20:14:00,Bhavna Suresh Bose,bhavna.bose579@gmail.com,+91 7057956720,bhavna.bose@oksbi,Cult.Fit Gym,XX3049,KKBK0005134,13822.86,Healthcare
+451d0720-60b3-4465-9345-deb22c413737,2024-06-16 20:47:00,Arjun Pranav Pillai,arjun.pillai838@gmail.com,+91 9623126013,arjun.pillai@okhdfcbank,Flipkart Internet,XX8696,UTIB0003406,1462.68,Shopping
+1235e4aa-b06d-40f9-9988-2c6b6e04014e,2024-06-16 21:24:00,Rajesh Menon,rajesh.menon272@gmail.com,+91 9821356205,rajesh.menon@paytm,Swiggy Delivery,XX4170,HDFC0001756,16402.89,Food & Dining
+d4057f96-c488-48a9-8177-abd176efa4f1,2024-06-16 22:11:00,Bhavna Ghosh,bhavna.ghosh53@gmail.com,+91 9755988845,bhavna.ghosh@ybl,Cult.Fit Gym,XX9656,UTIB0006626,5380.53,Healthcare
+3f1c7b50-1f74-474f-aefa-bd3c16c2e0df,2024-06-16 22:50:00,Rajesh Ashok Pandey,rajesh.pandey487@gmail.com,+91 8879831033,rajesh.pandey@apl,Amazon Pay India,XX0409,ICIC0008367,14088.25,Shopping
+14d9fd08-c85b-4e94-92a5-f0773cd39e63,2024-06-16 23:39:00,Nikhil Swati Chatterjee,nikhil.chatterjee220@gmail.com,+91 8891515342,nikhil.chatterjee@okaxis,Starbucks India,XX1951,KKBK0001536,7809.19,Food & Dining
+af355f3a-1c11-4040-ba48-bc89a87b9a24,2024-06-17 00:31:00,Gaurav Chatterjee,gaurav.chatterjee249@gmail.com,+91 7094621886,gaurav.chatterjee@apl,Apollo Pharmacy,XX6317,HDFC0003488,9608.54,Healthcare
+c9508377-bc05-4817-a512-f52fb2466f97,2024-06-17 01:13:00,Sanjay Sharma,sanjay.sharma228@gmail.com,+91 8818766008,sanjay.sharma@paytm,Flipkart Internet,XX3873,HDFC0005953,13235.85,Shopping
+7ea69255-8c90-4ed7-9975-68a01729eab6,2024-06-17 01:50:00,Pooja Malhotra,pooja.malhotra200@gmail.com,+91 7073323698,pooja.malhotra@ybl,HP Petrol Pump,XX9702,ICIC0003505,10832.02,Transportation
+ee8847b9-70a3-48fb-b9ac-0b4068299bee,2024-06-17 02:36:00,Divya Manoj Pandey,divya.pandey160@gmail.com,+91 9641504589,divya.pandey@okicici,Zara Fashion,XX4153,UTIB0008085,14633.24,Shopping
+152b1f1c-10b2-4e3d-83ef-78b10fe6d2c1,2024-06-17 03:13:00,Rohan Ashok Iyer,rohan.iyer538@gmail.com,+91 9662516816,rohan.iyer@okicici,Airtel Broadband,XX7411,KKBK0003029,9694.76,Utilities
+fc61e1fd-8f6c-4b11-b082-5b6b749ef45a,2024-06-17 03:52:00,Gaurav Agarwal,gaurav.agarwal440@gmail.com,+91 9196528081,gaurav.agarwal@paytm,Flipkart Internet,XX5457,KKBK0007745,12186.66,Shopping
+22e62b07-14de-4d77-9363-f2d5081b1a7d,2024-06-17 04:40:00,Bhavna Ghosh,bhavna.ghosh53@gmail.com,+91 9755988845,bhavna.ghosh@ybl,Tata Power,XX9656,UTIB0006626,2072.34,Utilities
+e5abe350-660b-4096-b980-17e907a38824,2024-06-17 05:24:00,Kavita Pandey,kavita.pandey622@gmail.com,+91 9110524592,kavita.pandey@ybl,Airtel Broadband,XX2140,UTIB0003318,9513.31,Utilities
+c7b58aa7-96b4-4406-a19b-0a01d85890a2,2024-06-17 06:11:00,Sunita Mishra,sunita.mishra209@gmail.com,+91 9671655609,sunita.mishra@okaxis,Reliance Fresh,XX3108,HDFC0006021,6926.20,Groceries
+6bca4e91-84a3-46f5-af7d-652eaf374901,2024-06-17 06:50:00,Tanvi Bhavna Sharma,tanvi.sharma777@gmail.com,+91 7026940639,tanvi.sharma@ybl,Uber India,XX7051,KKBK0007853,4516.39,Transportation
+a812eb4d-b08b-4a27-877e-47f6034c3e17,2024-06-17 07:42:00,Arjun Sneha Pillai,arjun.pillai700@gmail.com,+91 9834258512,arjun.pillai@okicici,Zara Fashion,XX7696,UTIB0008241,13356.44,Shopping
+459251d6-5649-4783-8bf1-059ee3aae54e,2024-06-17 08:25:00,Rohan Neha Banerjee,rohan.banerjee915@gmail.com,+91 8821862128,rohan.banerjee@okicici,Swiggy Delivery,XX1802,SBIN0004581,15240.10,Food & Dining
+831ec352-f5fa-48e8-9625-318f88f0e654,2024-06-17 09:09:00,Pranav Karan Ghosh,pranav.ghosh93@gmail.com,+91 9896094462,pranav.ghosh@okicici,Reliance Fresh,XX3354,HDFC0009938,6114.27,Groceries
+05ad2e78-0806-4f28-8148-e0a52834feed,2024-06-17 09:43:00,Kavita Vikram Patel,kavita.patel942@gmail.com,+91 9136787756,kavita.patel@okaxis,Starbucks India,XX0643,HDFC0002036,18210.05,Food & Dining
+6139fd15-3ed4-443e-8c26-2c193d893d68,2024-06-17 10:35:00,Meera Singh,meera.singh541@gmail.com,+91 9695045057,meera.singh@ybl,MakeMyTrip Travels,XX7090,UTIB0005634,7096.77,Travel
+e3cb8188-234d-4665-b9e6-6c091b015f6d,2024-06-17 11:02:00,Ashok Aarti Dubey,ashok.dubey903@gmail.com,+91 9637753358,ashok.dubey@paytm,Uber India,XX3769,HDFC0009071,1519.93,Transportation
+738fe2c6-4ede-459b-8d8c-fb1a466d67e4,2024-06-17 11:48:00,Pranav Priya Mehta,pranav.mehta922@gmail.com,+91 8857470916,pranav.mehta@ybl,Reliance Fresh,XX3458,UTIB0008681,11551.28,Groceries
+c6fa418e-0cfe-434b-9363-c34e88c715fa,2024-06-17 12:36:00,Bhavna Pillai,bhavna.pillai562@gmail.com,+91 8810076758,bhavna.pillai@paytm,Starbucks India,XX2007,ICIC0004946,12599.06,Food & Dining
+09444008-f9e6-4440-ba57-97373b2f0849,2024-06-17 13:29:00,Swati Chopra,swati.chopra229@gmail.com,+91 9167727800,swati.chopra@apl,Uber India,XX9745,KKBK0007174,10881.34,Transportation
+89c1b4ab-6429-4df6-9ef9-013f7c3f789c,2024-06-17 14:11:00,Alok Tanvi Sharma,alok.sharma919@gmail.com,+91 9891541675,alok.sharma@okicici,Airtel Broadband,XX3687,ICIC0001019,4091.94,Utilities
+5d3604bb-09dc-473c-b544-9a5c98012cef,2024-06-17 14:37:00,Harsh Gupta,harsh.gupta996@gmail.com,+91 9119314787,harsh.gupta@okaxis,Swiggy Delivery,XX1808,UTIB0008970,9109.25,Food & Dining
+5a7a3f35-19bf-47e0-969b-f077a0196fc2,2024-06-17 15:24:00,Ashok Mehta,ashok.mehta66@gmail.com,+91 9798685162,ashok.mehta@okicici,Uber India,XX0257,KKBK0004853,6852.82,Transportation
+923f7034-fd6c-4bd0-a688-cbe14ed96272,2024-06-17 16:14:00,Ananya Rohan Trivedi,ananya.trivedi318@gmail.com,+91 7037219462,ananya.trivedi@paytm,Amazon Pay India,XX0173,UTIB0009611,1400.59,Shopping
+f65fed2d-fef1-46bc-b67a-5b9c611b8fd3,2024-06-17 16:49:00,Bhavna Chatterjee,bhavna.chatterjee154@gmail.com,+91 9728211123,bhavna.chatterjee@okhdfcbank,MakeMyTrip Travels,XX0515,KKBK0003885,868.05,Travel
+3dcf44fb-2c28-46a8-b717-144682db8c33,2024-06-17 17:36:00,Ananya Vikram Kulkarni,ananya.kulkarni968@gmail.com,+91 9628164926,ananya.kulkarni@okhdfcbank,Uber India,XX9879,SBIN0002098,14239.71,Transportation
+d5f4d695-e0af-423d-970d-21471bad3f4a,2024-06-17 18:29:00,Pranav Sunita Verma,pranav.verma621@gmail.com,+91 9699526487,pranav.verma@okicici,BookMyShow,XX0907,HDFC0001183,10989.80,Entertainment
+f4dccd6b-bd92-4fde-aa0d-c5de3c2c45ce,2024-06-17 19:11:00,Sneha Bhavna Reddy,sneha.reddy436@gmail.com,+91 9683239538,sneha.reddy@okaxis,Cult.Fit Gym,XX6483,ICIC0008767,10536.68,Healthcare
+7dd792db-350e-432c-b5af-73c58d601223,2024-06-17 19:46:00,Arjun Nair,arjun.nair73@gmail.com,+91 9860006889,arjun.nair@ybl,Airtel Broadband,XX7864,ICIC0008091,12739.66,Utilities
+1f83a83b-1c3f-4395-a105-e963cc6cf6bc,2024-06-17 20:35:00,Swati Aarti Dubey,swati.dubey667@gmail.com,+91 9161065827,swati.dubey@paytm,MakeMyTrip Travels,XX3474,HDFC0006942,15313.10,Travel
+56567e58-7578-4854-86b4-51c481a10cb7,2024-06-17 21:06:00,Aarti Tanvi Reddy,aarti.reddy365@gmail.com,+91 7048653705,aarti.reddy@apl,Airtel Broadband,XX0365,KKBK0006002,5980.69,Utilities
+68c72ea4-2596-42ec-b0c0-f1fb4552a6d5,2024-06-17 21:49:00,Ananya Gokhale,ananya.gokhale763@gmail.com,+91 9781209329,ananya.gokhale@okicici,Reliance Fresh,XX0800,HDFC0009092,3455.87,Groceries
+dccf07c1-19e0-40b0-addb-109bb9753132,2024-06-17 22:38:00,Suresh Sneha Bhat,suresh.bhat453@gmail.com,+91 9865462976,suresh.bhat@okicici,Cult.Fit Gym,XX0678,UTIB0007609,1736.18,Healthcare
+b893453a-b9fa-4e4b-bf2f-7e7aee876563,2024-06-17 23:17:00,Tanvi Mishra,tanvi.mishra243@gmail.com,+91 9673488837,tanvi.mishra@oksbi,Zara Fashion,XX5997,UTIB0009070,8544.70,Shopping
+24d9abff-e3b8-4d01-a632-055523f0c1e7,2024-06-18 00:06:00,Rahul Gaurav Menon,rahul.menon146@gmail.com,+91 9844864205,rahul.menon@okicici,Zara Fashion,XX5116,ICIC0008988,14992.47,Shopping
+aa4a27fa-9f21-4f52-a3d5-b1282d57bddc,2024-06-18 00:49:00,Ashok Reddy,ashok.reddy600@gmail.com,+91 9743133080,ashok.reddy@okaxis,Apollo Pharmacy,XX3593,UTIB0001082,4653.41,Healthcare
+d25e1883-ed10-4a78-8d27-8051928fecdc,2024-06-18 01:29:00,Pranav Sunita Verma,pranav.verma621@gmail.com,+91 9699526487,pranav.verma@okicici,Cult.Fit Gym,XX0907,HDFC0001183,3102.79,Healthcare
+b4fe0f82-9528-4598-9279-bd5e0bc81434,2024-06-18 02:12:00,Sneha Divya Ghosh,sneha.ghosh796@gmail.com,+91 9879669853,sneha.ghosh@okicici,Cult.Fit Gym,XX6875,KKBK0004356,12877.73,Healthcare
+4661673d-ba84-4893-ac4f-4fd2a56be461,2024-06-18 03:05:00,Ananya Trivedi,ananya.trivedi927@gmail.com,+91 7045392913,ananya.trivedi@ybl,Zara Fashion,XX5005,ICIC0006201,6033.68,Shopping
+dab81577-e1da-4085-9c44-dbdca09b4a53,2024-06-18 03:39:00,Arjun Gaurav Reddy,arjun.reddy630@gmail.com,+91 9837587025,arjun.reddy@okicici,Apollo Pharmacy,XX5038,SBIN0007646,15235.11,Healthcare
+dbc1ea7d-04dc-4756-ad71-01441a48dad9,2024-06-18 04:30:00,Tanvi Priya Bose,tanvi.bose821@gmail.com,+91 9733504699,tanvi.bose@oksbi,Tata Power,XX5393,ICIC0008043,11554.48,Utilities
+72d75143-aab1-4e10-b0a9-24a862f789b5,2024-06-18 05:12:00,Sanjay Harsh Gupta,sanjay.gupta504@gmail.com,+91 8851861799,sanjay.gupta@okaxis,Uber India,XX1620,UTIB0002736,17041.14,Transportation
+630d7c79-0b26-4c05-9432-10b3f44ac895,2024-06-18 05:55:00,Sanjay Aarti Mehta,sanjay.mehta867@gmail.com,+91 8835918320,sanjay.mehta@oksbi,Apollo Pharmacy,XX8108,ICIC0006014,10415.50,Healthcare
+b2a1ba30-1549-44c7-ae30-d30ffe68004f,2024-06-18 06:27:00,Tanvi Saxena,tanvi.saxena995@gmail.com,+91 9859793798,tanvi.saxena@okicici,Flipkart Internet,XX5174,KKBK0008725,9598.51,Shopping
+5d4dd997-2473-40b4-8265-15e5fb6753cb,2024-06-18 07:10:00,Ananya Trivedi,ananya.trivedi927@gmail.com,+91 7045392913,ananya.trivedi@ybl,Starbucks India,XX5005,ICIC0006201,16839.31,Food & Dining
+6917f2fd-f8cb-46f3-95e3-bb136827699a,2024-06-18 07:58:00,Alok Bhavna Banerjee,alok.banerjee364@gmail.com,+91 9130371382,alok.banerjee@ybl,BookMyShow,XX2836,UTIB0001528,10080.82,Entertainment
+581c78f4-aa85-4056-b762-ee149261388a,2024-06-18 08:40:00,Neha Arjun Menon,neha.menon369@gmail.com,+91 9855828977,neha.menon@okaxis,Apollo Pharmacy,XX5259,HDFC0002415,15249.77,Healthcare
+f293e695-e4c3-4d54-af00-49c666adfdd7,2024-06-18 09:27:00,Meera Malhotra,meera.malhotra199@gmail.com,+91 9611877542,meera.malhotra@apl,Uber India,XX4100,UTIB0009742,16170.29,Transportation
+b0755f60-2402-48ce-94be-84e4fbed1519,2024-06-18 10:14:00,Pranav Aarti Pandey,pranav.pandey661@gmail.com,+91 9889964091,pranav.pandey@okaxis,Starbucks India,XX0763,SBIN0002549,4309.70,Food & Dining
+17fc55a5-425c-41f4-a48e-8ad417570c18,2024-06-18 10:56:00,Meera Ananya Singh,meera.singh143@gmail.com,+91 9841555368,meera.singh@okaxis,HP Petrol Pump,XX0373,UTIB0009487,5587.28,Transportation
+4c0c139c-368b-4816-92ee-2d3096828979,2024-06-18 11:25:00,Harsh Iyer,harsh.iyer915@gmail.com,+91 9798046344,harsh.iyer@okicici,Swiggy Delivery,XX8445,HDFC0001259,12335.92,Food & Dining
+0b26e60d-8f46-42c1-878f-7cd243b02fab,2024-06-18 12:11:00,Neha Priya Reddy,neha.reddy933@gmail.com,+91 9651971760,neha.reddy@okicici,Swiggy Delivery,XX3310,ICIC0004652,16327.90,Food & Dining
+6010127f-329b-4eba-8341-0577b67fecf4,2024-06-18 12:59:00,Vikram Harsh Patel,vikram.patel203@gmail.com,+91 7021038736,vikram.patel@oksbi,Flipkart Internet,XX6868,KKBK0001466,11295.11,Shopping
+f00a630f-3d99-457a-a5c8-cc140b21de53,2024-06-18 13:32:00,Sanjay Suresh Reddy,sanjay.reddy70@gmail.com,+91 7095655649,sanjay.reddy@okhdfcbank,BookMyShow,XX4747,ICIC0002305,14502.98,Entertainment
+629da979-997a-4770-aad3-0ff899914f5f,2024-06-18 14:28:00,Harsh Suresh Sharma,harsh.sharma558@gmail.com,+91 8811014183,harsh.sharma@okhdfcbank,MakeMyTrip Travels,XX0649,SBIN0007185,11587.67,Travel
+310a841b-cd65-4932-9445-84109153c7be,2024-06-18 15:08:00,Shreya Aarti Joshi,shreya.joshi830@gmail.com,+91 9722082719,shreya.joshi@oksbi,Apollo Pharmacy,XX3871,KKBK0001287,16504.13,Healthcare
+7f80f43f-bb6e-4f55-8175-23f9428568e0,2024-06-18 15:51:00,Meera Gaurav Trivedi,meera.trivedi560@gmail.com,+91 7011380221,meera.trivedi@oksbi,Zara Fashion,XX8419,ICIC0009267,7076.62,Shopping
+8a3b87f8-c94a-4f89-ad6a-df96885d59c2,2024-06-18 16:38:00,Priya Ashok Joshi,priya.joshi975@gmail.com,+91 9139045233,priya.joshi@paytm,Tata Power,XX7654,ICIC0008028,17861.15,Utilities
+6f56bfa4-9e92-456a-b3cd-df44f132f55c,2024-06-18 17:14:00,Gaurav Alok Banerjee,gaurav.banerjee54@gmail.com,+91 9157027948,gaurav.banerjee@oksbi,Tata Power,XX4444,ICIC0007039,17837.11,Utilities
+d8f997dd-487e-4c95-89de-72ac7fb09fb8,2024-06-18 17:53:00,Meera Ananya Singh,meera.singh143@gmail.com,+91 9841555368,meera.singh@okaxis,BookMyShow,XX0373,UTIB0009487,10748.18,Entertainment
+b33f139f-5a50-4895-92dc-b278b3f3a71a,2024-06-18 18:36:00,Nikhil Pandey,nikhil.pandey948@gmail.com,+91 9880510917,nikhil.pandey@apl,Apollo Pharmacy,XX0373,KKBK0003396,16979.39,Healthcare
+27dfd38d-4677-446b-a46b-aa9e6adfb55b,2024-06-18 19:19:00,Priya Amit Ghosh,priya.ghosh222@gmail.com,+91 9865599477,priya.ghosh@ybl,Zara Fashion,XX9679,UTIB0005497,6334.40,Shopping
+88f6ed32-7532-413e-96e4-3294ec094e2c,2024-06-18 20:05:00,Rahul Ashok Nair,rahul.nair51@gmail.com,+91 9880634031,rahul.nair@oksbi,MakeMyTrip Travels,XX8426,ICIC0009474,10300.94,Travel
+da954c04-c74d-46c0-ad2c-1d97b478f6bc,2024-06-18 20:55:00,Amit Manoj Gupta,amit.gupta634@gmail.com,+91 9794967012,amit.gupta@paytm,BookMyShow,XX7930,HDFC0008444,10626.64,Entertainment
+b4efab73-825f-49fd-9335-66da02a1ce24,2024-06-18 21:32:00,Alok Manoj Verma,alok.verma553@gmail.com,+91 9873151137,alok.verma@okicici,Zara Fashion,XX3620,HDFC0007292,9697.90,Shopping
+111608be-1de4-4ce6-817b-d62bb82a4e2a,2024-06-18 22:20:00,Priya Vikram Hegde,priya.hegde947@gmail.com,+91 7095147938,priya.hegde@ybl,Reliance Fresh,XX4558,KKBK0007919,18027.08,Groceries
+ee863ded-916e-4d30-9e96-fd4ee8434712,2024-06-18 22:56:00,Karan Reddy,karan.reddy399@gmail.com,+91 9740204183,karan.reddy@okicici,Cult.Fit Gym,XX3241,HDFC0006058,9174.60,Healthcare
+74fb2efa-5834-4b6e-bf18-106750c7b697,2024-06-18 23:36:00,Amit Rahul Pillai,amit.pillai706@gmail.com,+91 9176801015,amit.pillai@okicici,Swiggy Delivery,XX2537,ICIC0008898,2334.14,Food & Dining
+5315abd8-87a2-4455-a81d-a7334a795c61,2024-06-19 00:20:00,Suresh Agarwal,suresh.agarwal743@gmail.com,+91 9191979277,suresh.agarwal@okhdfcbank,Reliance Fresh,XX7627,UTIB0004526,13321.19,Groceries
+e61df889-ce2b-4b33-bbb4-829769ee1612,2024-06-19 01:03:00,Rohan Sanjay Patel,rohan.patel651@gmail.com,+91 9680051593,rohan.patel@okhdfcbank,Flipkart Internet,XX4166,ICIC0009138,15512.45,Shopping
+aef15305-67c6-4742-baf2-d2b1fea7dd83,2024-06-19 01:59:00,Nikhil Shreya Iyer,nikhil.iyer898@gmail.com,+91 7021477571,nikhil.iyer@paytm,MakeMyTrip Travels,XX0584,ICIC0004761,13884.67,Travel
+ffffb3e3-65af-4a66-81a9-494b5b8b5d24,2024-06-19 02:26:00,Aarti Shreya Shetty,aarti.shetty354@gmail.com,+91 8842300789,aarti.shetty@okhdfcbank,Amazon Pay India,XX9467,ICIC0004069,16462.87,Shopping
+f0d3f103-fec1-48b7-816f-3fc5b76da24a,2024-06-19 03:25:00,Sunita Ananya Deshmukh,sunita.deshmukh128@gmail.com,+91 9873052378,sunita.deshmukh@okhdfcbank,MakeMyTrip Travels,XX1594,SBIN0006485,17024.82,Travel
+b549e87a-1e77-4b2d-890d-62d43605e173,2024-06-19 04:09:00,Gaurav Shetty,gaurav.shetty36@gmail.com,+91 8892805158,gaurav.shetty@okaxis,MakeMyTrip Travels,XX1629,HDFC0008808,8307.43,Travel
+8589fae9-5cbb-4eae-a755-f7ca83626642,2024-06-19 04:51:00,Arjun Tanvi Rao,arjun.rao401@gmail.com,+91 9150200620,arjun.rao@oksbi,MakeMyTrip Travels,XX8386,UTIB0003411,11851.83,Travel
+87060bd6-e0a5-4974-b40e-c2852ba25133,2024-06-19 05:18:00,Gaurav Sharma,gaurav.sharma116@gmail.com,+91 9198251083,gaurav.sharma@okicici,Uber India,XX2245,SBIN0006617,18402.22,Transportation
+41b0d78e-8f1a-4156-9803-5fa52d63b3e5,2024-06-19 06:13:00,Alok Kavita Gupta,alok.gupta83@gmail.com,+91 9855954451,alok.gupta@okicici,Amazon Pay India,XX1681,KKBK0004745,5115.40,Shopping
+38527a48-7be7-4a3c-a72d-5cef221b9a37,2024-06-19 06:55:00,Pooja Gokhale,pooja.gokhale520@gmail.com,+91 9133228631,pooja.gokhale@okicici,Airtel Broadband,XX0513,SBIN0002713,12224.70,Utilities
+8a32db07-2274-499d-b9a7-a14544a819b8,2024-06-19 07:40:00,Manoj Deshmukh,manoj.deshmukh212@gmail.com,+91 7069516344,manoj.deshmukh@okaxis,Zara Fashion,XX5564,HDFC0001829,890.67,Shopping
+e6fc8def-22b8-4916-95d8-072756ff7178,2024-06-19 08:11:00,Pranav Karan Chatterjee,pranav.chatterjee597@gmail.com,+91 9170404159,pranav.chatterjee@paytm,Apollo Pharmacy,XX9845,HDFC0009381,17297.99,Healthcare
+2c650c78-7122-446b-b824-216897192fea,2024-06-19 08:55:00,Pooja Meera Verma,pooja.verma556@gmail.com,+91 7085711913,pooja.verma@okhdfcbank,MakeMyTrip Travels,XX6714,KKBK0006919,9719.73,Travel
+adc1a45f-b7aa-4b07-8151-075d640b7837,2024-06-19 09:53:00,Karan Singh,karan.singh426@gmail.com,+91 9736169665,karan.singh@apl,Apollo Pharmacy,XX9070,HDFC0006850,15181.87,Healthcare
+52539e6b-47a9-49fb-be27-1cf3c8d22310,2024-06-19 10:29:00,Meera Deepa Iyer,meera.iyer854@gmail.com,+91 9177138048,meera.iyer@okhdfcbank,Swiggy Delivery,XX4825,HDFC0007680,16366.72,Food & Dining
+b3c28813-f342-457a-b6af-05d4a6645c54,2024-06-19 11:21:00,Kavita Dubey,kavita.dubey58@gmail.com,+91 9158798639,kavita.dubey@oksbi,Starbucks India,XX0442,UTIB0006565,1099.22,Food & Dining
+e533da26-0ac7-4a63-ba89-a1cef9046757,2024-06-19 11:52:00,Suresh Agarwal,suresh.agarwal131@gmail.com,+91 9139302722,suresh.agarwal@okhdfcbank,Cult.Fit Gym,XX8818,UTIB0009541,9522.71,Healthcare
+9315b7a8-0236-46ba-a020-9602fe72092e,2024-06-19 12:35:00,Priya Karan Reddy,priya.reddy329@gmail.com,+91 9797909930,priya.reddy@apl,Airtel Broadband,XX5021,ICIC0004821,5033.80,Utilities
+a2ce85a7-609d-423a-b648-142a41b33389,2024-06-19 13:17:00,Kavita Shreya Bhat,kavita.bhat186@gmail.com,+91 9817491622,kavita.bhat@okaxis,Starbucks India,XX1581,UTIB0008792,2870.55,Food & Dining
+6bc0e471-9d25-4af2-bf85-0c0256b67dfd,2024-06-19 14:00:00,Bhavna Banerjee,bhavna.banerjee424@gmail.com,+91 9726611698,bhavna.banerjee@okhdfcbank,Starbucks India,XX8477,HDFC0003834,550.65,Food & Dining
+eeed8357-53d0-4972-9a7f-9a6e0d73d363,2024-06-19 14:44:00,Neha Arjun Trivedi,neha.trivedi310@gmail.com,+91 9660310319,neha.trivedi@paytm,Amazon Pay India,XX5239,SBIN0002293,874.70,Shopping
+f3008640-5a4e-4700-9407-4bc3a9aa1f04,2024-06-19 15:30:00,Rajesh Bose,rajesh.bose573@gmail.com,+91 9152982787,rajesh.bose@ybl,Flipkart Internet,XX8979,ICIC0001421,11923.70,Shopping
+6ce6ad5d-0f4d-408a-86ee-946fb57e3917,2024-06-19 16:08:00,Sunita Vikram Iyer,sunita.iyer155@gmail.com,+91 7075130865,sunita.iyer@ybl,Airtel Broadband,XX8055,ICIC0001461,4369.26,Utilities
+62f73887-6768-4925-8d1d-5606839a3df5,2024-06-19 16:55:00,Tanvi Bhavna Agarwal,tanvi.agarwal118@gmail.com,+91 7036306755,tanvi.agarwal@paytm,MakeMyTrip Travels,XX4841,SBIN0009821,14097.43,Travel
+4cd824b9-7342-4873-875f-74b8ed485eda,2024-06-19 17:35:00,Pooja Rahul Menon,pooja.menon470@gmail.com,+91 9199067962,pooja.menon@okicici,HP Petrol Pump,XX3873,KKBK0008575,14060.56,Transportation
+a65400f7-473a-46cf-945f-c0de87ecff31,2024-06-19 18:25:00,Arjun Meera Deshmukh,arjun.deshmukh370@gmail.com,+91 9650538196,arjun.deshmukh@okaxis,Airtel Broadband,XX0033,HDFC0009935,14081.84,Utilities
+cca4a434-c997-4822-9592-e34603481149,2024-06-19 19:13:00,Rajesh Hegde,rajesh.hegde485@gmail.com,+91 9838996080,rajesh.hegde@okicici,HP Petrol Pump,XX4753,ICIC0001539,6127.15,Transportation
+5bdd7a3c-9686-4fc1-9f15-f16663ef1659,2024-06-19 19:54:00,Kavita Pillai,kavita.pillai87@gmail.com,+91 9895074558,kavita.pillai@okaxis,Starbucks India,XX4116,UTIB0001985,11344.77,Food & Dining
+b6eed087-8f32-402e-b163-3132bf606c7a,2024-06-19 20:27:00,Bhavna Sharma,bhavna.sharma526@gmail.com,+91 9743622504,bhavna.sharma@okhdfcbank,Zomato Online,XX7153,SBIN0001402,13244.33,Food & Dining
+5d67bae0-1ea4-49e6-b3ce-8c099b8a355d,2024-06-19 21:14:00,Rajesh Meera Gupta,rajesh.gupta938@gmail.com,+91 9659323079,rajesh.gupta@okhdfcbank,Swiggy Delivery,XX6084,SBIN0002214,5458.32,Food & Dining
+72ca7da5-862f-49b1-90c6-e0861b0b4411,2024-06-19 21:55:00,Rohan Bhavna Shah,rohan.shah976@gmail.com,+91 9831921179,rohan.shah@okhdfcbank,Zomato Online,XX9296,ICIC0001500,7694.01,Food & Dining
+fa7e648b-1553-4451-8775-0b0971dd4a10,2024-06-19 22:32:00,Sneha Mishra,sneha.mishra966@gmail.com,+91 7048545627,sneha.mishra@paytm,Uber India,XX9163,KKBK0009132,11891.64,Transportation
+f809f2e2-028b-4de1-ac95-ff379cff0c37,2024-06-19 23:19:00,Nikhil Meera Pillai,nikhil.pillai721@gmail.com,+91 9869084673,nikhil.pillai@okicici,BookMyShow,XX2853,ICIC0006264,11589.80,Entertainment
+dacbf509-9cdb-41b0-ac50-01c4a4c197b9,2024-06-20 00:14:00,Sunita Ananya Deshmukh,sunita.deshmukh128@gmail.com,+91 9873052378,sunita.deshmukh@okhdfcbank,MakeMyTrip Travels,XX1594,SBIN0006485,1059.53,Travel
+36357f4e-3d84-47e9-acc3-33935ffe7f24,2024-06-20 00:46:00,Sneha Priya Chatterjee,sneha.chatterjee994@gmail.com,+91 9634354859,sneha.chatterjee@oksbi,Swiggy Delivery,XX1421,UTIB0005225,6613.18,Food & Dining
+24c8295d-1e57-43dc-b0a2-ea7c69511c8d,2024-06-20 01:25:00,Bhavna Swati Malhotra,bhavna.malhotra112@gmail.com,+91 9612277453,bhavna.malhotra@paytm,Zara Fashion,XX1250,HDFC0002599,4793.14,Shopping
+60a370c8-0477-4f3d-808f-cc96fb852cfa,2024-06-20 02:09:00,Rohan Nikhil Agarwal,rohan.agarwal471@gmail.com,+91 8847543473,rohan.agarwal@paytm,Starbucks India,XX5730,UTIB0006555,5881.13,Food & Dining
+70a4892a-ccff-47b4-b064-4443a24b0f30,2024-06-20 03:07:00,Pranav Karan Ghosh,pranav.ghosh93@gmail.com,+91 9896094462,pranav.ghosh@okicici,Starbucks India,XX3354,HDFC0009938,13993.18,Food & Dining
+6a4db7df-caca-4aab-8d59-1eae9e7ff97b,2024-06-20 03:47:00,Shreya Karan Hegde,shreya.hegde252@gmail.com,+91 9156895356,shreya.hegde@okaxis,Cult.Fit Gym,XX7173,HDFC0009717,11916.23,Healthcare
+59a1aebd-1f83-4c17-bc05-316d2df6cc5a,2024-06-20 04:22:00,Suresh Ashok Deshmukh,suresh.deshmukh214@gmail.com,+91 7060076822,suresh.deshmukh@okaxis,Reliance Fresh,XX4197,HDFC0005076,5717.40,Groceries
+30ac7a56-f12c-46c2-a6d9-8db81dffd650,2024-06-20 04:59:00,Priya Deepa Sharma,priya.sharma151@gmail.com,+91 9619583675,priya.sharma@paytm,Tata Power,XX0083,HDFC0009901,13449.70,Utilities
+0fb95747-034a-4aa9-acad-199f98d89cfa,2024-06-20 05:48:00,Aarti Patel,aarti.patel530@gmail.com,+91 8820442542,aarti.patel@oksbi,Amazon Pay India,XX3619,UTIB0005915,134.41,Shopping
+3c77e01e-115b-4c5a-a461-2e6645464343,2024-06-20 06:37:00,Pooja Rohan Rao,pooja.rao418@gmail.com,+91 9186278567,pooja.rao@apl,Zomato Online,XX3452,ICIC0005148,5474.76,Food & Dining
+c9c8c6fa-9c6c-4e12-b8d9-deb773153484,2024-06-20 07:06:00,Ashok Gaurav Reddy,ashok.reddy636@gmail.com,+91 7038703415,ashok.reddy@apl,Zara Fashion,XX1603,ICIC0002896,3603.30,Shopping
+8d4bfc0d-60d8-4397-8074-1c051cb909f9,2024-06-20 07:57:00,Kavita Reddy,kavita.reddy289@gmail.com,+91 9730443052,kavita.reddy@apl,BookMyShow,XX2537,KKBK0007083,11331.51,Entertainment
+d82fc142-79cf-4a00-b156-d791bec21ca0,2024-06-20 08:42:00,Rahul Divya Iyer,rahul.iyer17@gmail.com,+91 8846578812,rahul.iyer@okicici,Apollo Pharmacy,XX4759,KKBK0007661,16797.13,Healthcare
+d59a6611-e31c-4ae9-bec2-c67876303ed1,2024-06-20 09:16:00,Kavita Verma,kavita.verma797@gmail.com,+91 7052737194,kavita.verma@okhdfcbank,Amazon Pay India,XX2938,HDFC0002307,5912.67,Shopping
+4fbbbe86-2683-4828-966a-af050a08212b,2024-06-20 10:00:00,Swati Ashok Hegde,swati.hegde230@gmail.com,+91 9886392065,swati.hegde@ybl,Amazon Pay India,XX9639,HDFC0006090,3581.85,Shopping
+6973633b-30d2-4796-9e6f-f1b5b1a6776f,2024-06-20 10:46:00,Manoj Gaurav Banerjee,manoj.banerjee251@gmail.com,+91 9752493177,manoj.banerjee@ybl,Uber India,XX7591,SBIN0004044,16118.03,Transportation
+9b170902-7ab5-48c6-b1ff-b3f664c017fa,2024-06-20 11:32:00,Harsh Reddy,harsh.reddy397@gmail.com,+91 9655849267,harsh.reddy@okhdfcbank,Flipkart Internet,XX0021,UTIB0006955,204.74,Shopping
+108cc507-7abe-4583-8e5f-f3f72fcf4e24,2024-06-20 12:13:00,Ananya Suresh Trivedi,ananya.trivedi557@gmail.com,+91 9836202279,ananya.trivedi@okicici,Tata Power,XX8949,ICIC0008756,10316.64,Utilities
+fea894dd-aa2c-4258-8986-ac4c6360a7b8,2024-06-20 13:00:00,Arjun Pranav Pillai,arjun.pillai838@gmail.com,+91 9623126013,arjun.pillai@okhdfcbank,Zara Fashion,XX8696,UTIB0003406,11562.41,Shopping
+0c788863-288b-490d-93b7-54e73af25ea2,2024-06-20 13:45:00,Swati Divya Iyer,swati.iyer667@gmail.com,+91 9864241436,swati.iyer@okicici,HP Petrol Pump,XX8874,ICIC0007640,17334.70,Transportation
+5c34818b-9514-4fbf-b853-5f78fa1e9d96,2024-06-20 14:28:00,Meera Rohan Verma,meera.verma915@gmail.com,+91 7061538550,meera.verma@okicici,Starbucks India,XX2109,SBIN0008728,12614.97,Food & Dining
+47a27e20-8ab3-4933-a56d-0cadd310adb1,2024-06-20 15:07:00,Rahul Agarwal,rahul.agarwal40@gmail.com,+91 9111494439,rahul.agarwal@paytm,Flipkart Internet,XX6780,SBIN0007528,3697.57,Shopping
+4a636fc7-a4ea-44bc-9b6b-bc53ba40285d,2024-06-20 15:48:00,Sneha Patel,sneha.patel965@gmail.com,+91 9768841475,sneha.patel@okicici,Zomato Online,XX9031,UTIB0002093,9591.04,Food & Dining
+a6f4207c-bed7-4a2d-aa43-c7c2cc04428c,2024-06-20 16:29:00,Manoj Shah,manoj.shah725@gmail.com,+91 9674817663,manoj.shah@okaxis,Starbucks India,XX4732,UTIB0003267,8856.11,Food & Dining
+f4c5e629-d9d4-4013-a9a4-66d954124419,2024-06-20 17:22:00,Harsh Deshmukh,harsh.deshmukh646@gmail.com,+91 9135921297,harsh.deshmukh@oksbi,HP Petrol Pump,XX2613,UTIB0006551,11892.01,Transportation
+9560d5a9-7f11-4711-8558-97e7409097a2,2024-06-20 18:03:00,Divya Pranav Pillai,divya.pillai623@gmail.com,+91 9860866227,divya.pillai@paytm,Cult.Fit Gym,XX9012,ICIC0005894,3088.07,Healthcare
+c4e71177-5b2d-47b1-aa87-c7f3fcf0f6c2,2024-06-20 18:51:00,Gaurav Aarti Chatterjee,gaurav.chatterjee157@gmail.com,+91 9176721392,gaurav.chatterjee@oksbi,Uber India,XX2123,UTIB0001720,5524.32,Transportation
+bca53bea-cac5-44d2-8418-dea8bf7088e6,2024-06-20 19:31:00,Harsh Ritu Malhotra,harsh.malhotra27@gmail.com,+91 9631856985,harsh.malhotra@oksbi,Zomato Online,XX7075,SBIN0006917,16698.33,Food & Dining
+457bef69-5f6b-4475-81ec-506d69810217,2024-06-20 20:10:00,Shreya Aarti Joshi,shreya.joshi830@gmail.com,+91 9722082719,shreya.joshi@oksbi,Zara Fashion,XX3871,KKBK0001287,15396.31,Shopping
+e5f286a2-e835-4532-a944-8ed0e65a4120,2024-06-20 21:00:00,Vikram Kavita Nair,vikram.nair525@gmail.com,+91 9755868421,vikram.nair@ybl,MakeMyTrip Travels,XX5617,HDFC0005562,13658.01,Travel
+9df27267-3123-4d23-9683-8b754d80081b,2024-06-20 21:29:00,Ashok Nikhil Shetty,ashok.shetty823@gmail.com,+91 9638698891,ashok.shetty@oksbi,Tata Power,XX9890,KKBK0004833,1588.71,Utilities
+53c05966-c2eb-4c0b-a1f1-42bd7c4dd726,2024-06-20 22:24:00,Tanvi Rao,tanvi.rao943@gmail.com,+91 8858104033,tanvi.rao@okaxis,Uber India,XX2040,ICIC0003806,4511.77,Transportation
+9e172d96-35ca-4be6-b54b-7690cff9abe2,2024-06-20 23:07:00,Sunita Pranav Trivedi,sunita.trivedi97@gmail.com,+91 7037762332,sunita.trivedi@okhdfcbank,Amazon Pay India,XX3391,ICIC0003180,5445.46,Shopping
+f114291f-a2b3-40bb-8182-a146240c6c5b,2024-06-20 23:37:00,Deepa Manoj Patel,deepa.patel777@gmail.com,+91 9699121694,deepa.patel@okhdfcbank,Flipkart Internet,XX2095,KKBK0004216,10762.11,Shopping
+5c8ea697-0314-43d4-af33-2eda01bfb9b2,2024-06-21 00:24:00,Amit Neha Agarwal,amit.agarwal104@gmail.com,+91 9617386489,amit.agarwal@paytm,BookMyShow,XX8927,ICIC0002369,1882.52,Entertainment
+215390d3-edf9-440c-917f-2fee4aca7937,2024-06-21 01:01:00,Bhavna Shetty,bhavna.shetty542@gmail.com,+91 7030790547,bhavna.shetty@okaxis,MakeMyTrip Travels,XX0316,UTIB0004823,12494.49,Travel
+a52b5f79-0c44-4d99-8c91-ebd81909942a,2024-06-21 01:59:00,Shreya Hegde,shreya.hegde222@gmail.com,+91 8844337077,shreya.hegde@apl,Starbucks India,XX5988,ICIC0006931,2062.04,Food & Dining
+968d913e-ca18-4080-a183-896052f02f99,2024-06-21 02:31:00,Harsh Menon,harsh.menon84@gmail.com,+91 9631759933,harsh.menon@okhdfcbank,Starbucks India,XX0420,SBIN0007973,11841.28,Food & Dining
+85ed9332-763e-4a6f-afcd-103b2239771d,2024-06-21 03:16:00,Sanjay Manoj Reddy,sanjay.reddy705@gmail.com,+91 8875317756,sanjay.reddy@paytm,Apollo Pharmacy,XX4617,ICIC0003647,5317.61,Healthcare
+96839b55-1e06-4780-8dec-5be59e858df3,2024-06-21 03:54:00,Neha Karan Pillai,neha.pillai11@gmail.com,+91 9899619369,neha.pillai@paytm,Zara Fashion,XX7267,HDFC0007343,11346.62,Shopping
+d2b4ff15-95e9-43a8-ba4d-b61295883244,2024-06-21 04:38:00,Deepa Dubey,deepa.dubey300@gmail.com,+91 9665659256,deepa.dubey@oksbi,Swiggy Delivery,XX8585,ICIC0002581,10187.32,Food & Dining
+209955d5-22a9-4ba7-9a1f-12a353370707,2024-06-21 05:19:00,Karan Karan Mishra,karan.mishra458@gmail.com,+91 7084825073,karan.mishra@okicici,Cult.Fit Gym,XX2643,KKBK0008162,4327.32,Healthcare
+9fd7a74d-276e-4104-bbd0-2bd9603d8bec,2024-06-21 06:07:00,Arjun Rahul Ghosh,arjun.ghosh337@gmail.com,+91 9640188396,arjun.ghosh@oksbi,Swiggy Delivery,XX7898,ICIC0004403,10183.97,Food & Dining
+4e49d4cb-de70-4a0a-b34e-645ea3e2c6e7,2024-06-21 07:02:00,Amit Karan Gokhale,amit.gokhale657@gmail.com,+91 9781291458,amit.gokhale@paytm,Uber India,XX3450,SBIN0002557,11396.23,Transportation
+df56223b-f20f-4460-95fa-febc55b4116d,2024-06-21 07:35:00,Priya Manoj Iyer,priya.iyer812@gmail.com,+91 8818818225,priya.iyer@oksbi,Tata Power,XX6208,UTIB0004830,3011.97,Utilities
+3f498c28-aced-4cb2-9514-3908b1d20e59,2024-06-21 08:12:00,Sneha Amit Nair,sneha.nair196@gmail.com,+91 9693489770,sneha.nair@okicici,BookMyShow,XX9628,UTIB0001968,15195.52,Entertainment
+10a66158-4a9b-453b-a84a-cd61bb65457b,2024-06-21 09:10:00,Nikhil Bhat,nikhil.bhat822@gmail.com,+91 7015968554,nikhil.bhat@okhdfcbank,Zomato Online,XX7318,ICIC0005436,15633.09,Food & Dining
+ffc50801-3f25-49db-aad1-216ef4ec2876,2024-06-21 09:56:00,Harsh Reddy,harsh.reddy397@gmail.com,+91 9655849267,harsh.reddy@okhdfcbank,Cult.Fit Gym,XX0021,UTIB0006955,3907.63,Healthcare
+1eaed1d5-470b-42a8-93cd-32a12f5a5369,2024-06-21 10:26:00,Tanvi Hegde,tanvi.hegde893@gmail.com,+91 9787422596,tanvi.hegde@paytm,Airtel Broadband,XX8288,KKBK0008106,3214.89,Utilities
+19b16a78-f5db-4383-adb9-d9c111d70305,2024-06-21 11:06:00,Sanjay Sunita Trivedi,sanjay.trivedi893@gmail.com,+91 9867550857,sanjay.trivedi@paytm,BookMyShow,XX5331,UTIB0006250,16798.33,Entertainment
+150a8e4e-73b7-4a98-8e62-bf95a8d51060,2024-06-21 11:47:00,Swati Divya Iyer,swati.iyer667@gmail.com,+91 9864241436,swati.iyer@okicici,Uber India,XX8874,ICIC0007640,11830.19,Transportation
+82017213-eb46-4d45-9186-5d1ad76e66f1,2024-06-21 12:34:00,Aarti Chopra,aarti.chopra184@gmail.com,+91 9732949623,aarti.chopra@okhdfcbank,MakeMyTrip Travels,XX8814,ICIC0008565,2436.96,Travel
+2ca09859-aef6-4008-b9f1-a18066cfbd07,2024-06-21 13:15:00,Alok Arjun Mishra,alok.mishra486@gmail.com,+91 8823883460,alok.mishra@okhdfcbank,Tata Power,XX1258,UTIB0004922,7744.02,Utilities
+8e4b2c54-49e4-4870-a138-67e36a1ed2f0,2024-06-21 14:03:00,Arjun Kavita Dubey,arjun.dubey161@gmail.com,+91 7091998766,arjun.dubey@okaxis,Cult.Fit Gym,XX6567,ICIC0002880,6269.27,Healthcare
+6e3c2723-26fd-4775-9003-057c3216dc12,2024-06-21 14:43:00,Bhavna Rohan Trivedi,bhavna.trivedi741@gmail.com,+91 8873540928,bhavna.trivedi@oksbi,BookMyShow,XX5028,UTIB0009827,11877.36,Entertainment
+497c8d14-a264-4585-975e-d31d7552c828,2024-06-21 15:32:00,Pranav Karan Ghosh,pranav.ghosh93@gmail.com,+91 9896094462,pranav.ghosh@okicici,Zara Fashion,XX3354,HDFC0009938,10055.21,Shopping
+54a2a03e-2e7c-43fc-b876-1728052a98bd,2024-06-21 16:07:00,Arjun Arjun Mishra,arjun.mishra948@gmail.com,+91 9196926182,arjun.mishra@paytm,Tata Power,XX9600,HDFC0001987,1379.83,Utilities
+db64b6d6-318c-4371-864e-57f67a3d549e,2024-06-21 16:50:00,Divya Alok Chatterjee,divya.chatterjee253@gmail.com,+91 9135077805,divya.chatterjee@apl,Reliance Fresh,XX9375,UTIB0009803,876.92,Groceries
+2e73f671-5af7-49e8-a783-f771ab0660eb,2024-06-21 17:37:00,Arjun Meera Deshmukh,arjun.deshmukh370@gmail.com,+91 9650538196,arjun.deshmukh@okaxis,MakeMyTrip Travels,XX0033,HDFC0009935,1067.28,Travel
+2066b686-5631-44c1-a80c-900660421658,2024-06-21 18:17:00,Harsh Saxena,harsh.saxena735@gmail.com,+91 7061162260,harsh.saxena@okaxis,Zara Fashion,XX3110,SBIN0007179,14468.27,Shopping
+1734a2a2-f41c-4490-91bf-34ff3dafc6eb,2024-06-21 19:04:00,Rohan Nikhil Agarwal,rohan.agarwal471@gmail.com,+91 8847543473,rohan.agarwal@paytm,Reliance Fresh,XX5730,UTIB0006555,4785.88,Groceries
+ce17df70-6952-4858-8448-5d0d1437c09c,2024-06-21 19:47:00,Amit Neha Agarwal,amit.agarwal104@gmail.com,+91 9617386489,amit.agarwal@paytm,HP Petrol Pump,XX8927,ICIC0002369,5717.37,Transportation
+d0044513-4882-4729-9f90-22473de69015,2024-06-21 20:31:00,Gaurav Shetty,gaurav.shetty36@gmail.com,+91 8892805158,gaurav.shetty@okaxis,Amazon Pay India,XX1629,HDFC0008808,3949.33,Shopping
+38b276b6-d9ad-498b-9928-6798eff47cdb,2024-06-21 21:20:00,Divya Menon,divya.menon842@gmail.com,+91 7082505461,divya.menon@ybl,Starbucks India,XX0753,HDFC0005991,16596.14,Food & Dining
+510fae72-bdfe-4526-8e99-86ff4aa7ac4e,2024-06-21 21:59:00,Arjun Shreya Trivedi,arjun.trivedi212@gmail.com,+91 9829816772,arjun.trivedi@okhdfcbank,Zara Fashion,XX2704,KKBK0004834,16659.93,Shopping
+0cb2e35f-0b19-46a3-baff-0cbee0dc34ba,2024-06-21 22:32:00,Swati Meera Banerjee,swati.banerjee763@gmail.com,+91 9770177825,swati.banerjee@oksbi,Amazon Pay India,XX1925,HDFC0007704,6202.54,Shopping
+abe3dfb0-66a1-47c1-a90c-5136a66bafc5,2024-06-21 23:25:00,Rahul Ashok Nair,rahul.nair51@gmail.com,+91 9880634031,rahul.nair@oksbi,Flipkart Internet,XX8426,ICIC0009474,12399.25,Shopping
+94ff2ab8-3d48-4c32-8d5e-4635828dec86,2024-06-22 00:09:00,Rahul Sanjay Deshmukh,rahul.deshmukh80@gmail.com,+91 8855315433,rahul.deshmukh@apl,HP Petrol Pump,XX6585,ICIC0006987,15433.68,Transportation
+f6f00762-7677-4e4d-b049-4e010c3e0ae4,2024-06-22 00:44:00,Rahul Menon,rahul.menon903@gmail.com,+91 7078571436,rahul.menon@oksbi,Zara Fashion,XX6966,UTIB0005083,7458.26,Shopping
+cf997607-6818-4499-921f-9f44efe77737,2024-06-22 01:23:00,Bhavna Manoj Gokhale,bhavna.gokhale380@gmail.com,+91 7015448206,bhavna.gokhale@apl,Zara Fashion,XX5308,SBIN0008074,8825.13,Shopping
+0498abbd-2289-4c40-8b04-f42864800615,2024-06-22 02:12:00,Meera Gaurav Deshmukh,meera.deshmukh491@gmail.com,+91 8873614573,meera.deshmukh@apl,Amazon Pay India,XX7551,HDFC0006549,1753.40,Shopping
+4dbf8d7d-f3bb-4825-aea5-446e12a5753b,2024-06-22 02:57:00,Pooja Meera Verma,pooja.verma556@gmail.com,+91 7085711913,pooja.verma@okhdfcbank,Reliance Fresh,XX6714,KKBK0006919,2062.17,Groceries
+e2227dfc-ce58-4c6f-8707-fcfc960b0b58,2024-06-22 03:45:00,Rajesh Menon,rajesh.menon272@gmail.com,+91 9821356205,rajesh.menon@paytm,Airtel Broadband,XX4170,HDFC0001756,2878.61,Utilities
+00747a1e-eb0c-4c80-b2b4-d06cf57d85ec,2024-06-22 04:24:00,Harsh Bhavna Agarwal,harsh.agarwal475@gmail.com,+91 9651794517,harsh.agarwal@okhdfcbank,HP Petrol Pump,XX8702,ICIC0008686,5124.76,Transportation
+f979e45e-166c-4db8-a84e-89ccba910f6f,2024-06-22 05:13:00,Meera Sunita Saxena,meera.saxena878@gmail.com,+91 9781722941,meera.saxena@okaxis,Zara Fashion,XX3890,ICIC0006696,13999.64,Shopping
+071a3b93-b397-4fb8-a58f-08be08f961ea,2024-06-22 05:43:00,Meera Sunita Saxena,meera.saxena878@gmail.com,+91 9781722941,meera.saxena@okaxis,Amazon Pay India,XX3890,ICIC0006696,18420.96,Shopping
+4e1d368a-e75b-4a18-b963-82888fb01f8a,2024-06-22 06:24:00,Pranav Dubey,pranav.dubey134@gmail.com,+91 9883290305,pranav.dubey@oksbi,Flipkart Internet,XX5192,HDFC0007259,9755.64,Shopping
+b55abca0-cb13-4af6-a871-5124fd1c60cb,2024-06-22 07:19:00,Divya Aarti Malhotra,divya.malhotra71@gmail.com,+91 9744130183,divya.malhotra@okicici,Apollo Pharmacy,XX8319,ICIC0005222,2460.87,Healthcare
+7303cee3-d600-40a7-a2bb-398f6e8f645a,2024-06-22 07:57:00,Ashok Priya Chatterjee,ashok.chatterjee487@gmail.com,+91 9698885671,ashok.chatterjee@okaxis,Airtel Broadband,XX4271,SBIN0001357,3905.81,Utilities
+ea181d1d-5e39-4ca9-b453-2588b9d55f64,2024-06-22 08:46:00,Harsh Mehta,harsh.mehta460@gmail.com,+91 9616281117,harsh.mehta@okhdfcbank,Cult.Fit Gym,XX4386,KKBK0009218,18376.39,Healthcare
+7028650d-0265-48a2-a255-9f1bf546caf9,2024-06-22 09:23:00,Meera Ashok Malhotra,meera.malhotra510@gmail.com,+91 9810164097,meera.malhotra@ybl,Amazon Pay India,XX4186,HDFC0003595,16912.62,Shopping
+3a1db1de-b843-479b-a55b-9c33670df8ae,2024-06-22 10:00:00,Shreya Sunita Mehta,shreya.mehta979@gmail.com,+91 9896934122,shreya.mehta@okaxis,Apollo Pharmacy,XX9440,UTIB0008736,8285.76,Healthcare
+646ca13d-196c-4c01-9281-05412f74cee8,2024-06-22 10:51:00,Swati Pooja Nair,swati.nair673@gmail.com,+91 9745652586,swati.nair@okhdfcbank,Swiggy Delivery,XX4406,KKBK0008195,8286.17,Food & Dining
+eb5e267c-8432-4852-854f-79e0b4bbaf6b,2024-06-22 11:35:00,Arjun Nair,arjun.nair73@gmail.com,+91 9860006889,arjun.nair@ybl,Tata Power,XX7864,ICIC0008091,13219.77,Utilities
+45c065f6-a04c-441a-b7f9-80bfba576304,2024-06-22 12:25:00,Rajesh Trivedi,rajesh.trivedi311@gmail.com,+91 9852777459,rajesh.trivedi@okhdfcbank,Starbucks India,XX0645,SBIN0009962,13821.82,Food & Dining
+7c60c437-0780-48fb-9e9b-d143129ec36d,2024-06-22 13:06:00,Arjun Nikhil Joshi,arjun.joshi333@gmail.com,+91 9171818316,arjun.joshi@paytm,Uber India,XX5045,UTIB0005187,4944.35,Transportation
+7eec7e63-3528-4a5a-939e-58de46956d4c,2024-06-22 13:36:00,Harsh Ritu Malhotra,harsh.malhotra27@gmail.com,+91 9631856985,harsh.malhotra@oksbi,Amazon Pay India,XX7075,SBIN0006917,8667.40,Shopping
+27222786-a5ef-43d7-98b9-148997a3bf5e,2024-06-22 14:22:00,Ananya Saxena,ananya.saxena423@gmail.com,+91 9128495757,ananya.saxena@okicici,Zomato Online,XX1420,HDFC0009648,13340.29,Food & Dining
+0e42cb9a-cd0f-48eb-a8a4-f450e936df80,2024-06-22 15:17:00,Kavita Ritu Bhat,kavita.bhat321@gmail.com,+91 9723437152,kavita.bhat@ybl,Starbucks India,XX4220,HDFC0005370,14973.97,Food & Dining
+31b0a032-048a-4cbf-b36e-493090c5d720,2024-06-22 15:55:00,Karan Reddy,karan.reddy226@gmail.com,+91 9145311654,karan.reddy@okaxis,BookMyShow,XX2075,UTIB0003921,7548.20,Entertainment
+ecf2a738-2713-4ddb-aa3c-147509ec86a6,2024-06-22 16:42:00,Nikhil Sunita Pandey,nikhil.pandey20@gmail.com,+91 7090203261,nikhil.pandey@ybl,Tata Power,XX1734,KKBK0001686,1414.51,Utilities
+535f2458-d09b-42f8-9bd1-619c964739ca,2024-06-22 17:23:00,Vikram Rohan Nair,vikram.nair767@gmail.com,+91 8834628726,vikram.nair@apl,Tata Power,XX2087,HDFC0001486,9497.52,Utilities
+17b90b76-cd43-458f-aa10-c59a2a554db7,2024-06-22 18:08:00,Sunita Menon,sunita.menon68@gmail.com,+91 9664087642,sunita.menon@okhdfcbank,Zara Fashion,XX6878,HDFC0002908,11868.55,Shopping
+e140429e-ed52-4bd3-8571-475d3820756d,2024-06-22 18:43:00,Tanvi Pillai,tanvi.pillai977@gmail.com,+91 9752892856,tanvi.pillai@okaxis,Reliance Fresh,XX7464,ICIC0002195,11752.60,Groceries
+ddd6ba99-1de8-4a38-90c3-8e21505ff4ec,2024-06-22 19:31:00,Arjun Sneha Pillai,arjun.pillai700@gmail.com,+91 9834258512,arjun.pillai@okicici,Zomato Online,XX7696,UTIB0008241,14106.82,Food & Dining
+44a4866f-dc2a-4209-b5dc-0a819956540d,2024-06-22 20:14:00,Bhavna Aarti Hegde,bhavna.hegde532@gmail.com,+91 9127120235,bhavna.hegde@apl,Reliance Fresh,XX8239,KKBK0005623,363.81,Groceries
+52cd7e00-850e-4166-bf84-feacb3627256,2024-06-22 21:03:00,Pooja Rahul Menon,pooja.menon470@gmail.com,+91 9199067962,pooja.menon@okicici,Uber India,XX3873,KKBK0008575,4044.47,Transportation
+5da84f45-f0a2-49ae-8678-cfca4b4ae717,2024-06-22 21:30:00,Priya Karan Reddy,priya.reddy329@gmail.com,+91 9797909930,priya.reddy@apl,Airtel Broadband,XX5021,ICIC0004821,2922.60,Utilities
+ddecf081-e2ac-48e7-83b8-acb1338763cd,2024-06-22 22:26:00,Vikram Meera Ghosh,vikram.ghosh10@gmail.com,+91 9899201885,vikram.ghosh@oksbi,Tata Power,XX3725,HDFC0009039,1508.10,Utilities
+f727bf32-efd4-4de4-9c01-d195d14b88f3,2024-06-22 23:09:00,Kavita Ananya Verma,kavita.verma17@gmail.com,+91 9636891808,kavita.verma@okhdfcbank,Tata Power,XX0443,ICIC0002256,14096.01,Utilities
+a43e8e0c-7256-4bad-8f35-cab5ba66dfee,2024-06-22 23:44:00,Tanvi Sunita Bhat,tanvi.bhat413@gmail.com,+91 7094592338,tanvi.bhat@ybl,MakeMyTrip Travels,XX9546,HDFC0009504,14549.07,Travel
+d0b05dcb-b834-403b-a7d4-a764ab40fd77,2024-06-23 00:29:00,Sanjay Verma,sanjay.verma685@gmail.com,+91 7075472957,sanjay.verma@apl,Swiggy Delivery,XX4623,UTIB0002207,14749.50,Food & Dining
+e84dc56a-3bc9-48b5-8960-a496bad18071,2024-06-23 01:18:00,Nikhil Manoj Shah,nikhil.shah83@gmail.com,+91 7045220737,nikhil.shah@okhdfcbank,Airtel Broadband,XX5155,KKBK0005170,10385.19,Utilities
+a356d3cf-af2a-4fcf-b740-23b16190b431,2024-06-23 01:49:00,Harsh Vikram Verma,harsh.verma787@gmail.com,+91 9162444653,harsh.verma@apl,Zara Fashion,XX6618,SBIN0006658,3769.02,Shopping
+08cb1f6c-aacc-4dc6-bcf0-d8286d9f01db,2024-06-23 02:37:00,Nikhil Sneha Rao,nikhil.rao686@gmail.com,+91 8872085087,nikhil.rao@okhdfcbank,Starbucks India,XX3539,ICIC0007781,864.17,Food & Dining
+317dd775-47f3-4cc9-b9ff-e329e21f07a7,2024-06-23 03:15:00,Neha Ritu Gokhale,neha.gokhale230@gmail.com,+91 9152110357,neha.gokhale@okaxis,Reliance Fresh,XX9373,UTIB0002722,6481.73,Groceries
+fdee66eb-2791-46ea-be68-b7d01c0797a3,2024-06-23 04:12:00,Gaurav Patel,gaurav.patel656@gmail.com,+91 9796467712,gaurav.patel@paytm,Apollo Pharmacy,XX2793,KKBK0009619,6903.52,Healthcare
+2ea26d55-5511-46af-abda-9abbf77eb6f1,2024-06-23 04:39:00,Rahul Menon,rahul.menon264@gmail.com,+91 9688869268,rahul.menon@okicici,MakeMyTrip Travels,XX9315,UTIB0008424,338.13,Travel
+1dff1423-e8bd-4a9c-a259-0af5e1db663b,2024-06-23 05:29:00,Manoj Gaurav Banerjee,manoj.banerjee251@gmail.com,+91 9752493177,manoj.banerjee@ybl,Apollo Pharmacy,XX7591,SBIN0004044,13388.65,Healthcare
+bf0e86ab-6f16-4fe9-ae1a-d4165b54a747,2024-06-23 06:06:00,Tanvi Menon,tanvi.menon23@gmail.com,+91 8837715962,tanvi.menon@apl,Cult.Fit Gym,XX2263,ICIC0003000,6848.31,Healthcare
+382c265b-9ec1-45bb-9de5-6f0d8dda175e,2024-06-23 07:05:00,Vikram Rajesh Hegde,vikram.hegde874@gmail.com,+91 9754350692,vikram.hegde@apl,Zomato Online,XX3143,UTIB0003825,13232.91,Food & Dining
+ab16c641-9742-4a0e-87ac-ad014d512eba,2024-06-23 07:45:00,Ashok Arjun Rao,ashok.rao209@gmail.com,+91 7098394549,ashok.rao@ybl,Zara Fashion,XX8941,HDFC0002014,1382.09,Shopping
+9f62995c-1ce7-4080-8b9e-3a95b6d4943b,2024-06-23 08:12:00,Pranav Menon,pranav.menon444@gmail.com,+91 9660721410,pranav.menon@ybl,Zara Fashion,XX1082,HDFC0005905,2190.12,Shopping
+bbf417c7-6fcb-4a62-82af-6b6cff9d5bdd,2024-06-23 09:01:00,Rohan Nikhil Agarwal,rohan.agarwal471@gmail.com,+91 8847543473,rohan.agarwal@paytm,HP Petrol Pump,XX5730,UTIB0006555,9556.52,Transportation
+5279c489-dfe8-48d1-a65a-0e86fd6020bb,2024-06-23 09:41:00,Alok Deepa Iyer,alok.iyer567@gmail.com,+91 9641179035,alok.iyer@okicici,Apollo Pharmacy,XX3794,KKBK0004941,17510.34,Healthcare
+2b7b796b-a9d3-4235-9b55-74d5d3ee2184,2024-06-23 10:27:00,Sunita Vikram Shah,sunita.shah523@gmail.com,+91 9184551091,sunita.shah@apl,MakeMyTrip Travels,XX7400,UTIB0005653,5003.85,Travel
+01c1cc19-8a0b-4247-b704-f53451cc30a7,2024-06-23 11:07:00,Nikhil Alok Gupta,nikhil.gupta406@gmail.com,+91 9155414869,nikhil.gupta@okicici,MakeMyTrip Travels,XX5966,HDFC0007333,15673.57,Travel
+b161c178-56b9-4378-9bbf-0a5d0411e081,2024-06-23 11:58:00,Sneha Ritu Gupta,sneha.gupta529@gmail.com,+91 9611303996,sneha.gupta@okhdfcbank,Flipkart Internet,XX1791,SBIN0005333,4703.28,Shopping
+63111090-eb35-423f-9901-cff9ac438c62,2024-06-23 12:46:00,Swati Trivedi,swati.trivedi702@gmail.com,+91 8860832503,swati.trivedi@apl,Reliance Fresh,XX7776,SBIN0001535,5095.72,Groceries
+466d8605-b7a1-4b63-84cd-f03927582bdf,2024-06-23 13:19:00,Aarti Sunita Gokhale,aarti.gokhale995@gmail.com,+91 8832037909,aarti.gokhale@okicici,Airtel Broadband,XX8493,ICIC0004874,11628.85,Utilities
+9a6da8a0-769d-4c1a-b57e-dfe23051cb11,2024-06-23 13:59:00,Meera Singh,meera.singh541@gmail.com,+91 9695045057,meera.singh@ybl,Reliance Fresh,XX7090,UTIB0005634,8814.41,Groceries
+13232560-3c47-4f6d-b4e3-1ff21f7ce128,2024-06-23 14:41:00,Vikram Harsh Patel,vikram.patel203@gmail.com,+91 7021038736,vikram.patel@oksbi,Airtel Broadband,XX6868,KKBK0001466,10540.90,Utilities
+ed9e3b48-78e6-4fe8-b2a2-5b8f9a1e254f,2024-06-23 15:25:00,Deepa Malhotra,deepa.malhotra475@gmail.com,+91 9843263469,deepa.malhotra@apl,Starbucks India,XX8614,SBIN0009287,5690.06,Food & Dining
+1c8edc8e-e96d-4bf0-97aa-e891e72c8ca8,2024-06-23 16:08:00,Amit Neha Agarwal,amit.agarwal104@gmail.com,+91 9617386489,amit.agarwal@paytm,Uber India,XX8927,ICIC0002369,16836.73,Transportation
+80a1c37e-cd5b-49b1-908d-927ea5d46f42,2024-06-23 16:57:00,Sneha Pranav Banerjee,sneha.banerjee753@gmail.com,+91 9742726304,sneha.banerjee@apl,Tata Power,XX0571,ICIC0004525,12453.64,Utilities
+ee548d4e-1fb8-4630-a015-b56126fd2d4d,2024-06-23 17:49:00,Deepa Deepa Deshmukh,deepa.deshmukh993@gmail.com,+91 9815380586,deepa.deshmukh@paytm,HP Petrol Pump,XX2385,SBIN0001696,11439.21,Transportation
+0ff9c04b-0eb6-4c4a-b469-97e2e4a0c991,2024-06-23 18:27:00,Tanvi Menon,tanvi.menon23@gmail.com,+91 8837715962,tanvi.menon@apl,Zara Fashion,XX2263,ICIC0003000,8787.93,Shopping
+7171b216-c6f4-4436-b3e4-ab5ff06e9614,2024-06-23 19:14:00,Rohan Reddy,rohan.reddy646@gmail.com,+91 7017650960,rohan.reddy@ybl,Amazon Pay India,XX3823,SBIN0004507,17644.89,Shopping
+2021e27a-432b-475a-9ed0-780c9a06fa32,2024-06-23 19:53:00,Vikram Pooja Kulkarni,vikram.kulkarni459@gmail.com,+91 9844667599,vikram.kulkarni@oksbi,MakeMyTrip Travels,XX0701,KKBK0008863,4856.29,Travel
+61cf909b-3a9f-463c-9cc3-e26a8b5bd384,2024-06-23 20:24:00,Rohan Gupta,rohan.gupta134@gmail.com,+91 7095326446,rohan.gupta@paytm,Tata Power,XX7873,KKBK0006088,9253.14,Utilities
+26eb536c-8c71-4ade-b168-3a87ca2f0680,2024-06-23 21:23:00,Ritu Hegde,ritu.hegde149@gmail.com,+91 9739367209,ritu.hegde@okhdfcbank,Uber India,XX0095,SBIN0001390,5764.50,Transportation
+d1579f8c-9c87-48d5-b365-6abf2f39e632,2024-06-23 21:57:00,Bhavna Tanvi Mishra,bhavna.mishra397@gmail.com,+91 8842445943,bhavna.mishra@okaxis,Starbucks India,XX5150,UTIB0003890,3501.40,Food & Dining
+ef21adae-63b8-4e83-885b-12c790a0a529,2024-06-23 22:34:00,Suresh Rohan Pandey,suresh.pandey195@gmail.com,+91 9681361168,suresh.pandey@okaxis,Cult.Fit Gym,XX2575,KKBK0003070,7769.42,Healthcare
+1bf0be54-0c41-435e-9d80-c26d29bf4600,2024-06-23 23:23:00,Shreya Kulkarni,shreya.kulkarni870@gmail.com,+91 7037917940,shreya.kulkarni@okicici,Reliance Fresh,XX3878,KKBK0007262,12269.69,Groceries
+2aa55785-901f-468b-aaf6-2ca21a20cbfa,2024-06-24 00:10:00,Arjun Priya Patel,arjun.patel190@gmail.com,+91 8888930879,arjun.patel@paytm,Swiggy Delivery,XX8733,HDFC0009604,4646.29,Food & Dining
+78a3e7ef-50cf-49d6-b3ee-e0742b2b9f0f,2024-06-24 00:48:00,Sunita Sunita Iyer,sunita.iyer507@gmail.com,+91 9799584630,sunita.iyer@okicici,Uber India,XX1593,KKBK0001557,11106.48,Transportation
+706444c5-4462-4503-ae25-bd64c7d9c0ec,2024-06-24 01:39:00,Meera Sunita Saxena,meera.saxena878@gmail.com,+91 9781722941,meera.saxena@okaxis,Flipkart Internet,XX3890,ICIC0006696,3647.01,Shopping
+68774650-c866-44aa-afd0-313ef8eb6458,2024-06-24 02:25:00,Deepa Shreya Patel,deepa.patel291@gmail.com,+91 9164811239,deepa.patel@oksbi,Zomato Online,XX8117,HDFC0007943,10140.32,Food & Dining
+537c5b17-0cc9-42a4-b0ec-0e305687bdfb,2024-06-24 03:07:00,Vikram Sharma,vikram.sharma641@gmail.com,+91 9738358696,vikram.sharma@okicici,Airtel Broadband,XX4041,UTIB0008115,10780.09,Utilities
+3b5c847e-3164-4114-9a7b-8c23ff6074eb,2024-06-24 03:39:00,Tanvi Sneha Shetty,tanvi.shetty662@gmail.com,+91 7064362660,tanvi.shetty@okicici,HP Petrol Pump,XX7234,UTIB0008569,6922.80,Transportation
+38c6d243-5d79-46ae-9a35-1156a9ef31f6,2024-06-24 04:25:00,Deepa Harsh Joshi,deepa.joshi85@gmail.com,+91 9814054841,deepa.joshi@okaxis,Zomato Online,XX4776,SBIN0007518,12053.44,Food & Dining
+8631dfa7-19ef-44ed-bedf-69f2c8ca47f6,2024-06-24 05:05:00,Swati Pooja Saxena,swati.saxena34@gmail.com,+91 7027030337,swati.saxena@oksbi,Zara Fashion,XX7441,UTIB0009489,2299.83,Shopping
+4a2143ec-68dd-4cc1-bc9c-5615352d8d5a,2024-06-24 05:44:00,Meera Agarwal,meera.agarwal945@gmail.com,+91 9116241050,meera.agarwal@oksbi,BookMyShow,XX1983,ICIC0002509,9242.16,Entertainment
+fc6f5996-5018-4a26-87cb-feffbe3d5b1c,2024-06-24 06:44:00,Shreya Suresh Gupta,shreya.gupta105@gmail.com,+91 9693494012,shreya.gupta@okaxis,Zara Fashion,XX6361,SBIN0007479,13956.18,Shopping
+bf2aa818-6dc1-4389-8dff-3b1de7cd4f24,2024-06-24 07:21:00,Rajesh Gupta,rajesh.gupta156@gmail.com,+91 9683435357,rajesh.gupta@paytm,Flipkart Internet,XX3078,ICIC0005589,5454.28,Shopping
+566c9cb1-74a3-4d3a-85ad-9eb701f73abc,2024-06-24 08:08:00,Pooja Arjun Reddy,pooja.reddy807@gmail.com,+91 9188818041,pooja.reddy@okhdfcbank,Flipkart Internet,XX6169,ICIC0007888,15864.55,Shopping
+42f03243-ee44-4ea0-9d72-064eb8c688e7,2024-06-24 08:53:00,Pranav Saxena,pranav.saxena988@gmail.com,+91 9125602232,pranav.saxena@okaxis,Airtel Broadband,XX7151,UTIB0007387,15557.44,Utilities
+5cb8bb25-275b-49a6-9012-d745daaf2c45,2024-06-24 09:17:00,Rajesh Verma,rajesh.verma647@gmail.com,+91 9760737308,rajesh.verma@okicici,Zomato Online,XX8103,KKBK0007307,5298.74,Food & Dining
+136f595e-c589-4ce8-9f25-434160333c90,2024-06-24 10:09:00,Manoj Sneha Mishra,manoj.mishra352@gmail.com,+91 9633303352,manoj.mishra@okicici,Flipkart Internet,XX6701,HDFC0005929,13506.30,Shopping
+fca2e3b3-61e3-4888-bda9-0b6eb430d3be,2024-06-24 10:44:00,Swati Pooja Kulkarni,swati.kulkarni54@gmail.com,+91 8836061185,swati.kulkarni@okhdfcbank,Cult.Fit Gym,XX9923,SBIN0005554,2196.34,Healthcare
+9e56ba27-09a3-40b6-bc31-0d0081667e43,2024-06-24 11:44:00,Ashok Kavita Nair,ashok.nair779@gmail.com,+91 9894569859,ashok.nair@oksbi,BookMyShow,XX4912,KKBK0001478,1522.54,Entertainment
+d0d68ed3-c1aa-477a-bee1-362a022fa829,2024-06-24 12:10:00,Pranav Chopra,pranav.chopra577@gmail.com,+91 9147406640,pranav.chopra@okhdfcbank,Zomato Online,XX5437,UTIB0006536,10543.75,Food & Dining
+32046f5e-e03f-4b1e-982a-65eec0d6e40c,2024-06-24 12:57:00,Aarti Neha Shah,aarti.shah132@gmail.com,+91 9781620955,aarti.shah@oksbi,Zomato Online,XX5798,HDFC0008145,18188.19,Food & Dining
+c003bca6-1f02-403a-822e-bd94c453732f,2024-06-24 13:47:00,Meera Agarwal,meera.agarwal945@gmail.com,+91 9116241050,meera.agarwal@oksbi,Uber India,XX1983,ICIC0002509,15291.83,Transportation
+24cf1b95-7ba4-457e-a2ea-3be5f6acb7a8,2024-06-24 14:32:00,Gaurav Rohan Mehta,gaurav.mehta254@gmail.com,+91 7022177508,gaurav.mehta@oksbi,Zara Fashion,XX9014,KKBK0001399,8584.63,Shopping
+56bf0612-d9d3-4e2c-9af9-df013289cd3e,2024-06-24 15:12:00,Rajesh Manoj Patel,rajesh.patel263@gmail.com,+91 9619414613,rajesh.patel@oksbi,Uber India,XX7271,KKBK0007874,8588.97,Transportation
+49bfa046-1dea-432d-a655-a9f8a5fc3905,2024-06-24 15:51:00,Divya Pranav Menon,divya.menon211@gmail.com,+91 9692226818,divya.menon@paytm,Flipkart Internet,XX9871,ICIC0001274,6522.90,Shopping
+8a062603-2cc4-40ce-9ea0-d13ffaee54ff,2024-06-24 16:34:00,Shreya Pranav Shah,shreya.shah944@gmail.com,+91 9890150847,shreya.shah@okaxis,Uber India,XX7524,KKBK0003866,7106.29,Transportation
+7a80627c-6379-4ddf-b1c6-2a9b5be26d28,2024-06-24 17:17:00,Sanjay Sneha Rao,sanjay.rao959@gmail.com,+91 9768660728,sanjay.rao@okicici,Tata Power,XX7127,ICIC0008135,11636.47,Utilities
+b66c0cb3-a7e4-4616-9aed-4e53d6f6954e,2024-06-24 18:05:00,Shreya Manoj Agarwal,shreya.agarwal234@gmail.com,+91 9128585996,shreya.agarwal@okaxis,Uber India,XX7415,HDFC0001988,14834.35,Transportation
+b07e87be-7f1f-43bb-9e17-fbf98fa7254d,2024-06-24 18:47:00,Priya Singh,priya.singh283@gmail.com,+91 9129074864,priya.singh@ybl,BookMyShow,XX4660,UTIB0002248,16386.70,Entertainment
+8cb119f7-bfee-4fde-8d74-d82c0e31a4c5,2024-06-24 19:32:00,Harsh Mehta,harsh.mehta60@gmail.com,+91 9744234608,harsh.mehta@ybl,Amazon Pay India,XX4213,UTIB0008533,8180.27,Shopping
+f0e56fa8-2f9d-4234-88f2-c082e59e6cde,2024-06-24 20:09:00,Arjun Tanvi Rao,arjun.rao401@gmail.com,+91 9150200620,arjun.rao@oksbi,BookMyShow,XX8386,UTIB0003411,5412.20,Entertainment
+ffdeff0b-3c85-4102-8eaa-c7a6fda17794,2024-06-24 20:46:00,Pooja Tanvi Verma,pooja.verma132@gmail.com,+91 9711389244,pooja.verma@okhdfcbank,Cult.Fit Gym,XX1717,KKBK0005966,1575.86,Healthcare
+a229dec8-ba41-43ec-9ba6-871a73fb970c,2024-06-24 21:42:00,Swati Aarti Malhotra,swati.malhotra246@gmail.com,+91 9122289142,swati.malhotra@okhdfcbank,Apollo Pharmacy,XX0040,SBIN0006826,10634.60,Healthcare
+6f27ca76-ba36-4d99-98b9-76243ae750eb,2024-06-24 22:16:00,Pranav Trivedi,pranav.trivedi353@gmail.com,+91 9674985950,pranav.trivedi@okicici,Starbucks India,XX4032,UTIB0004963,13763.12,Food & Dining
+7d0e0f2a-cc9c-4608-8281-caab60e2ed98,2024-06-24 23:09:00,Manoj Gaurav Kulkarni,manoj.kulkarni521@gmail.com,+91 9844933848,manoj.kulkarni@apl,Cult.Fit Gym,XX5765,UTIB0006722,14717.93,Healthcare
+4cd84ec1-42d4-45ca-af35-cbca13865e56,2024-06-24 23:41:00,Tanvi Saxena,tanvi.saxena995@gmail.com,+91 9859793798,tanvi.saxena@okicici,Airtel Broadband,XX5174,KKBK0008725,9420.43,Utilities
+fae9b9f9-8cd1-402f-bea1-b6bfea4d3415,2024-06-25 00:32:00,Shreya Rajesh Gupta,shreya.gupta431@gmail.com,+91 9855300381,shreya.gupta@apl,Starbucks India,XX8498,KKBK0009752,7394.86,Food & Dining
+5196377b-28e5-4cd9-a50d-ef9f8add2761,2024-06-25 01:11:00,Sunita Karan Banerjee,sunita.banerjee509@gmail.com,+91 9646670575,sunita.banerjee@okhdfcbank,Starbucks India,XX2667,ICIC0007418,7660.85,Food & Dining
+af778fde-e290-48e1-ae69-31345003aac9,2024-06-25 01:59:00,Vikram Joshi,vikram.joshi901@gmail.com,+91 9810674035,vikram.joshi@ybl,Airtel Broadband,XX2239,HDFC0006113,5305.01,Utilities
+ee63e0b2-f17a-4de9-af82-492ad8720927,2024-06-25 02:37:00,Rohan Malhotra,rohan.malhotra591@gmail.com,+91 9722470997,rohan.malhotra@okaxis,BookMyShow,XX9607,UTIB0004666,13513.66,Entertainment
+2e5b23c4-69f2-4e94-a0ee-1de69f7b7091,2024-06-25 03:31:00,Vikram Pranav Bhat,vikram.bhat495@gmail.com,+91 9610022559,vikram.bhat@ybl,Zomato Online,XX3438,SBIN0006760,7993.31,Food & Dining
+6855e1b4-2cb9-4a8f-9a2f-43f35e45bbb3,2024-06-25 04:10:00,Arjun Hegde,arjun.hegde149@gmail.com,+91 9756125088,arjun.hegde@okaxis,Tata Power,XX8788,ICIC0007576,17187.64,Utilities
+af8ebe64-c0f6-4e4c-9da6-7984a72e754b,2024-06-25 04:41:00,Ananya Bhavna Singh,ananya.singh147@gmail.com,+91 8847558179,ananya.singh@paytm,Airtel Broadband,XX5954,SBIN0008172,16328.70,Utilities
+4500d0d4-908d-4f40-9547-56eb497193a7,2024-06-25 05:33:00,Kavita Reddy,kavita.reddy289@gmail.com,+91 9730443052,kavita.reddy@apl,Zomato Online,XX2537,KKBK0007083,913.09,Food & Dining
+57b25536-6cb8-40a4-a3e1-325e01e5fd46,2024-06-25 06:04:00,Kavita Divya Banerjee,kavita.banerjee791@gmail.com,+91 9625542115,kavita.banerjee@apl,Flipkart Internet,XX0654,UTIB0007685,399.81,Shopping
+65f6da57-1d6a-4889-9021-024d401b681e,2024-06-25 06:49:00,Ashok Kavita Nair,ashok.nair779@gmail.com,+91 9894569859,ashok.nair@oksbi,MakeMyTrip Travels,XX4912,KKBK0001478,3283.36,Travel
+5c3323aa-d6aa-498b-bf04-c266a575e44e,2024-06-25 07:30:00,Tanvi Vikram Joshi,tanvi.joshi784@gmail.com,+91 7038802146,tanvi.joshi@okicici,HP Petrol Pump,XX9369,KKBK0002290,477.16,Transportation
+56f37c77-29b9-432b-a2e6-b434ec0964ae,2024-06-25 08:15:00,Swati Swati Agarwal,swati.agarwal658@gmail.com,+91 9157759988,swati.agarwal@okhdfcbank,Reliance Fresh,XX2842,KKBK0003392,17877.29,Groceries
+14399810-421e-4b09-bf3d-32d5f8bbe54a,2024-06-25 08:58:00,Swati Nair,swati.nair669@gmail.com,+91 8845541143,swati.nair@okicici,Cult.Fit Gym,XX1590,SBIN0007145,17397.44,Healthcare
+e288471e-2b6a-4e40-ba0e-fcf600e33bd1,2024-06-25 09:55:00,Nikhil Alok Gupta,nikhil.gupta406@gmail.com,+91 9155414869,nikhil.gupta@okicici,Tata Power,XX5966,HDFC0007333,17914.61,Utilities
+910b38f2-cd95-4a23-aa82-4209ad9d5590,2024-06-25 10:33:00,Vikram Ananya Menon,vikram.menon578@gmail.com,+91 9882044602,vikram.menon@ybl,Airtel Broadband,XX2137,KKBK0008765,12923.68,Utilities
+21f0cbec-899a-4fac-8962-9cc938c2a440,2024-06-25 11:14:00,Manoj Reddy,manoj.reddy177@gmail.com,+91 8843948447,manoj.reddy@okhdfcbank,Reliance Fresh,XX5531,KKBK0002833,4124.13,Groceries
+0d2cb127-202d-46fa-8c9d-a65ae4d2eac1,2024-06-25 12:07:00,Gaurav Karan Malhotra,gaurav.malhotra307@gmail.com,+91 9179955294,gaurav.malhotra@okhdfcbank,MakeMyTrip Travels,XX6039,UTIB0005803,13612.28,Travel
+8f1fab98-6946-484a-b81d-43230d1bf5f3,2024-06-25 12:36:00,Rohan Banerjee,rohan.banerjee268@gmail.com,+91 9714655493,rohan.banerjee@okaxis,Starbucks India,XX5154,KKBK0005710,10433.85,Food & Dining
+24194f9f-f44d-478e-9b81-7ee501bb8e24,2024-06-25 13:19:00,Sneha Swati Nair,sneha.nair946@gmail.com,+91 9626879628,sneha.nair@okicici,Swiggy Delivery,XX4489,UTIB0008229,12326.19,Food & Dining
+f6081e63-cdee-498c-a3b9-f92db986876e,2024-06-25 14:15:00,Rohan Ghosh,rohan.ghosh114@gmail.com,+91 9763957036,rohan.ghosh@okaxis,Zara Fashion,XX6114,SBIN0005338,13446.59,Shopping
+6cc150ab-098c-4932-90c2-dfea45822d76,2024-06-25 14:59:00,Manoj Priya Saxena,manoj.saxena796@gmail.com,+91 9684330223,manoj.saxena@okhdfcbank,Zomato Online,XX2475,SBIN0009443,10638.06,Food & Dining
+b52a7dfc-1062-4fab-8d45-598415ccb21f,2024-06-25 15:31:00,Swati Rao,swati.rao730@gmail.com,+91 9728865134,swati.rao@okhdfcbank,Uber India,XX6425,HDFC0003732,13135.77,Transportation
+ccc1c26f-8da9-4c07-8b1f-61049adb0cb4,2024-06-25 16:19:00,Swati Ananya Deshmukh,swati.deshmukh478@gmail.com,+91 9878841062,swati.deshmukh@okaxis,Flipkart Internet,XX5009,KKBK0008532,9520.95,Shopping
+9726d3cb-df09-4039-a17d-69103fc081d5,2024-06-25 17:00:00,Swati Meera Banerjee,swati.banerjee763@gmail.com,+91 9770177825,swati.banerjee@oksbi,Amazon Pay India,XX1925,HDFC0007704,8352.15,Shopping
+dc1412aa-6075-49a4-ba67-5e81a7f2211e,2024-06-25 17:41:00,Swati Divya Iyer,swati.iyer667@gmail.com,+91 9864241436,swati.iyer@okicici,Tata Power,XX8874,ICIC0007640,6284.37,Utilities
+c86ef4c1-ae50-4e1d-9ee7-217693f2a64a,2024-06-25 18:20:00,Sneha Bhavna Reddy,sneha.reddy436@gmail.com,+91 9683239538,sneha.reddy@okaxis,HP Petrol Pump,XX6483,ICIC0008767,5958.93,Transportation
+aa60823f-474e-47c3-86e4-098165e5b8cf,2024-06-25 19:15:00,Sanjay Arjun Shah,sanjay.shah933@gmail.com,+91 9176607527,sanjay.shah@oksbi,Starbucks India,XX1382,HDFC0009172,14437.14,Food & Dining
+f31614c3-7009-4b96-8b25-17bf7ddc494e,2024-06-25 19:47:00,Rahul Deepa Singh,rahul.singh917@gmail.com,+91 9125053646,rahul.singh@okicici,Reliance Fresh,XX7593,HDFC0005083,17798.04,Groceries
+d1fa6753-6e41-41c7-8740-8d76d0e477ae,2024-06-25 20:36:00,Nikhil Rahul Nair,nikhil.nair594@gmail.com,+91 9727016318,nikhil.nair@okhdfcbank,Amazon Pay India,XX8944,KKBK0002049,8649.17,Shopping
+c2f5c3f0-f110-4320-a62b-23cb6405c2e6,2024-06-25 21:25:00,Sneha Singh,sneha.singh879@gmail.com,+91 9176549837,sneha.singh@paytm,Airtel Broadband,XX5848,ICIC0004648,17356.91,Utilities
+4cd8d386-96d4-47f6-8e92-3b250a8a2159,2024-06-25 22:04:00,Sanjay Joshi,sanjay.joshi962@gmail.com,+91 7099693592,sanjay.joshi@okaxis,Cult.Fit Gym,XX7183,UTIB0006967,16291.27,Healthcare
+8dd26a0c-6721-45d2-a804-3c81617a2368,2024-06-25 22:50:00,Tanvi Rajesh Shah,tanvi.shah685@gmail.com,+91 9610971584,tanvi.shah@apl,Zara Fashion,XX1318,KKBK0002928,8444.38,Shopping
+0b5c2b91-e465-4c04-b1db-e52ef265e2a5,2024-06-25 23:20:00,Ashok Malhotra,ashok.malhotra602@gmail.com,+91 9846760731,ashok.malhotra@ybl,Zomato Online,XX6886,HDFC0007593,17340.87,Food & Dining
+7ebd4f6b-da1a-43b7-b0fd-60bd88e8858e,2024-06-26 00:18:00,Nikhil Divya Reddy,nikhil.reddy156@gmail.com,+91 9877481727,nikhil.reddy@paytm,Cult.Fit Gym,XX5632,UTIB0001402,9350.07,Healthcare
+bf6d7347-e9c7-4797-87c6-f5dab98ec7e1,2024-06-26 00:55:00,Ananya Gokhale,ananya.gokhale763@gmail.com,+91 9781209329,ananya.gokhale@okicici,Zara Fashion,XX0800,HDFC0009092,10814.11,Shopping
+f8e16ae0-17f9-4505-bd21-1695097cf6a3,2024-06-26 01:31:00,Kavita Manoj Patel,kavita.patel302@gmail.com,+91 7083709474,kavita.patel@okaxis,Cult.Fit Gym,XX1479,ICIC0001113,14949.35,Healthcare
+f86b0230-1bf5-4525-9013-419a9c2e60d8,2024-06-26 02:17:00,Harsh Aarti Agarwal,harsh.agarwal583@gmail.com,+91 9653837815,harsh.agarwal@okaxis,Zomato Online,XX8930,HDFC0009687,7696.88,Food & Dining
+8e33b6ca-2b25-4ffb-9aaa-57db186346ba,2024-06-26 02:58:00,Ananya Divya Saxena,ananya.saxena768@gmail.com,+91 9852403564,ananya.saxena@okicici,Swiggy Delivery,XX7480,ICIC0004223,10759.16,Food & Dining
+c1c70089-c0e7-40cf-baa2-e00ad44e8f15,2024-06-26 03:50:00,Suresh Reddy,suresh.reddy430@gmail.com,+91 9616441522,suresh.reddy@okicici,Amazon Pay India,XX2810,HDFC0004422,5184.58,Shopping
+28a82798-ccd0-49e7-be9a-f9498f648c30,2024-06-26 04:27:00,Kavita Ananya Singh,kavita.singh90@gmail.com,+91 9114661179,kavita.singh@okaxis,Zara Fashion,XX6518,HDFC0008357,3943.54,Shopping
+5e225d03-2dd6-47fd-b0e1-7b8fcd2b097a,2024-06-26 05:11:00,Neha Shreya Ghosh,neha.ghosh567@gmail.com,+91 7095449737,neha.ghosh@paytm,HP Petrol Pump,XX6136,UTIB0007636,9773.63,Transportation
+ac98fa43-cc65-4d44-bc78-06e00e13e901,2024-06-26 05:45:00,Sunita Karan Banerjee,sunita.banerjee509@gmail.com,+91 9646670575,sunita.banerjee@okhdfcbank,Reliance Fresh,XX2667,ICIC0007418,16902.77,Groceries
+93b95ed7-8f7d-421d-89bf-9b96d031bc25,2024-06-26 06:26:00,Swati Manoj Verma,swati.verma972@gmail.com,+91 9171741754,swati.verma@ybl,Flipkart Internet,XX0300,KKBK0006141,4597.62,Shopping
+cdd79af4-8c6d-434a-b940-26921e380a55,2024-06-26 07:10:00,Sanjay Alok Hegde,sanjay.hegde168@gmail.com,+91 9664856255,sanjay.hegde@ybl,Swiggy Delivery,XX7332,SBIN0007670,8802.75,Food & Dining
+72eaf1c9-cffe-47ee-9a55-965d98f3492e,2024-06-26 08:07:00,Sunita Vikram Bhat,sunita.bhat466@gmail.com,+91 9147138074,sunita.bhat@okaxis,Airtel Broadband,XX0874,ICIC0003612,8568.65,Utilities
+90ce8e36-313c-4b8c-90cf-a0cfa4b66e59,2024-06-26 08:36:00,Karan Shreya Reddy,karan.reddy794@gmail.com,+91 9739286313,karan.reddy@paytm,MakeMyTrip Travels,XX0348,KKBK0001432,7244.77,Travel
+98ba1d37-8670-48c9-92ba-24f585397781,2024-06-26 09:34:00,Meera Rahul Iyer,meera.iyer62@gmail.com,+91 9160355335,meera.iyer@oksbi,Airtel Broadband,XX4458,ICIC0005200,997.19,Utilities
+8244b2c5-34c5-4a58-b81b-5a643a4b8b0d,2024-06-26 10:09:00,Rohan Ghosh,rohan.ghosh114@gmail.com,+91 9763957036,rohan.ghosh@okaxis,MakeMyTrip Travels,XX6114,SBIN0005338,11068.80,Travel
+f2cb5156-fb24-4c45-9ae5-aa6942d95127,2024-06-26 10:49:00,Priya Manoj Joshi,priya.joshi148@gmail.com,+91 7082381952,priya.joshi@okicici,Flipkart Internet,XX1250,KKBK0009745,17604.56,Shopping
+7b1c9cd9-ad9e-448c-aa0f-e2f1bac0deeb,2024-06-26 11:27:00,Swati Trivedi,swati.trivedi702@gmail.com,+91 8860832503,swati.trivedi@apl,Airtel Broadband,XX7776,SBIN0001535,9157.77,Utilities
+1242d8e0-2850-4acd-ae59-844afed12bc0,2024-06-26 12:17:00,Harsh Dubey,harsh.dubey516@gmail.com,+91 8896211645,harsh.dubey@ybl,HP Petrol Pump,XX3446,KKBK0006460,16650.31,Transportation
+13727fd6-ee3e-4912-976a-bd8c0f3532af,2024-06-26 12:54:00,Ananya Meera Banerjee,ananya.banerjee73@gmail.com,+91 9841000462,ananya.banerjee@apl,Amazon Pay India,XX7306,ICIC0006155,5260.54,Shopping
+b8b8551e-a7b5-4923-9914-5aa8cf74c9ae,2024-06-26 13:55:00,Vikram Kavita Nair,vikram.nair525@gmail.com,+91 9755868421,vikram.nair@ybl,Zomato Online,XX5617,HDFC0005562,5671.74,Food & Dining
+e32dd4e2-932c-4708-8269-0fa616a556b8,2024-06-26 14:22:00,Pranav Tanvi Chatterjee,pranav.chatterjee397@gmail.com,+91 7060231696,pranav.chatterjee@okicici,Swiggy Delivery,XX5631,KKBK0009773,2913.73,Food & Dining
+947155e2-f0ec-459b-bb2f-67b884d2ee36,2024-06-26 15:07:00,Tanvi Pooja Banerjee,tanvi.banerjee384@gmail.com,+91 9644312208,tanvi.banerjee@apl,Zara Fashion,XX1726,UTIB0006679,10017.79,Shopping
+1b4b1a8f-89cf-4cc8-8d81-c28f6b6ff6d1,2024-06-26 16:04:00,Vikram Priya Ghosh,vikram.ghosh633@gmail.com,+91 7089486506,vikram.ghosh@paytm,Flipkart Internet,XX2215,KKBK0006476,3652.52,Shopping
+ed8a0ad7-63a7-42a7-9dcc-bb38d33116b0,2024-06-26 16:38:00,Arjun Joshi,arjun.joshi228@gmail.com,+91 8880575564,arjun.joshi@oksbi,Flipkart Internet,XX0206,ICIC0004054,9147.90,Shopping
+ab249446-237c-473a-9171-dac6bf317d97,2024-06-26 17:19:00,Rajesh Suresh Menon,rajesh.menon873@gmail.com,+91 8833568616,rajesh.menon@oksbi,Zomato Online,XX1115,KKBK0001910,16617.92,Food & Dining
+682cc276-5579-49d5-9d7a-c3c2c810ad27,2024-06-26 18:11:00,Bhavna Sanjay Kulkarni,bhavna.kulkarni193@gmail.com,+91 9167040531,bhavna.kulkarni@okicici,Cult.Fit Gym,XX6322,UTIB0007780,3045.32,Healthcare
+75af9226-b3d2-4a76-86ba-c43c91d32edb,2024-06-26 18:51:00,Arjun Hegde,arjun.hegde149@gmail.com,+91 9756125088,arjun.hegde@okaxis,Airtel Broadband,XX8788,ICIC0007576,16362.58,Utilities
+b3c198f8-1ecb-4d4e-98b9-edf94287cd4b,2024-06-26 19:35:00,Amit Vikram Banerjee,amit.banerjee525@gmail.com,+91 8840780047,amit.banerjee@okhdfcbank,Reliance Fresh,XX2545,UTIB0003691,14655.44,Groceries
+3ed0d27d-7ab2-4cad-bd5b-f54c9096316b,2024-06-26 20:11:00,Meera Chopra,meera.chopra899@gmail.com,+91 7039832632,meera.chopra@okicici,Starbucks India,XX4487,KKBK0007409,17215.36,Food & Dining
+e7e5cf12-c334-4ed8-acb7-c57a852f457c,2024-06-26 20:54:00,Karan Reddy,karan.reddy399@gmail.com,+91 9740204183,karan.reddy@okicici,Reliance Fresh,XX3241,HDFC0006058,17973.06,Groceries
+c7adbfe9-c630-4cf2-a15a-ab82352e36ac,2024-06-26 21:36:00,Deepa Karan Menon,deepa.menon68@gmail.com,+91 8848496836,deepa.menon@apl,Starbucks India,XX2770,UTIB0005535,11403.90,Food & Dining
+f5185150-b9d2-4375-b5fd-8c2e4020b6f3,2024-06-26 22:30:00,Bhavna Sanjay Kulkarni,bhavna.kulkarni193@gmail.com,+91 9167040531,bhavna.kulkarni@okicici,Uber India,XX6322,UTIB0007780,5201.51,Transportation
+04a91d70-6881-4822-a862-fab3c0828b51,2024-06-26 23:10:00,Karan Dubey,karan.dubey678@gmail.com,+91 9760554092,karan.dubey@okaxis,HP Petrol Pump,XX3505,KKBK0004211,9725.60,Transportation
+e4fada21-9282-47c6-9fb1-432ec2e275f2,2024-06-26 23:41:00,Ashok Nikhil Sharma,ashok.sharma914@gmail.com,+91 9885731046,ashok.sharma@okhdfcbank,Amazon Pay India,XX8735,SBIN0009191,18326.82,Shopping
+ec68628c-b8a5-44c6-81d7-df92335ca553,2024-06-27 00:21:00,Manoj Gaurav Kulkarni,manoj.kulkarni521@gmail.com,+91 9844933848,manoj.kulkarni@apl,Zara Fashion,XX5765,UTIB0006722,4561.81,Shopping
+f436b96b-4321-4686-b1a0-78c2f7917f4c,2024-06-27 01:20:00,Sanjay Malhotra,sanjay.malhotra574@gmail.com,+91 9168200738,sanjay.malhotra@okhdfcbank,Airtel Broadband,XX3459,HDFC0001403,18442.25,Utilities
+cc3f0473-e4b4-4e51-8d82-1dc0b620e12f,2024-06-27 01:53:00,Aarti Neha Shah,aarti.shah132@gmail.com,+91 9781620955,aarti.shah@oksbi,Reliance Fresh,XX5798,HDFC0008145,7885.44,Groceries
+b1db47f5-c92f-4228-bde6-848e789f6e2d,2024-06-27 02:46:00,Kavita Hegde,kavita.hegde618@gmail.com,+91 8839586765,kavita.hegde@okhdfcbank,MakeMyTrip Travels,XX8591,UTIB0005492,17994.17,Travel
+b3840092-a439-4d17-8166-8029838ebce2,2024-06-27 03:32:00,Neha Sneha Hegde,neha.hegde882@gmail.com,+91 7038259267,neha.hegde@paytm,Uber India,XX2072,KKBK0009085,13220.81,Transportation
+2722e632-5e87-483e-9782-dd10a948a4c5,2024-06-27 03:56:00,Amit Vikram Banerjee,amit.banerjee525@gmail.com,+91 8840780047,amit.banerjee@okhdfcbank,Amazon Pay India,XX2545,UTIB0003691,11210.94,Shopping
+f15fe94b-a0b1-46b7-ac0c-e02a08321c5d,2024-06-27 04:44:00,Sunita Sneha Bose,sunita.bose503@gmail.com,+91 9828174100,sunita.bose@apl,Zomato Online,XX9350,ICIC0006786,17503.75,Food & Dining
+5f75a38c-c5cd-4dce-86ec-5ef0b4cf052a,2024-06-27 05:32:00,Manoj Priya Saxena,manoj.saxena796@gmail.com,+91 9684330223,manoj.saxena@okhdfcbank,Apollo Pharmacy,XX2475,SBIN0009443,12589.80,Healthcare
+b6cd823d-e565-4b7f-8f65-6b9426e9c529,2024-06-27 06:15:00,Ananya Harsh Nair,ananya.nair61@gmail.com,+91 9889281662,ananya.nair@paytm,HP Petrol Pump,XX2561,HDFC0004707,8309.99,Transportation
+12c7d48f-f5a1-44cd-88e5-a5b8d4d422aa,2024-06-27 06:54:00,Ananya Aarti Chopra,ananya.chopra211@gmail.com,+91 7043815032,ananya.chopra@oksbi,BookMyShow,XX0345,SBIN0008666,5577.10,Entertainment
+e231e2af-f492-4ba2-93bb-20b3b9a134a5,2024-06-27 07:42:00,Aarti Tanvi Mehta,aarti.mehta216@gmail.com,+91 9180019765,aarti.mehta@okaxis,HP Petrol Pump,XX0958,UTIB0002152,210.42,Transportation
+c8b312d3-2e1b-4c65-8376-66d93ff9cc2b,2024-06-27 08:30:00,Rohan Kavita Menon,rohan.menon535@gmail.com,+91 7031979178,rohan.menon@okhdfcbank,Starbucks India,XX4592,SBIN0004694,12151.11,Food & Dining
+ee826bf4-4713-4fb6-8d55-a031976669ba,2024-06-27 09:07:00,Neha Harsh Trivedi,neha.trivedi950@gmail.com,+91 7046586490,neha.trivedi@ybl,Starbucks India,XX3635,UTIB0004961,12450.46,Food & Dining
+1942b0c3-4130-48ec-8eab-8690fa7f503a,2024-06-27 09:50:00,Priya Ashok Joshi,priya.joshi975@gmail.com,+91 9139045233,priya.joshi@paytm,Swiggy Delivery,XX7654,ICIC0008028,15228.12,Food & Dining
+41c76286-1431-4b7c-8b73-ae3258d91014,2024-06-27 10:39:00,Tanvi Agarwal,tanvi.agarwal944@gmail.com,+91 9811992774,tanvi.agarwal@apl,Apollo Pharmacy,XX6191,HDFC0002797,16706.35,Healthcare
+a7825e59-9063-43fd-986c-f5031971667a,2024-06-27 11:14:00,Neha Ritu Gokhale,neha.gokhale230@gmail.com,+91 9152110357,neha.gokhale@okaxis,Amazon Pay India,XX9373,UTIB0002722,7354.85,Shopping
+c51fe3e4-9c7e-4736-8ea0-e0b77af6119e,2024-06-27 12:07:00,Aarti Neha Ghosh,aarti.ghosh873@gmail.com,+91 9116074522,aarti.ghosh@paytm,Zara Fashion,XX9411,UTIB0008371,7364.43,Shopping
+5b54b3e1-48f3-4b30-9e19-16c4d36c8a61,2024-06-27 12:50:00,Priya Sunita Gupta,priya.gupta513@gmail.com,+91 8878271070,priya.gupta@okhdfcbank,Reliance Fresh,XX2556,KKBK0004893,2286.53,Groceries
+d8a8982b-27a5-4f13-b1d3-94edde7b9448,2024-06-27 13:17:00,Manoj Alok Bhat,manoj.bhat295@gmail.com,+91 8850063879,manoj.bhat@paytm,Zara Fashion,XX9741,UTIB0006714,120.19,Shopping
+fa47bc84-ec0b-4431-b440-05b92661da38,2024-06-27 14:14:00,Aarti Patel,aarti.patel530@gmail.com,+91 8820442542,aarti.patel@oksbi,Swiggy Delivery,XX3619,UTIB0005915,10014.17,Food & Dining
+c30f4d15-8db8-4555-9ad0-e997c647b489,2024-06-27 14:55:00,Shreya Dubey,shreya.dubey995@gmail.com,+91 8838270305,shreya.dubey@oksbi,Airtel Broadband,XX4997,UTIB0002071,4593.82,Utilities
+d2f2a7de-75d9-4c6c-8b72-e6d10c6307e8,2024-06-27 15:28:00,Manoj Bhat,manoj.bhat990@gmail.com,+91 8830373686,manoj.bhat@apl,Cult.Fit Gym,XX5336,UTIB0004295,3160.27,Healthcare
+50f78dcc-e200-4d7c-b749-0c19904bb7a5,2024-06-27 16:25:00,Ashok Rahul Pillai,ashok.pillai492@gmail.com,+91 9879046488,ashok.pillai@ybl,Zara Fashion,XX0070,HDFC0002695,11029.55,Shopping
+610fccb5-a4d2-4533-b38d-ab33e6f793c8,2024-06-27 17:09:00,Ashok Divya Mishra,ashok.mishra80@gmail.com,+91 9618487266,ashok.mishra@apl,Airtel Broadband,XX8282,UTIB0002606,16748.92,Utilities
+b13af05d-ec25-49c5-add2-82ea3b5e2d28,2024-06-27 17:36:00,Swati Suresh Nair,swati.nair175@gmail.com,+91 8831622781,swati.nair@paytm,Reliance Fresh,XX8247,HDFC0005751,15524.94,Groceries
+03f08770-8d5f-4f0b-af2b-bc5944f63b5b,2024-06-27 18:35:00,Aarti Sunita Gokhale,aarti.gokhale995@gmail.com,+91 8832037909,aarti.gokhale@okicici,Airtel Broadband,XX8493,ICIC0004874,15747.06,Utilities
+ea61b8f1-2b83-4bff-bdbe-adab3afaf012,2024-06-27 19:10:00,Sanjay Manoj Ghosh,sanjay.ghosh971@gmail.com,+91 9847103909,sanjay.ghosh@okaxis,MakeMyTrip Travels,XX8968,ICIC0009108,3360.36,Travel
+8a76278f-bcd8-49e1-bf15-4ad2846c4ee0,2024-06-27 19:42:00,Divya Nair,divya.nair621@gmail.com,+91 9888837286,divya.nair@apl,Flipkart Internet,XX4028,ICIC0003306,12216.35,Shopping
+cb558b12-65ee-4ce4-af33-b08f30a7296c,2024-06-27 20:27:00,Ritu Aarti Ghosh,ritu.ghosh378@gmail.com,+91 9184408215,ritu.ghosh@ybl,MakeMyTrip Travels,XX1543,HDFC0001462,7898.67,Travel
+5e569abc-bcb6-4317-83b8-0415ce6cbc6c,2024-06-27 21:19:00,Sunita Vikram Shah,sunita.shah523@gmail.com,+91 9184551091,sunita.shah@apl,Airtel Broadband,XX7400,UTIB0005653,2729.48,Utilities
+ed970447-2441-473c-be78-55f57e322fe1,2024-06-27 22:00:00,Deepa Karan Menon,deepa.menon68@gmail.com,+91 8848496836,deepa.menon@apl,MakeMyTrip Travels,XX2770,UTIB0005535,14960.84,Travel
+46bb6ec5-270d-4221-8190-2e0d287c5bc0,2024-06-27 22:42:00,Gaurav Rohan Mehta,gaurav.mehta254@gmail.com,+91 7022177508,gaurav.mehta@oksbi,Tata Power,XX9014,KKBK0001399,7023.41,Utilities
+39854dc6-7f48-4759-86b2-b60ee23c0713,2024-06-27 23:26:00,Bhavna Sanjay Menon,bhavna.menon692@gmail.com,+91 7054796084,bhavna.menon@apl,Zomato Online,XX9053,KKBK0008284,16670.99,Food & Dining
+1a22ecac-dbb9-4f3f-9a9b-cbc7f5c6c7ae,2024-06-28 00:16:00,Deepa Shah,deepa.shah992@gmail.com,+91 9691421648,deepa.shah@ybl,Cult.Fit Gym,XX6231,HDFC0003490,1321.45,Healthcare
+ab3e35cb-e404-42ae-8f8a-614f47649eba,2024-06-28 00:59:00,Rahul Iyer,rahul.iyer834@gmail.com,+91 7036788476,rahul.iyer@paytm,BookMyShow,XX4488,ICIC0005681,5675.80,Entertainment
+086cc375-2b57-4132-b681-481ed23722ee,2024-06-28 01:38:00,Shreya Rajesh Gupta,shreya.gupta431@gmail.com,+91 9855300381,shreya.gupta@apl,Cult.Fit Gym,XX8498,KKBK0009752,17193.07,Healthcare
+9055e21f-bdc3-42c7-9480-81f683ba11c6,2024-06-28 02:16:00,Karan Saxena,karan.saxena313@gmail.com,+91 9734727121,karan.saxena@oksbi,Amazon Pay India,XX4521,SBIN0006924,13012.50,Shopping
+ae227e9f-149c-4d99-98e8-1c46e73b5a3a,2024-06-28 02:58:00,Sanjay Chopra,sanjay.chopra979@gmail.com,+91 9746307023,sanjay.chopra@okhdfcbank,BookMyShow,XX6359,UTIB0004731,6184.73,Entertainment
+e342883b-7615-488e-a2e3-348d00ec0bd2,2024-06-28 03:43:00,Bhavna Harsh Trivedi,bhavna.trivedi456@gmail.com,+91 9871707170,bhavna.trivedi@okhdfcbank,Reliance Fresh,XX9938,UTIB0007636,1455.22,Groceries
+d7e5c5ae-24f7-4d29-8e5b-c95f358fd87b,2024-06-28 04:31:00,Karan Iyer,karan.iyer202@gmail.com,+91 9899317881,karan.iyer@okicici,BookMyShow,XX0722,HDFC0001642,3424.04,Entertainment
+daf98332-92aa-4a5f-9306-035947534bba,2024-06-28 05:19:00,Bhavna Shetty,bhavna.shetty542@gmail.com,+91 7030790547,bhavna.shetty@okaxis,MakeMyTrip Travels,XX0316,UTIB0004823,14874.10,Travel
+1cb3950c-8142-4b7b-8860-27fb78613f2a,2024-06-28 05:52:00,Amit Kavita Iyer,amit.iyer215@gmail.com,+91 9662604550,amit.iyer@okhdfcbank,Zara Fashion,XX7775,KKBK0001957,1951.60,Shopping
+7293c93d-5256-48da-971c-7103fd98c86a,2024-06-28 06:27:00,Gaurav Neha Hegde,gaurav.hegde97@gmail.com,+91 9641100760,gaurav.hegde@paytm,HP Petrol Pump,XX3898,ICIC0001227,12507.00,Transportation
+5b8d833b-d427-490b-93f0-f731599a334b,2024-06-28 07:29:00,Suresh Vikram Mishra,suresh.mishra254@gmail.com,+91 8830320489,suresh.mishra@ybl,BookMyShow,XX7318,KKBK0009021,3698.80,Entertainment
+a7ea44cb-166d-43ca-a4c0-91a5ed69b9a2,2024-06-28 08:03:00,Manoj Meera Agarwal,manoj.agarwal848@gmail.com,+91 9737743616,manoj.agarwal@oksbi,Airtel Broadband,XX3007,HDFC0008370,3986.88,Utilities
+023a5347-e1fd-46f7-90b1-50ae1603bab8,2024-06-28 08:36:00,Deepa Ashok Iyer,deepa.iyer126@gmail.com,+91 9718438255,deepa.iyer@apl,Starbucks India,XX4210,SBIN0005463,11004.25,Food & Dining
+b4db17a9-7a7f-4c37-aa8e-9b6cd2af9edf,2024-06-28 09:28:00,Priya Manoj Joshi,priya.joshi99@gmail.com,+91 9795512494,priya.joshi@oksbi,Zomato Online,XX5334,SBIN0009700,9764.37,Food & Dining
+0525089b-b2e9-44ad-a2c3-d78359d7388f,2024-06-28 10:05:00,Kavita Ananya Verma,kavita.verma17@gmail.com,+91 9636891808,kavita.verma@okhdfcbank,BookMyShow,XX0443,ICIC0002256,1701.37,Entertainment
+651b354c-1eb4-48b3-a43c-2be257ae31d0,2024-06-28 10:56:00,Rajesh Gupta,rajesh.gupta308@gmail.com,+91 9751992881,rajesh.gupta@oksbi,Zomato Online,XX4241,UTIB0002742,15033.78,Food & Dining
+cb492e84-6921-4b41-bce0-c78947c57064,2024-06-28 11:38:00,Ashok Sunita Singh,ashok.singh409@gmail.com,+91 9679068413,ashok.singh@oksbi,Tata Power,XX6685,KKBK0007073,12477.10,Utilities
+62c6fe98-291e-40bf-880c-0457b4224ce3,2024-06-28 12:25:00,Vikram Ashok Banerjee,vikram.banerjee918@gmail.com,+91 9687930625,vikram.banerjee@ybl,Airtel Broadband,XX1628,HDFC0001748,5045.56,Utilities
+b8c20632-bee2-446b-9b5c-529483f4621d,2024-06-28 13:07:00,Sneha Shreya Hegde,sneha.hegde141@gmail.com,+91 9676107524,sneha.hegde@okaxis,Starbucks India,XX0171,UTIB0001784,15278.45,Food & Dining
+24ca3116-00f5-49c4-9785-46f19fc5540d,2024-06-28 13:53:00,Priya Vikram Hegde,priya.hegde947@gmail.com,+91 7095147938,priya.hegde@ybl,MakeMyTrip Travels,XX4558,KKBK0007919,550.71,Travel
+34518741-f1c4-4555-928c-4e34299480d7,2024-06-28 14:22:00,Rohan Pranav Kulkarni,rohan.kulkarni67@gmail.com,+91 9191503627,rohan.kulkarni@okicici,Reliance Fresh,XX4139,HDFC0003594,3484.87,Groceries
+645c240a-618c-4dee-a39a-bef3ee9bcd30,2024-06-28 15:14:00,Arjun Shetty,arjun.shetty260@gmail.com,+91 9894791790,arjun.shetty@oksbi,MakeMyTrip Travels,XX3670,KKBK0002057,3720.63,Travel
+507793a7-68d2-4570-8d86-71b18ce8334a,2024-06-28 15:50:00,Vikram Rajesh Sharma,vikram.sharma859@gmail.com,+91 9615917225,vikram.sharma@paytm,Zomato Online,XX2649,UTIB0008007,13728.28,Food & Dining
+a363bad0-5626-402b-82de-0c48fdcca07b,2024-06-28 16:47:00,Rahul Manoj Chopra,rahul.chopra308@gmail.com,+91 7062328922,rahul.chopra@ybl,Tata Power,XX5509,HDFC0004753,16308.67,Utilities
+2f654e74-8a96-4e18-80fe-818198fbe0ed,2024-06-28 17:14:00,Pranav Kulkarni,pranav.kulkarni981@gmail.com,+91 9198945791,pranav.kulkarni@apl,Apollo Pharmacy,XX7065,SBIN0009471,5864.97,Healthcare
+d2bfb8d5-f1c2-4092-976d-f776a4222a6d,2024-06-28 18:02:00,Ananya Harsh Nair,ananya.nair61@gmail.com,+91 9889281662,ananya.nair@paytm,Apollo Pharmacy,XX2561,HDFC0004707,1897.09,Healthcare
+770b04cc-c224-4449-b186-e0faee811f54,2024-06-28 18:56:00,Karan Singh,karan.singh535@gmail.com,+91 7088447471,karan.singh@ybl,HP Petrol Pump,XX2450,SBIN0003605,17918.62,Transportation
+78e94370-9ae3-4f95-b8c0-2ace35f144d3,2024-06-28 19:32:00,Rahul Ashok Nair,rahul.nair51@gmail.com,+91 9880634031,rahul.nair@oksbi,Zara Fashion,XX8426,ICIC0009474,17507.39,Shopping
+2a8d3ff8-14b5-4bb4-9798-15715b2b9887,2024-06-28 20:17:00,Aarti Shreya Shetty,aarti.shetty354@gmail.com,+91 8842300789,aarti.shetty@okhdfcbank,Tata Power,XX9467,ICIC0004069,9402.25,Utilities
+ab955cab-ba88-4e58-b954-23ffbd258599,2024-06-28 20:53:00,Tanvi Vikram Mishra,tanvi.mishra66@gmail.com,+91 8859148105,tanvi.mishra@ybl,Uber India,XX9360,SBIN0002432,10283.45,Transportation
+8e043892-79bd-4530-85dc-abfc1cabe090,2024-06-28 21:46:00,Aarti Amit Hegde,aarti.hegde649@gmail.com,+91 9764082427,aarti.hegde@apl,Apollo Pharmacy,XX1453,HDFC0003317,10152.81,Healthcare
+89695b18-111b-4646-901a-8c2ba2cd4c27,2024-06-28 22:25:00,Aarti Meera Gokhale,aarti.gokhale334@gmail.com,+91 9156029251,aarti.gokhale@oksbi,Zara Fashion,XX3411,ICIC0007912,16687.16,Shopping
+d5663fc1-7d41-4faa-86e6-597104111397,2024-06-28 23:15:00,Bhavna Ritu Shah,bhavna.shah546@gmail.com,+91 9835382690,bhavna.shah@okhdfcbank,Tata Power,XX2036,ICIC0006973,346.08,Utilities
+5834366d-d353-4f5f-872e-0605cd082768,2024-06-28 23:49:00,Meera Ananya Singh,meera.singh143@gmail.com,+91 9841555368,meera.singh@okaxis,Amazon Pay India,XX0373,UTIB0009487,14322.19,Shopping
+69f0bafb-58ea-48b4-8c6c-d3970a70e9f7,2024-06-29 00:41:00,Gaurav Shetty,gaurav.shetty732@gmail.com,+91 9655547257,gaurav.shetty@ybl,Swiggy Delivery,XX2897,UTIB0009814,15446.24,Food & Dining
+bffd38dd-7879-40cb-aba8-b519fef76bb9,2024-06-29 01:06:00,Divya Rohan Patel,divya.patel710@gmail.com,+91 9791705627,divya.patel@ybl,Apollo Pharmacy,XX6133,SBIN0004719,17653.61,Healthcare
+e508156b-a303-49b3-afda-b7a7fd306faf,2024-06-29 01:54:00,Aarti Ashok Dubey,aarti.dubey612@gmail.com,+91 9665979497,aarti.dubey@paytm,Airtel Broadband,XX5645,UTIB0001221,6391.65,Utilities
+40b7b967-7e23-4391-a4ae-579f274917b2,2024-06-29 02:45:00,Rajesh Meera Gupta,rajesh.gupta938@gmail.com,+91 9659323079,rajesh.gupta@okhdfcbank,HP Petrol Pump,XX6084,SBIN0002214,7021.63,Transportation
+6ef7c327-e13b-47ed-9511-16ee847bd503,2024-06-29 03:24:00,Tanvi Menon,tanvi.menon23@gmail.com,+91 8837715962,tanvi.menon@apl,Zomato Online,XX2263,ICIC0003000,7096.68,Food & Dining
+639f71a2-9f89-4261-81fb-388894bb29ae,2024-06-29 04:03:00,Sunita Sneha Bose,sunita.bose503@gmail.com,+91 9828174100,sunita.bose@apl,Zomato Online,XX9350,ICIC0006786,12016.91,Food & Dining
+53736f52-b710-4608-8aea-d8e4769c51f6,2024-06-29 04:57:00,Bhavna Sanjay Kulkarni,bhavna.kulkarni193@gmail.com,+91 9167040531,bhavna.kulkarni@okicici,Airtel Broadband,XX6322,UTIB0007780,13461.12,Utilities
+7d146e77-a0c0-4b41-ab35-665aaa379844,2024-06-29 05:26:00,Sanjay Nikhil Shetty,sanjay.shetty236@gmail.com,+91 8832351968,sanjay.shetty@okhdfcbank,Zomato Online,XX5219,KKBK0007212,15646.80,Food & Dining
+a200a148-6e28-4236-93e8-cb0a940053e9,2024-06-29 06:25:00,Sanjay Verma,sanjay.verma685@gmail.com,+91 7075472957,sanjay.verma@apl,Zomato Online,XX4623,UTIB0002207,15032.46,Food & Dining
+47140d85-1cee-4acd-9b62-348809f6c0ba,2024-06-29 06:59:00,Swati Pooja Kulkarni,swati.kulkarni54@gmail.com,+91 8836061185,swati.kulkarni@okhdfcbank,HP Petrol Pump,XX9923,SBIN0005554,1564.67,Transportation
+1f1232d7-1bec-4a03-84e2-1e66be91781c,2024-06-29 07:51:00,Arjun Shreya Trivedi,arjun.trivedi212@gmail.com,+91 9829816772,arjun.trivedi@okhdfcbank,Amazon Pay India,XX2704,KKBK0004834,218.89,Shopping
+9d523235-acd2-4a47-a908-9fc4c29ec8ad,2024-06-29 08:26:00,Arjun Shreya Banerjee,arjun.banerjee863@gmail.com,+91 9834552779,arjun.banerjee@oksbi,Amazon Pay India,XX5011,UTIB0006246,2284.06,Shopping
+c937eb45-d950-4c17-b3c5-34d715d5bb04,2024-06-29 09:02:00,Meera Swati Nair,meera.nair105@gmail.com,+91 9154486853,meera.nair@okaxis,MakeMyTrip Travels,XX4050,HDFC0009040,546.71,Travel
+16c91985-3bda-432f-b1e8-c2037ce1299e,2024-06-29 09:51:00,Sunita Iyer,sunita.iyer148@gmail.com,+91 9776894182,sunita.iyer@okicici,Reliance Fresh,XX7264,SBIN0001478,674.20,Groceries
+ec1cddc2-a740-46b3-bc5c-cf0a53af0670,2024-06-29 10:36:00,Ashok Sanjay Sharma,ashok.sharma883@gmail.com,+91 8872992702,ashok.sharma@apl,Reliance Fresh,XX9263,ICIC0002489,9765.22,Groceries
+82862f0d-6752-4bbd-8d6b-d2e2699bb469,2024-06-29 11:22:00,Shreya Sunita Agarwal,shreya.agarwal844@gmail.com,+91 9185374270,shreya.agarwal@paytm,Swiggy Delivery,XX4878,UTIB0002354,17415.30,Food & Dining
+43d2e992-a938-48ef-93dc-3e5902bec961,2024-06-29 11:59:00,Swati Pooja Saxena,swati.saxena34@gmail.com,+91 7027030337,swati.saxena@oksbi,BookMyShow,XX7441,UTIB0009489,10905.28,Entertainment
+42bd1875-53a8-4e34-8505-d366d00849da,2024-06-29 12:35:00,Manoj Tanvi Kulkarni,manoj.kulkarni858@gmail.com,+91 8888411782,manoj.kulkarni@okaxis,BookMyShow,XX2331,ICIC0007845,2335.05,Entertainment
+24ce7f05-cccf-446c-9a9d-5c90fcd1fdcb,2024-06-29 13:32:00,Gaurav Swati Mishra,gaurav.mishra935@gmail.com,+91 9650170436,gaurav.mishra@okaxis,Zara Fashion,XX3645,HDFC0003840,11681.00,Shopping
+d9942bb2-da38-4369-873d-a4ed28d91030,2024-06-29 14:04:00,Ashok Divya Mishra,ashok.mishra80@gmail.com,+91 9618487266,ashok.mishra@apl,Tata Power,XX8282,UTIB0002606,16268.19,Utilities
+e254687e-e9ec-4d7d-94fe-ac29f8c800d7,2024-06-29 14:42:00,Harsh Iyer,harsh.iyer915@gmail.com,+91 9798046344,harsh.iyer@okicici,Zomato Online,XX8445,HDFC0001259,475.40,Food & Dining
+fd276d27-2a9c-4626-baa8-ed47b6a62898,2024-06-29 15:42:00,Vikram Alok Mehta,vikram.mehta711@gmail.com,+91 7027166877,vikram.mehta@oksbi,Tata Power,XX9586,UTIB0002394,14469.60,Utilities
+54c5aebe-1f60-4e06-91fc-21b9120da1f6,2024-06-29 16:12:00,Arjun Iyer,arjun.iyer328@gmail.com,+91 9894019584,arjun.iyer@okhdfcbank,Tata Power,XX9540,ICIC0005049,11260.95,Utilities
+674f6738-802e-46bc-a351-6e70576fcf73,2024-06-29 17:01:00,Priya Ashok Joshi,priya.joshi975@gmail.com,+91 9139045233,priya.joshi@paytm,BookMyShow,XX7654,ICIC0008028,635.11,Entertainment
+29cd98f1-2fe4-4f5f-9f50-5472667befc0,2024-06-29 17:43:00,Ananya Gaurav Ghosh,ananya.ghosh333@gmail.com,+91 9614173734,ananya.ghosh@ybl,Apollo Pharmacy,XX8122,HDFC0008671,9868.30,Healthcare
+e21a4a6e-3f44-459d-82a0-2e85d054cdf0,2024-06-29 18:35:00,Gaurav Pooja Ghosh,gaurav.ghosh78@gmail.com,+91 7016505659,gaurav.ghosh@okhdfcbank,BookMyShow,XX1033,ICIC0001708,14193.74,Entertainment
+79d03f85-56d7-43a3-8915-879769505326,2024-06-29 19:03:00,Vikram Verma,vikram.verma702@gmail.com,+91 9779963276,vikram.verma@ybl,HP Petrol Pump,XX8295,HDFC0008047,15784.71,Transportation
+58895863-b8a5-40cf-8ed7-f6f0a92cc415,2024-06-29 19:53:00,Swati Rohan Trivedi,swati.trivedi973@gmail.com,+91 9697941200,swati.trivedi@apl,Airtel Broadband,XX2609,ICIC0002447,1884.46,Utilities
+ffbc0d00-2b96-4f1b-85a8-feff82f2f7c9,2024-06-29 20:41:00,Meera Gaurav Trivedi,meera.trivedi560@gmail.com,+91 7011380221,meera.trivedi@oksbi,Zomato Online,XX8419,ICIC0009267,5042.28,Food & Dining
+a7cfb744-5c8d-49a6-bf67-5063d6047135,2024-06-29 21:13:00,Sneha Shah,sneha.shah380@gmail.com,+91 9669265638,sneha.shah@ybl,Starbucks India,XX7870,ICIC0001397,1537.47,Food & Dining
+af68e9e6-6169-4433-8a97-fcb3b1c7fda8,2024-06-29 21:53:00,Sneha Deepa Iyer,sneha.iyer63@gmail.com,+91 9652314549,sneha.iyer@okhdfcbank,Flipkart Internet,XX6470,KKBK0008057,16288.91,Shopping
+07ee951a-b78d-42f9-9111-c5fd632d7b13,2024-06-29 22:42:00,Bhavna Karan Singh,bhavna.singh521@gmail.com,+91 8861940566,bhavna.singh@okaxis,Swiggy Delivery,XX4729,KKBK0009047,16566.08,Food & Dining
+c1cfaffa-ec1d-48c2-89c5-5f646e77f195,2024-06-29 23:23:00,Pranav Arjun Singh,pranav.singh713@gmail.com,+91 8839921599,pranav.singh@apl,Reliance Fresh,XX7253,KKBK0001695,4181.78,Groceries
+d6e9c442-53a4-45e8-bf44-2153b5a3caca,2024-06-30 00:17:00,Meera Swati Joshi,meera.joshi680@gmail.com,+91 9159361190,meera.joshi@okhdfcbank,MakeMyTrip Travels,XX6935,SBIN0009040,7883.48,Travel
+3538a22e-bb02-409a-9573-5f85e79b07d4,2024-06-30 00:46:00,Rahul Menon,rahul.menon903@gmail.com,+91 7078571436,rahul.menon@oksbi,MakeMyTrip Travels,XX6966,UTIB0005083,6813.56,Travel
+e5ec028f-967f-4c0a-ae6b-c1a747917e5e,2024-06-30 01:32:00,Kavita Neha Ghosh,kavita.ghosh909@gmail.com,+91 7058596380,kavita.ghosh@ybl,MakeMyTrip Travels,XX9160,ICIC0004744,1941.68,Travel
+c992e4bc-364b-4ec7-81d0-07733e186237,2024-06-30 02:23:00,Karan Singh,karan.singh535@gmail.com,+91 7088447471,karan.singh@ybl,Amazon Pay India,XX2450,SBIN0003605,8917.87,Shopping
+295cbf89-462e-489b-870c-a5530fe6e482,2024-06-30 03:07:00,Arjun Alok Dubey,arjun.dubey758@gmail.com,+91 7098058046,arjun.dubey@paytm,Uber India,XX0519,ICIC0005512,15878.98,Transportation
+a8743be5-d097-4c13-834c-c4e237314b46,2024-06-30 03:52:00,Divya Rajesh Sharma,divya.sharma898@gmail.com,+91 9697470440,divya.sharma@okhdfcbank,BookMyShow,XX6465,HDFC0001002,6562.17,Entertainment
+55602529-9b45-4fb6-83c2-dd884dd3df13,2024-06-30 04:33:00,Harsh Mehta,harsh.mehta460@gmail.com,+91 9616281117,harsh.mehta@okhdfcbank,Starbucks India,XX4386,KKBK0009218,1298.95,Food & Dining
+8973bc6c-d669-4a4e-bd43-dc1217ffa3a4,2024-06-30 05:12:00,Ananya Suresh Trivedi,ananya.trivedi557@gmail.com,+91 9836202279,ananya.trivedi@okicici,BookMyShow,XX8949,ICIC0008756,14826.92,Entertainment
+c1b88a61-e288-4f9a-9de3-2b032a1ffc95,2024-06-30 05:56:00,Neha Priya Reddy,neha.reddy933@gmail.com,+91 9651971760,neha.reddy@okicici,BookMyShow,XX3310,ICIC0004652,10294.70,Entertainment
+2c6c48ee-c8a5-42ab-a962-e3a61cbb0894,2024-06-30 06:33:00,Pranav Tanvi Chatterjee,pranav.chatterjee397@gmail.com,+91 7060231696,pranav.chatterjee@okicici,Swiggy Delivery,XX5631,KKBK0009773,17096.62,Food & Dining
+c2927b8b-f2cb-4397-b5a0-eb2583367677,2024-06-30 07:19:00,Arjun Nair,arjun.nair73@gmail.com,+91 9860006889,arjun.nair@ybl,HP Petrol Pump,XX7864,ICIC0008091,14412.56,Transportation
+274acfd0-39e5-46b0-93f1-f46cc59bfc9a,2024-06-30 08:11:00,Rahul Pooja Agarwal,rahul.agarwal24@gmail.com,+91 9770005818,rahul.agarwal@okhdfcbank,Flipkart Internet,XX9349,UTIB0007607,9467.98,Shopping
+8d4c1812-d474-476d-9b8d-9c9b4e9da090,2024-06-30 08:43:00,Priya Iyer,priya.iyer951@gmail.com,+91 9885169899,priya.iyer@apl,Flipkart Internet,XX9914,HDFC0006127,13491.67,Shopping
+a62b9e42-b3f0-45c8-9c88-33410511478c,2024-06-30 09:28:00,Deepa Dubey,deepa.dubey300@gmail.com,+91 9665659256,deepa.dubey@oksbi,Starbucks India,XX8585,ICIC0002581,5333.10,Food & Dining
+79174fd1-0345-47e0-b411-f0cad2923c2c,2024-06-30 10:05:00,Rajesh Suresh Menon,rajesh.menon873@gmail.com,+91 8833568616,rajesh.menon@oksbi,HP Petrol Pump,XX1115,KKBK0001910,15220.32,Transportation
+da012037-fc3d-42fb-80ba-2880bc2f6af9,2024-06-30 11:05:00,Suresh Gaurav Pillai,suresh.pillai359@gmail.com,+91 9867829936,suresh.pillai@apl,Amazon Pay India,XX0239,SBIN0003201,14909.87,Shopping
+5cea917e-5e81-4626-a246-3f2780cfc1b2,2024-06-30 11:32:00,Rajesh Arjun Shah,rajesh.shah139@gmail.com,+91 8856717280,rajesh.shah@oksbi,HP Petrol Pump,XX3479,ICIC0008101,15636.67,Transportation
+4c879b78-dd52-488d-9d80-b9fcd3082294,2024-06-30 12:28:00,Manoj Mishra,manoj.mishra231@gmail.com,+91 8834258202,manoj.mishra@okicici,Reliance Fresh,XX3898,HDFC0005153,12577.44,Groceries
+052790e4-e593-40a8-9e09-bdc7e6671f6d,2024-06-30 13:07:00,Neha Pooja Iyer,neha.iyer671@gmail.com,+91 9730976318,neha.iyer@okaxis,Airtel Broadband,XX4596,UTIB0008031,8456.55,Utilities
+63c7d69e-56b0-4647-8905-6a5b57e88da9,2024-06-30 13:52:00,Sanjay Arjun Shah,sanjay.shah933@gmail.com,+91 9176607527,sanjay.shah@oksbi,Tata Power,XX1382,HDFC0009172,11118.84,Utilities
+0b5d35fd-adfc-48a2-b24e-b6defb807639,2024-06-30 14:37:00,Rajesh Joshi,rajesh.joshi148@gmail.com,+91 9610908300,rajesh.joshi@okicici,Starbucks India,XX3684,UTIB0003230,7775.99,Food & Dining
+020172a0-beec-48c7-99a5-68c9344e0bd8,2024-06-30 15:19:00,Pooja Divya Verma,pooja.verma575@gmail.com,+91 9694374605,pooja.verma@apl,Airtel Broadband,XX3146,SBIN0002307,9734.04,Utilities
+693bf98f-8bbf-4000-9e3f-8706e6f87b52,2024-06-30 16:05:00,Vikram Kavita Nair,vikram.nair525@gmail.com,+91 9755868421,vikram.nair@ybl,Tata Power,XX5617,HDFC0005562,17466.22,Utilities
+66f42728-92f1-4b6b-a7cc-71bd312f1173,2024-06-30 16:35:00,Pooja Pooja Ghosh,pooja.ghosh496@gmail.com,+91 9792858314,pooja.ghosh@paytm,Reliance Fresh,XX6249,KKBK0001353,13646.03,Groceries
+f6021ac6-2c6a-423d-afb7-b2a51b57330d,2024-06-30 17:25:00,Priya Singh,priya.singh283@gmail.com,+91 9129074864,priya.singh@ybl,Cult.Fit Gym,XX4660,UTIB0002248,3690.15,Healthcare
+fae5aa5c-1c4e-42eb-b4b9-9920100aedf3,2024-06-30 18:06:00,Neha Karan Pillai,neha.pillai11@gmail.com,+91 9899619369,neha.pillai@paytm,Flipkart Internet,XX7267,HDFC0007343,17612.92,Shopping
+137203b2-b871-4c0d-84fd-2252c6883402,2024-06-30 18:53:00,Meera Banerjee,meera.banerjee280@gmail.com,+91 7027933045,meera.banerjee@ybl,Flipkart Internet,XX4022,HDFC0004592,8141.78,Shopping
+35d63fe5-5139-4b10-b05f-fa7b8a076263,2024-06-30 19:28:00,Kavita Ananya Shah,kavita.shah558@gmail.com,+91 7052907220,kavita.shah@apl,HP Petrol Pump,XX6262,KKBK0005887,12423.10,Transportation
+478535df-3f96-46aa-ac4d-b0897ea466e8,2024-06-30 20:08:00,Sanjay Gokhale,sanjay.gokhale775@gmail.com,+91 9156852200,sanjay.gokhale@oksbi,Zomato Online,XX8768,KKBK0004247,17161.23,Food & Dining
+17c41a67-a5c4-4ef4-8e54-459ef797f31a,2024-06-30 20:48:00,Rajesh Shah,rajesh.shah975@gmail.com,+91 9832270634,rajesh.shah@okicici,Tata Power,XX9613,ICIC0009515,16570.23,Utilities
+ea93de79-95b7-4d85-9114-0809432f8582,2024-06-30 21:32:00,Manoj Karan Shah,manoj.shah747@gmail.com,+91 9830847169,manoj.shah@paytm,Zara Fashion,XX2657,KKBK0004297,9663.62,Shopping
+54ddec58-4300-4000-9e0e-e07818c32213,2024-06-30 22:22:00,Shreya Aarti Joshi,shreya.joshi830@gmail.com,+91 9722082719,shreya.joshi@oksbi,Apollo Pharmacy,XX3871,KKBK0001287,863.33,Healthcare
+12dcb1ea-f348-4d2d-99b2-131eddf3a5a1,2024-06-30 23:13:00,Swati Ananya Deshmukh,swati.deshmukh478@gmail.com,+91 9878841062,swati.deshmukh@okaxis,Apollo Pharmacy,XX5009,KKBK0008532,3257.53,Healthcare
+abba8ca5-db95-41f8-9cac-896c33ba5541,2024-06-30 23:51:00,Gaurav Gaurav Malhotra,gaurav.malhotra808@gmail.com,+91 7012943511,gaurav.malhotra@oksbi,Uber India,XX6684,ICIC0002595,5469.29,Transportation
+e8573fae-fa43-4b38-9083-7f23e6b55fbb,2024-07-01 00:27:00,Ritu Rajesh Hegde,ritu.hegde361@gmail.com,+91 9659503523,ritu.hegde@oksbi,Cult.Fit Gym,XX1621,KKBK0001894,6660.14,Healthcare
+e311fbe2-b195-4103-944e-7fb94bdd4af4,2024-07-01 01:07:00,Divya Alok Chatterjee,divya.chatterjee253@gmail.com,+91 9135077805,divya.chatterjee@apl,Zomato Online,XX9375,UTIB0009803,7546.06,Food & Dining
+703df058-e665-431e-94cd-60a06f973b38,2024-07-01 01:50:00,Arjun Ashok Gokhale,arjun.gokhale607@gmail.com,+91 8858293648,arjun.gokhale@okhdfcbank,Zomato Online,XX4431,ICIC0007891,3405.04,Food & Dining
+d2670c48-96b3-40c2-8979-5c5667a4ab19,2024-07-01 02:40:00,Sanjay Alok Hegde,sanjay.hegde168@gmail.com,+91 9664856255,sanjay.hegde@ybl,MakeMyTrip Travels,XX7332,SBIN0007670,4987.57,Travel
+44a3d434-dce1-4b86-bf47-6dd34190d216,2024-07-01 03:16:00,Harsh Karan Patel,harsh.patel226@gmail.com,+91 8849883361,harsh.patel@oksbi,Apollo Pharmacy,XX5910,UTIB0008082,17868.55,Healthcare
+9b9e5a03-a3af-4be3-933a-aca1b7563146,2024-07-01 04:07:00,Alok Neha Sharma,alok.sharma71@gmail.com,+91 9776400084,alok.sharma@okaxis,Uber India,XX1372,HDFC0005938,9584.05,Transportation
+a7069ad3-053c-438a-9356-373b018e4c94,2024-07-01 04:52:00,Harsh Dubey,harsh.dubey861@gmail.com,+91 7048785400,harsh.dubey@okaxis,MakeMyTrip Travels,XX8954,HDFC0004639,5523.29,Travel

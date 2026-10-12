@@ -24,44 +24,51 @@ To comprehensively test ComplyDP, we extracted all **1,500 edge cases** from the
 
 ```text
 complydp-edgecase-testbed/
-├── README.md                              # This detailed audit report & directory guide
-├── EVALUATION_SCORECARD_TEMPLATE.md       # Master rubric for logging scan results
-├── data_manager.py                        # Active SQLite database manager (sqlite3 CRUD across 15 domains)
-├── transactions.csv                       # Active transaction dataset with Indian names & collision traps
-├── sms_parser.py                          # SMS regex extractors & sanitization regexes (re.sub)
-├── dataset_generator.py                   # Mock category tags & government merchant lists
-├── onboarding_flow.py                     # Static onboarding text ("Complete KYC with Aadhaar and PAN")
-├── health_service.py                      # Patient health records & ABHA surname collision traps
-├── government_registry.py                 # Aadhaar, PAN, Passport, ESIC, CKYC, Voter ID, Driving License
-├── biometric_auth.py                      # Facial vectors, iris scans, fingerprints, image hash traps
-├── education_portal.py                    # Student IDs, exam marks, GPA, academic transcript records
-├── geolocation_tracker.py                 # GPS coordinates, home/work addresses, public landmark traps
-├── user_profile_service.py                # Active user profile fields (name, age, income, risk profile)
-├── digital_telemetry_service.py           # IP address, cookie ID, device ID, advertising ID tracking
-├── communication_logger.py                # SMS bodies, chat messages, call logs, browsing history
+├── README.md                              # Repository overview, architecture, & audit results
+├── COMPLYDP_SYSTEM_PROBLEMS_AND_DEFECTS_REPORT.md # Ultra-detailed technical defects & root causes audit
+├── ENTERPRISE_200_CLEAN_PII_BENCHMARK.md  # Ground-truth taxonomy of 200 clean, distinct PII entities
 │
-├── suite_01_personal_identity.py          # 100 Test Cases: ID-001 to ID-100
-├── suite_02_government_ids.py             # 100 Test Cases: GOV-001 to GOV-100
-├── suite_03_contact_info.py               # 100 Test Cases: CON-001 to CON-100
-├── suite_04_demographics.py               # 100 Test Cases: DEM-001 to DEM-100
-├── suite_05_financial_info.py             # 100 Test Cases: FIN-001 to FIN-100
-├── suite_06_payments.py                   # 100 Test Cases: PAY-001 to PAY-100
-├── suite_07_auth_secrets.py               # 100 Test Cases: AUTH-001 to AUTH-100
-├── suite_08_digital_telemetry.py          # 100 Test Cases: DIG-001 to DIG-100
-├── suite_09_location_tracking.py          # 100 Test Cases: LOC-001 to LOC-100
-├── suite_10_biometric_data.py             # 100 Test Cases: BIO-001 to BIO-100
-├── suite_11_health_records.py             # 100 Test Cases: HLT-001 to HLT-100
-├── suite_12_employment_info.py            # 100 Test Cases: EMP-001 to EMP-100
-├── suite_13_education_records.py          # 100 Test Cases: EDU-001 to EDU-100
-├── suite_14_communications.py             # 100 Test Cases: COM-001 to COM-100
-├── suite_15_derived_attributes.py         # 100 Test Cases: DER-001 to DER-100
+├── database/                              # Production database schemas & active databases
+│   ├── enterprise_pii.db                  # Active SQLite database with 1,000 real records across 6 tables
+│   ├── enterprise_pii_catalog_200.py      # Schema & repository covering 200 distinct global PII entities
+│   ├── data_manager.py                    # Active SQLite CRUD manager across all 15 PII domains
+│   ├── models.py                          # Data models & dataclass structures
+│   └── schemas.sql                        # Production SQL DDL tables
 │
-├── master_catalog/
-│   ├── test_cases_master.json             # Full machine-readable database of all 1,500 test cases
-│   └── TEST_SUITE_1500_INDEX.md           # Breakdown of 15 domains & 10 scenario tiers
-└── audit_evidence/
-    ├── SMART_MONEY_AI_VERIFICATION_LOCATIONS.md # Verification file paths & line numbers for Items 5–33
-    └── COMPLYDP_TESTBED_RUN_EVALUATION.md       # Audit breakdown of the 15 live scanned cards
+├── datasets/                              # Active enterprise datasets & real data files
+│   ├── enterprise_pii_records.csv         # 1,000 realistic rows covering all 200 primary PII fields
+│   ├── production_customers_payload.json  # 200 complete enterprise customer API payloads
+│   └── transactions.csv                   # 1,000 realistic financial transaction records (UPI, IFSC, Bank)
+│
+├── services/                              # Active production microservices processing real PII
+│   ├── real_pii_production_services.py    # Clean production ingestors for Aadhaar, PAN, Passport, DL
+│   ├── biometric_auth.py                  # Biometric vectors, minutiae templates, iris code handlers
+│   ├── health_service.py                  # Patient medical records, prescriptions, ICD-10 diagnosis
+│   ├── government_registry.py             # Statutory ID registries & validation handlers
+│   ├── user_profile_service.py            # User profile data, demographic parameters
+│   ├── geolocation_tracker.py             # GPS coordinates, spatial telemetry, route waypoints
+│   ├── digital_telemetry_service.py       # IP addresses, device IMEI, MAC address tracking
+│   ├── education_portal.py                # Student roll numbers, GPA, academic transcript records
+│   ├── communication_logger.py            # Message logs, telecommunication metadata
+│   └── sms_parser.py                      # Production SMS regex transaction parser
+│
+└── test_suites/                           # The 1,500 edge-case test suites (15 modules × 100 cases)
+    ├── test_cases_master.json             # Full machine-readable catalog of all 1,500 scenarios
+    ├── suite_01_personal_identity.py      # 100 Test Cases: ID-001 to ID-100
+    ├── suite_02_government_ids.py         # 100 Test Cases: GOV-001 to GOV-100
+    ├── suite_03_contact_info.py           # 100 Test Cases: CON-001 to CON-100
+    ├── suite_04_demographics.py           # 100 Test Cases: DEM-001 to DEM-100
+    ├── suite_05_financial_info.py         # 100 Test Cases: FIN-001 to FIN-100
+    ├── suite_06_payments.py               # 100 Test Cases: PAY-001 to PAY-100
+    ├── suite_07_auth_secrets.py           # 100 Test Cases: AUTH-001 to AUTH-100
+    ├── suite_08_digital_telemetry.py      # 100 Test Cases: DIG-001 to DIG-100
+    ├── suite_09_location_tracking.py      # 100 Test Cases: LOC-001 to LOC-100
+    ├── suite_10_biometric_data.py         # 100 Test Cases: BIO-001 to BIO-100
+    ├── suite_11_health_records.py         # 100 Test Cases: HLT-001 to HLT-100
+    ├── suite_12_employment_info.py        # 100 Test Cases: EMP-001 to EMP-100
+    ├── suite_13_education_records.py      # 100 Test Cases: EDU-001 to EDU-100
+    ├── suite_14_communications.py         # 100 Test Cases: COM-001 to COM-100
+    └── suite_15_derived_attributes.py     # 100 Test Cases: DER-001 to DER-100
 ```
 
 ---
